@@ -1,7 +1,8 @@
 import requests
 import json
-import time
+import re
 from datetime import datetime, timezone
+from urllib.parse import urlparse
 
 SOURCE_URL = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
 DEFAULT_LOGO = "https://cdn.pixabay.com/photo/2021/07/02/09/41/live-streaming-6366830_1280.png"
@@ -31,10 +32,15 @@ def get_stream_url(stream):
         stream.get("link") or ""
     )
 
-def make_id(name, stream_index):
-    import re
-    slug = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-') or "match"
-    return f"{slug}-s{stream_index + 1}" if stream_index > 0 else slug
+def make_slug(name):
+    return re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-') or "match"
+
+def make_id(name, stream_index, total_streams):
+    slug = make_slug(name)
+    # stream ১টাই থাকলে suffix নেই, একাধিক হলে -s1, -s2...
+    if total_streams == 1:
+        return slug
+    return f"{slug}-s{stream_index + 1}"
 
 def convert(data):
     matches = data.get("matches", [])
@@ -48,25 +54,34 @@ def convert(data):
         event_name = match.get("event_name") or match.get("title") or "Unknown"
         status = match.get("status", "UNKNOWN")
 
-        for si, stream in enumerate(streams):
-            stream_url = get_stream_url(stream)
-            if not stream_url:
-                continue
+        # valid stream গুলো আগে filter করো
+        valid_streams = []
+        for stream in streams:
+            url = get_stream_url(stream)
+            if url:
+                valid_streams.append(stream)
 
+        if not valid_streams:
+            continue
+
+        total = len(valid_streams)
+
+        for si, stream in enumerate(valid_streams):
+            stream_url = get_stream_url(stream)
             referer = stream.get("stream_referer") or stream.get("referer") or ""
             origin = ""
             if referer:
                 try:
-                    from urllib.parse import urlparse
-                    origin = f"{urlparse(referer).scheme}://{urlparse(referer).netloc}"
+                    parsed = urlparse(referer)
+                    origin = f"{parsed.scheme}://{parsed.netloc}"
                 except:
                     pass
 
-            stream_label = f" Stream {si + 1}" if len(streams) > 1 else ""
+            stream_label = f" Stream {si + 1}" if total > 1 else ""
             full_name = event_name + stream_label
 
             entry = {
-                "id": make_id(event_name, si),
+                "id": make_id(event_name, si, total),
                 "name": full_name,
                 "status": status,
                 "logo": DEFAULT_LOGO,
@@ -86,7 +101,7 @@ def main():
     print("🚀 Fetching source JSON...")
     data = fetch_source()
     if not data:
-        print("❌ Failed to fetch source. Exiting.")
+        print("❌ Failed. Exiting.")
         return
 
     print(f"✅ Got {len(data.get('matches', []))} matches")
