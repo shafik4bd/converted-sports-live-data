@@ -5,7 +5,7 @@ from datetime import datetime, timezone
 from urllib.parse import urlparse
 
 SOURCE_URL = "https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/refs/heads/main/Sports_data.json"
-DEFAULT_LOGO = "https://cdn.pixabay.com/photo/2021/07/02/09/41/live-streaming-6366830_1280.png"
+DEFAULT_LOGO = "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
