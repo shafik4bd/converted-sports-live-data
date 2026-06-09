@@ -2,7 +2,7 @@ name: Update Converted JSON
 
 on:
   schedule:
-    - cron: '*/20 * * * *'   # প্রতি ২০ মিনিটে
+    - cron: '0,20,40 * * * *'   # প্রতি ঘণ্টায় ০, ২০, ৪০ মিনিটে
   workflow_dispatch:
 
 jobs:
