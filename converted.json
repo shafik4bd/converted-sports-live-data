@@ -1,8 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T13:31:44Z",
-  "totalStreams": 15,
-  "liveCount": 15,
+  "lastUpdated": "2026-06-09T16:20:47Z",
+  "totalStreams": 19,
+  "liveCount": 19,
   "channels": [
+    {
+      "id": "slovenia-w-vs-germany-w-world-cup-women-qualification-europe-s1",
+      "name": "Slovenia W Vs Germany W | World Cup - Women - Qualification Europe Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781106421-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-fb9e1bc51afd42015fb4724f56e999d1",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "slovenia-w-vs-germany-w-world-cup-women-qualification-europe-s2",
+      "name": "Slovenia W Vs Germany W | World Cup - Women - Qualification Europe Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=8b25d11823c8c003e6bf8e48e847e403&x-time=1781020020",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "armenia-vs-moldova-friendlies-s1",
+      "name": "Armenia Vs Moldova | Friendlies Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781106411-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-82a402feb20d10c16ced88fdf403bf9f",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "armenia-vs-moldova-friendlies-s2",
+      "name": "Armenia Vs Moldova | Friendlies Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=801ff088c485f95452875ecd5d252248&x-time=1781019960",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "bangladesh-vs-australia",
+      "name": "Bangladesh Vs Australia",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/1080p.m3u8"
+    },
     {
       "id": "liege-red-lions-vs-akcel-united-brussels",
       "name": "Liege Red Lions Vs Akcel United Brussels",
@@ -18,18 +61,72 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/142994_english_hls_f304aa51ef86975_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "bangladesh-vs-australia",
-      "name": "Bangladesh Vs Australia",
+      "id": "day-2",
+      "name": "Day 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/142965_english_hls_38de70fdb210605_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "latvia-vs-faroe-islands-baltic-cup-s1",
+      "name": "Latvia Vs Faroe Islands | Baltic Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781106416-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-a8206aa1c05cf6e4a9ec06256810f84c",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "latvia-vs-faroe-islands-baltic-cup-s2",
+      "name": "Latvia Vs Faroe Islands | Baltic Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=dd6610d5c4c0a432cc96a77c51672311&x-time=1781019960",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "london-day-2-wta-500-s1",
+      "name": "London: Day 2 | Wta 500 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781106406-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-0e78ca996b00a37c824b33754327e54f",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "london-day-2-wta-500-s2",
+      "name": "London: Day 2 | Wta 500 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=ef76218cafd4c9d22a9d301fd29a2161&x-time=1781019960",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "day-2-boss-open-s1",
+      "name": "Day 2 | Boss Open Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781106400-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-e3ce3b27b2dccd1a248de4461744768d",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "day-2-boss-open-s2",
+      "name": "Day 2 | Boss Open Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=e4ad7165d7cce4bbc1f938c2a91b5f08&x-time=1781019960",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "court-2-sathio-group-australian-badminton-open-s1",
       "name": "Court 2 | Sathio Group Australian Badminton Open Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781097396-Kv4cPTAAP5YTi-cb671aeffe16465ed9993e036f9c2b454ac08b1a-378fa657de2d0c58f31cb31baa2cbef9",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781106395-Kv4cPTAAP5YTi-144a754847ee354834f32dddec57341fa2c099b6-9658c3bf2f9ca53c36b1ef3b596123b2",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -38,7 +135,7 @@
       "name": "Court 2 | Sathio Group Australian Badminton Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=cb671aeffe16465ed9993e036f9c2b454ac08b1a&x-sign=83296d9b140362663106a805e53029c5&x-time=1781010960",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=144a754847ee354834f32dddec57341fa2c099b6&x-sign=429726a3f0e170eee09e684fa4be95d1&x-time=1781019960",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -50,11 +147,11 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143350_english_hls_bc79d6d40f49864_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "day-2",
-      "name": "Day 2",
+      "id": "armenia-vs-moldova",
+      "name": "Armenia Vs Moldova",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143119_english_hls_1329becddb63658_1ta-di_h264/1080p.m3u8"
+      "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
     },
     {
       "id": "day-2",
@@ -62,67 +159,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143126_english_hls_b61605301b66122_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "id": "bangladesh-vs-australia",
-      "name": "Bangladesh Vs Australia",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
-    },
-    {
-      "id": "day-2-boss-open-s1",
-      "name": "Day 2 | Boss Open Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781097401-Kv4cPTAAP5YTi-cb671aeffe16465ed9993e036f9c2b454ac08b1a-17f2964ebcb14074aa96bc07dfcf6f91",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "day-2-boss-open-s2",
-      "name": "Day 2 | Boss Open Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=cb671aeffe16465ed9993e036f9c2b454ac08b1a&x-sign=18e21685758996d9bbe34d43a20f5cba&x-time=1781010960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "london-day-2-wta-500-s1",
-      "name": "London: Day 2 | Wta 500 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1781097406-Kv4cPTAAP5YTi-cb671aeffe16465ed9993e036f9c2b454ac08b1a-7e9b21c194958f0df99ce5d545b2facb",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "london-day-2-wta-500-s2",
-      "name": "London: Day 2 | Wta 500 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=cb671aeffe16465ed9993e036f9c2b454ac08b1a&x-sign=01937fce7382e77e5f6e8716b30b9199&x-time=1781010960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "es1-tour-auvergne-rh-ne-alpes-stage-3-uci-world-tour-s1",
-      "name": "Es1, Tour Auvergne-rhône-alpes, Stage 3 | Uci World Tour Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1781097411-Kv4cPTAAP5YTi-cb671aeffe16465ed9993e036f9c2b454ac08b1a-9d895851614a8d8102e1d6852b6928ad",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "es1-tour-auvergne-rh-ne-alpes-stage-3-uci-world-tour-s2",
-      "name": "Es1, Tour Auvergne-rhône-alpes, Stage 3 | Uci World Tour Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=cb671aeffe16465ed9993e036f9c2b454ac08b1a&x-sign=aab967612e4618c926000673b3eafdf0&x-time=1781010960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
     }
   ]
 }
