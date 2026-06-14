@@ -1,15 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T18:47:38Z",
-  "totalStreams": 32,
-  "liveCount": 30,
+  "lastUpdated": "2026-06-14T20:22:09Z",
+  "totalStreams": 34,
+  "liveCount": 32,
   "channels": [
-    {
-      "id": "india-w-vs-pakistan-w",
-      "name": "India_w Vs Pakistan_w",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-    },
     {
       "id": "west-indies-vs-sri-lanka",
       "name": "West Indies Vs Sri Lanka",
@@ -18,32 +11,56 @@
       "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
     },
     {
-      "id": "antwerp-anchors-vs-ghent-gladiators",
-      "name": "Antwerp Anchors Vs Ghent Gladiators",
+      "id": "india-w-vs-pakistan-w",
+      "name": "India_w Vs Pakistan_w",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8"
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
     },
     {
-      "id": "usa-vs-netherlands",
-      "name": "Usa Vs Netherlands",
+      "id": "malaga-vs-almeria-segunda-divisi-n-s1",
+      "name": "Malaga Vs Almeria | Segunda División Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/1080p.m3u8"
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781552832-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-f87ca6d1d038dc3868b4d180ebb11aa0",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "bangladesh-vs-australia",
-      "name": "Bangladesh Vs Australia",
+      "id": "malaga-vs-almeria-segunda-divisi-n-s2",
+      "name": "Malaga Vs Almeria | Segunda División Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=f80dcef69d8b4a4e0c98fe197eb027ac&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "eut20-belgium-2026-final-ghent-gladiators-vs-antwerp-anchors",
-      "name": "Eut20 Belgium 2026 - Final - Ghent Gladiators Vs Antwerp Anchors",
+      "id": "netherlands-vs-japan-world-cup-s1",
+      "name": "Netherlands Vs Japan | World Cup Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bf7weod43h/out/v1/99957b70d034421ba4694c1d3dd4d8bf/cenc.mpd"
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=33a46cd265b752192aab89c069f90baf&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "netherlands-vs-japan-world-cup-s2",
+      "name": "Netherlands Vs Japan | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781552854-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-50be4c1600fe4f652dd51e9d5bccb5d0",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "netherlands-vs-japan-world-cup-s3",
+      "name": "Netherlands Vs Japan | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544570/720p/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=8d33b82700b25355aaa886582c2e0124&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "germany-vs-cura-ao",
@@ -53,47 +70,34 @@
       "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
     },
     {
-      "id": "germany-vs-cura-ao-world-cup-s1",
-      "name": "Germany Vs Curaçao | World Cup Stream 1",
+      "id": "m-laga-vs-almer-a",
+      "name": "Málaga Vs Almería",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=897fa686296f19d7a8b211dc6863b9a9&x-time=1781460960",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549049~_GO=Generated~acl=/mumbai/143391_english_hls_c6f73481e98657_1ta-di_h264/*~Signature=ATZ0w6c1PVYYyJy3qaUBN9aD-VhuuvFOXvZXMa7RDJuIWzSMG3Gd1MtkbpkFQKtE8C3txfH4Pivm29K2RO3tTgsOUfYE"
+    },
+    {
+      "id": "day-4-marquee-group",
+      "name": "Day 4 Marquee Group",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781537405~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6d6D21Nusf2BY60EFiLJiZoElzOsvo-b6CGx7DcpliDokyIRz-muznDQvn6HiptWtHLrfId0kxIvNlntMpUpbEB"
+    },
+    {
+      "id": "racing-cordoba-vs-chaco-for-ever-primera-nacional-s1",
+      "name": "Racing Cordoba Vs Chaco For Ever | Primera Nacional Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=9927e825995492b2e2fc8cafdc1be27c&x-time=1781466420",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "germany-vs-cura-ao-world-cup-s2",
-      "name": "Germany Vs Curaçao | World Cup Stream 2",
+      "id": "racing-cordoba-vs-chaco-for-ever-primera-nacional-s2",
+      "name": "Racing Cordoba Vs Chaco For Ever | Primera Nacional Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781547395-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-90610371098c52caf295a5c4c9b36273",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "germany-vs-cura-ao-world-cup-s3",
-      "name": "Germany Vs Curaçao | World Cup Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=2afaecd21ffc52d17a765efeefcfdaa5&x-time=1781460960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "thor-akureyri-vs-ibv-vestmannaeyjar-rvalsdeild-s1",
-      "name": "Thor Akureyri Vs Ibv Vestmannaeyjar | Úrvalsdeild Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6e/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=fe609bcbcc144a1ee15f5298a22537ae&x-time=1781460960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "thor-akureyri-vs-ibv-vestmannaeyjar-rvalsdeild-s2",
-      "name": "Thor Akureyri Vs Ibv Vestmannaeyjar | Úrvalsdeild Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6e/chunks.m3u8?is_vip=false&token=1781547404-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-faa0724f8d61b87f33a436373ab1f947",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad14/chunks.m3u8?is_vip=false&token=1781552827-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-4b5104f5b6fc5d884b4a29d979f5e82d",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -102,7 +106,7 @@
       "name": "World Cup Of Darts | World Cup Of Darts Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=7d6b4964d788ffddc0f2243529d9504e&x-time=1781460960",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=1c8f8c808fd70d019ba4f77114433def&x-time=1781466360",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -111,70 +115,7 @@
       "name": "World Cup Of Darts | World Cup Of Darts Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781547409-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-89ea3410b0f96b6183bb6e8920ecd99b",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "world-cup-of-darts-world-cup-of-darts-s3",
-      "name": "World Cup Of Darts | World Cup Of Darts Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=3c98bc6161259749c08df09e1859b7b9&x-time=1781460960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "keflavik-vs-fh-hafnarfjordur-rvalsdeild-s1",
-      "name": "Keflavik Vs Fh Hafnarfjordur | Úrvalsdeild Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6f/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=c9a050bf96d919537b8a64f2b53770c9&x-time=1781460960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "keflavik-vs-fh-hafnarfjordur-rvalsdeild-s2",
-      "name": "Keflavik Vs Fh Hafnarfjordur | Úrvalsdeild Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6f/chunks.m3u8?is_vip=false&token=1781547415-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-abdab203fd1aee075889b1373a6df4e7",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "almirante-brown-vs-godoy-cruz-primera-nacional-s1",
-      "name": "Almirante Brown Vs Godoy Cruz | Primera Nacional Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=3858275a6b1dcb50050fba28390da005&x-time=1781460960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "almirante-brown-vs-godoy-cruz-primera-nacional-s2",
-      "name": "Almirante Brown Vs Godoy Cruz | Primera Nacional Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fec/chunks.m3u8?is_vip=false&token=1781547420-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-f92cfd74a41fadd3fa3443b525a56b4e",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "deportivo-madryn-vs-san-miguel-primera-nacional-s1",
-      "name": "Deportivo Madryn Vs San Miguel | Primera Nacional Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=bcfcd607f7ff37908375500f8cc3c3b9&x-time=1781461020",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "deportivo-madryn-vs-san-miguel-primera-nacional-s2",
-      "name": "Deportivo Madryn Vs San Miguel | Primera Nacional Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe9/chunks.m3u8?is_vip=false&token=1781547425-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-2b5fc3eef57363c873ef5c29c3763a81",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1781552799-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-41643fd0abd372d4574c3373ced3b2ac",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -183,7 +124,7 @@
       "name": "Defensores W Vs Atl. Andahuaylas W | Liga Women Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=5a10e4a4eee49a4b8785ad0d120a8150&x-time=1781461020",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=36cea34c65eaea6682a9ce8c70cebf59&x-time=1781466360",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -192,7 +133,79 @@
       "name": "Defensores W Vs Atl. Andahuaylas W | Liga Women Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781547430-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-efe149884e908ac5464a6dd41357b25c",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1e4e3d7ab2bf1edb56a422/chunks.m3u8?is_vip=false&token=1781552805-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-2d9fb907e7c6bdca11d8b66565d213ff",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "ferro-carril-oeste-vs-acassuso-primera-nacional-s1",
+      "name": "Ferro Carril Oeste Vs Acassuso | Primera Nacional Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=e395b6699daa60f5299ba3e0f2ffee23&x-time=1781466360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "ferro-carril-oeste-vs-acassuso-primera-nacional-s2",
+      "name": "Ferro Carril Oeste Vs Acassuso | Primera Nacional Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fe8/chunks.m3u8?is_vip=false&token=1781552811-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-de6983ea9a30b66d2bd75e12c5056942",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "liniers-vs-real-pilar-primera-b-metropolitana-s1",
+      "name": "Liniers Vs Real Pilar | Primera B Metropolitana Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=26df0942bffe1175da2f15b7cde24259&x-time=1781466360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "liniers-vs-real-pilar-primera-b-metropolitana-s2",
+      "name": "Liniers Vs Real Pilar | Primera B Metropolitana Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f655/chunks.m3u8?is_vip=false&token=1781552816-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-af7469073c05acd9e834e88d7b28254b",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "athletic-club-vs-goias-serie-b-s1",
+      "name": "Athletic Club Vs Goias | Serie B Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929949/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=b36a71d631c78389ca4dc4123dd35f7f&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "athletic-club-vs-goias-serie-b-s2",
+      "name": "Athletic Club Vs Goias | Serie B Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929949/chunks.m3u8?is_vip=false&token=1781552822-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-3be6ad26fffca01241bd1a593bccf523",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "paysandu-vs-inter-de-limeira-serie-c-s1",
+      "name": "Paysandu Vs Inter De Limeira | Serie C Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=a8dd58107dbc9a761aad5aa7000d65f3&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "paysandu-vs-inter-de-limeira-serie-c-s2",
+      "name": "Paysandu Vs Inter De Limeira | Serie C Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994d/chunks.m3u8?is_vip=false&token=1781552838-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-5b0f53435c01892d6a1eb8d7583f516c",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -204,57 +217,61 @@
       "link": "https://bd-mc-flive.fancode.com/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781542266~_GO=Generated~acl=/mumbai/143216_english_hls_c61867a9c562581_1ta-di_h264/*~Signature=ATZ0w6eLv0RzrBacNBPFEyvE4BHXPk_Hg_oPKWdTLdJI5WW43nyDbSTUQjvI1VTyqvRo8Ryu5q23XP0qPLLlJoZmU4gM"
     },
     {
-      "id": "day-4-marquee-group",
-      "name": "Day 4 Marquee Group",
+      "id": "ao-itabaiana-vs-ituano-serie-c-s1",
+      "name": "Ao Itabaiana Vs Ituano | Serie C Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781537405~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6d6D21Nusf2BY60EFiLJiZoElzOsvo-b6CGx7DcpliDokyIRz-muznDQvn6HiptWtHLrfId0kxIvNlntMpUpbEB"
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=999be5bc4f9ce984ac25f820f85c604d&x-time=1781466420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "day-4-featured-holes",
-      "name": "Day 4 Featured Holes",
+      "id": "ao-itabaiana-vs-ituano-serie-c-s2",
+      "name": "Ao Itabaiana Vs Ituano | Serie C Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8"
-    },
-    {
-      "id": "day-4-main-feed",
-      "name": "Day 4 Main Feed",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8"
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692994f/chunks.m3u8?is_vip=false&token=1781552849-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-44a33b9af5ad486ea9be6feb346c9ab1",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "day-4-featured-groups",
       "name": "Day 4 Featured Groups",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547969~_GO=Generated~acl=/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/*~Signature=ATZ0w6c31S7SvqM84CQmR3iHWjWTt1vzXNy3e5XMOnhITffqnnz3lYu6cc5Kwv3hJ4fOOtjiwo0kHBLwOiDuEMZPiZkC"
     },
     {
-      "id": "bulgaria-vs-serbia-volleyball-nations-league-s1",
-      "name": "Bulgaria Vs Serbia | Volleyball Nations League Stream 1",
+      "id": "day-4-main-feed",
+      "name": "Day 4 Main Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=ce93111e921e4b73ec1223ca463329de83b16782&x-sign=f3ec33a1ecc4ca8bf875ae157e7e55e3&x-time=1781461020",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781547970~_GO=Generated~acl=/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/*~Signature=ATZ0w6eyLn3oJH3hjdKb7TfeyyYLzpqWYLMAFIIG2mW6oR81oXw2qWgG5IGvwQIMcS6e-daROHBdzxC2Iaj30W9DcZ0P"
+    },
+    {
+      "id": "day-4-featured-holes",
+      "name": "Day 4 Featured Holes",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781549048~_GO=Generated~acl=/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/*~Signature=ATZ0w6dC_zAzqe2Tmb0bZgcgZtBFQbUUWtVnAqEHTUKEBX_dLQc6IP0U2CBLAEUN-5RtPrvkRbt7NrA6lwdxvKM3Ej8G"
+    },
+    {
+      "id": "deportivo-maipu-vs-tristan-suarez-primera-nacional-s1",
+      "name": "Deportivo Maipu Vs Tristan Suarez | Primera Nacional Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=70d693bf39767277d7994d9811c424884531022a&x-sign=74551f1bda2f646b7227ab26894179f3&x-time=1781466420",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "bulgaria-vs-serbia-volleyball-nations-league-s2",
-      "name": "Bulgaria Vs Serbia | Volleyball Nations League Stream 2",
+      "id": "deportivo-maipu-vs-tristan-suarez-primera-nacional-s2",
+      "name": "Deportivo Maipu Vs Tristan Suarez | Primera Nacional Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=1781547435-Kv4cPTAAP5YTi-ce93111e921e4b73ec1223ca463329de83b16782-b57ede816aadcc4453ffe0beaf783547",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e78/chunks.m3u8?is_vip=false&token=1781552843-Kv4cPTAAP5YTi-70d693bf39767277d7994d9811c424884531022a-64eacf18e8d52017eebcbce1c018a4fb",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "argentina-vs-algeria",
-      "name": "Argentina Vs Algeria",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd"
     },
     {
       "id": "india-vs-afghanistan",
@@ -262,6 +279,13 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd"
+    },
+    {
+      "id": "bangladesh-vs-australia",
+      "name": "Bangladesh Vs Australia",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
     }
   ]
 }
