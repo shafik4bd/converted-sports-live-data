@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-06-14T15:22:54Z",
-  "totalStreams": 36,
-  "liveCount": 33,
+  "lastUpdated": "2026-06-14T17:01:44Z",
+  "totalStreams": 25,
+  "liveCount": 22,
   "channels": [
+    {
+      "id": "eut20-belgium-2026-final-ghent-gladiators-vs-antwerp-anchors",
+      "name": "Eut20 Belgium 2026 - Final - Ghent Gladiators Vs Antwerp Anchors",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/bf7weod43h/out/v1/99957b70d034421ba4694c1d3dd4d8bf/cenc.mpd"
+    },
+    {
+      "id": "bangladesh-w-vs-netherlands-w",
+      "name": "Bangladesh_w Vs Netherlands_w",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+    },
     {
       "id": "india-vs-pakistan",
       "name": "India Vs. Pakistan",
@@ -18,18 +32,11 @@
       "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
     },
     {
-      "id": "australia-tour-of-bangladesh-2026-3rd-odi-bangladesh-vs-australia",
-      "name": "Australia Tour Of Bangladesh 2026 - 3rd Odi - Bangladesh Vs Australia",
+      "id": "usa-vs-netherlands",
+      "name": "Usa Vs Netherlands",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd"
-    },
-    {
-      "id": "bangladesh-w-vs-netherlands-w",
-      "name": "Bangladesh_w Vs Netherlands_w",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143199_english_hls_410aaaebd739315_1ta-di_h264/1080p.m3u8"
     },
     {
       "id": "antwerp-anchors-vs-ghent-gladiators",
@@ -39,214 +46,11 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143166_english_hls_1b49cfabd324203_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "race",
-      "name": "Race",
+      "id": "day-4-main-feed",
+      "name": "Day 4 Main Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/139456_english_dash_82436_1drmta-di_h264/index.mpd"
-    },
-    {
-      "id": "sk-la-vs-ki-klaksvik-meistaradeildin-s1",
-      "name": "Skála Vs Ki Klaksvik | Meistaradeildin Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299cd/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=16362a6d955b996aa8bf67599bb4be95&x-time=1781448420",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "sk-la-vs-ki-klaksvik-meistaradeildin-s2",
-      "name": "Skála Vs Ki Klaksvik | Meistaradeildin Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299cd/chunks.m3u8?is_vip=false&token=1781534836-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-4534b6bbdd88cf1dd5c1e4dffef25864",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "final-lib-ma-open-libema-open-s1",
-      "name": "Final: Libéma Open | Libema Open Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781534794-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-a4304054b0870e59c8f18b6fab2e2830",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "final-lib-ma-open-libema-open-s2",
-      "name": "Final: Libéma Open | Libema Open Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=ebfb5cdd290244ec2714e739e527de00&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "world-cup-of-darts-world-cup-of-darts-s1",
-      "name": "World Cup Of Darts | World Cup Of Darts Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781534799-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-0ea04bf283ce9b06741b63f708795e65",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "world-cup-of-darts-world-cup-of-darts-s2",
-      "name": "World Cup Of Darts | World Cup Of Darts Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=7c740af623f4fd633caba074bf311d41&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "london-day-7-wta-500-s1",
-      "name": "London: Day 7 | Wta 500 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781534805-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-5dd6e185078bca2391c1586e08d19134",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "london-day-7-wta-500-s2",
-      "name": "London: Day 7 | Wta 500 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=baaf94a7fdee6623f58ad5687222627b&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "barcelona-grand-prix-2026-formula-1-main-race-s1",
-      "name": "Barcelona Grand Prix 2026 | Formula 1 Main Race Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1375/720p/chunks.m3u8?is_vip=false&token=1781534810-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-01ddf3d453d56f6a3ff8ff6db3a14578",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "barcelona-grand-prix-2026-formula-1-main-race-s2",
-      "name": "Barcelona Grand Prix 2026 | Formula 1 Main Race Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1375/720p/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=e2343e75b38bcb07c21ae6b3d66ca485&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "barcelona-grand-prix-2026-formula-1-main-race-s3",
-      "name": "Barcelona Grand Prix 2026 | Formula 1 Main Race Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=a8b1d5dfc275796514a61a0d4aa9dd00&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "eidsvold-vs-levanger-2-division-group-2-s1",
-      "name": "Eidsvold Vs Levanger | 2. Division - Group 2 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adab/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=0f0101f2aaf439a927c22a799561ad51&x-time=1781448360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "eidsvold-vs-levanger-2-division-group-2-s2",
-      "name": "Eidsvold Vs Levanger | 2. Division - Group 2 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adab/chunks.m3u8?is_vip=false&token=1781534816-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-5e2f1a137ad42bd9ece5f4504f913da8",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "tour-auvergne-rh-ne-alpes-stage-8-uci-world-tour-s1",
-      "name": "Tour Auvergne-rhône-alpes, Stage 8 | Uci World Tour Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781534820-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-a2b9e0f88a6ca5d85c56c64b94f7f087",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "tour-auvergne-rh-ne-alpes-stage-8-uci-world-tour-s2",
-      "name": "Tour Auvergne-rhône-alpes, Stage 8 | Uci World Tour Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=12313efad73a202799ed0429893f6295&x-time=1781448420",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "boa-vs-uberaba-mineiro-2-s1",
-      "name": "Boa Vs Uberaba | Mineiro - 2 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291cb/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=17672fa324bbf90032ec2895c0dbd07b&x-time=1781448420",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "boa-vs-uberaba-mineiro-2-s2",
-      "name": "Boa Vs Uberaba | Mineiro - 2 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27183efbf7a5b2507291cb/chunks.m3u8?is_vip=false&token=1781534826-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-8770825af5990d64610142e2be539743",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "eb-streymur-vs-b68-meistaradeildin-s1",
-      "name": "Eb / Streymur Vs B68 | Meistaradeildin Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299cc/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=2f517e0a6301c1d37513e0cfdea649a5&x-time=1781448420",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "eb-streymur-vs-b68-meistaradeildin-s2",
-      "name": "Eb / Streymur Vs B68 | Meistaradeildin Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299cc/chunks.m3u8?is_vip=false&token=1781534831-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-03a08a25a2344f6f77da2ca0751fe34c",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "helges-vs-korsn-s-division-2-norra-svealand-s1",
-      "name": "Helges Vs Korsnäs | Division 2 - Norra Svealand Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299a3/chunks.m3u8?is_vip=false&token=8747eed937c74685b83589b0f77961153a09c9d4&x-sign=a3a7f03bd2b55d2c8810de6d6562bc3b&x-time=1781448420",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "helges-vs-korsn-s-division-2-norra-svealand-s2",
-      "name": "Helges Vs Korsnäs | Division 2 - Norra Svealand Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299a3/chunks.m3u8?is_vip=false&token=1781534842-Kv4cPTAAP5YTi-8747eed937c74685b83589b0f77961153a09c9d4-68a572dc9d239054240d426e019ead8f",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "race",
-      "name": "Race",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/139456_hindi_dash_76590_1drmta-di_h264/index.mpd"
-    },
-    {
-      "id": "final-center-court",
-      "name": "Final Center Court",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143131_english_hls_526d61351b83381_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8"
     },
     {
       "id": "day-4-featured-holes",
@@ -256,11 +60,20 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143219_english_hls_9fe6ba9fad66487_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "day-4-main-feed",
-      "name": "Day 4 Main Feed",
+      "id": "day-4-marquee-group",
+      "name": "Day 4 Marquee Group",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143217_english_hls_086e33988525101_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781537405~_GO=Generated~acl=/mumbai/143218_english_hls_b054b9a6c578261_1ta-di_h264/*~Signature=ATZ0w6d6D21Nusf2BY60EFiLJiZoElzOsvo-b6CGx7DcpliDokyIRz-muznDQvn6HiptWtHLrfId0kxIvNlntMpUpbEB"
+    },
+    {
+      "id": "world-cup-of-darts-world-cup-of-darts",
+      "name": "World Cup Of Darts | World Cup Of Darts",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=9fa5d244769c692718e8a9ec2d7a50a5&x-time=1781455620",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "day-4-featured-groups",
@@ -270,11 +83,103 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143220_english_hls_5d208434e556792_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "race",
-      "name": "Race",
+      "id": "thor-akureyri-vs-ibv-vestmannaeyjar-rvalsdeild-s1",
+      "name": "Thor Akureyri Vs Ibv Vestmannaeyjar | Úrvalsdeild Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/139456_tamil_dash_78098_1drmta-di_h264/index.mpd"
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6e/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=b9ed23f6bcbf5974cdc17793c9224b0a&x-time=1781455560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "thor-akureyri-vs-ibv-vestmannaeyjar-rvalsdeild-s2",
+      "name": "Thor Akureyri Vs Ibv Vestmannaeyjar | Úrvalsdeild Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e6e/chunks.m3u8?is_vip=false&token=1781542016-Kv4cPTAAP5YTi-cdd7f2aa361c5da28663424c3385d75ac9cb477b-20a25ec97a066b81e1bf1c130f125ca9",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "fci-levadia-ii-vs-viimsi-esiliiga-a-s1",
+      "name": "Fci Levadia Ii Vs Viimsi | Esiliiga A Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e67/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=9360a01eb9626acb6abf553dd18f2eb4&x-time=1781455560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "fci-levadia-ii-vs-viimsi-esiliiga-a-s2",
+      "name": "Fci Levadia Ii Vs Viimsi | Esiliiga A Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e67/chunks.m3u8?is_vip=false&token=1781542010-Kv4cPTAAP5YTi-cdd7f2aa361c5da28663424c3385d75ac9cb477b-aa8dc6852c5e3c60a6e25fe9546c0c53",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "gagra-vs-dinamo-tbilisi-erovnuli-liga-s1",
+      "name": "Gagra Vs Dinamo Tbilisi | Erovnuli Liga Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad6b/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=c69b19b82b19bd47a5a079543ebb35b2&x-time=1781455560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "gagra-vs-dinamo-tbilisi-erovnuli-liga-s2",
+      "name": "Gagra Vs Dinamo Tbilisi | Erovnuli Liga Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad6b/chunks.m3u8?is_vip=false&token=1781542005-Kv4cPTAAP5YTi-cdd7f2aa361c5da28663424c3385d75ac9cb477b-ace6c66e4865dcc821e6cf9af65b2729",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "khimik-dzerzhinsk-vs-izhevsk-second-league-group-4-s1",
+      "name": "Khimik Dzerzhinsk Vs Izhevsk | Second League - Group 4 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b9/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=a41c1b95d740908e207110da03597049&x-time=1781455560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "khimik-dzerzhinsk-vs-izhevsk-second-league-group-4-s2",
+      "name": "Khimik Dzerzhinsk Vs Izhevsk | Second League - Group 4 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b9/chunks.m3u8?is_vip=false&token=1781542000-Kv4cPTAAP5YTi-cdd7f2aa361c5da28663424c3385d75ac9cb477b-52820444443a5c73c31bdaa0c4ac8273",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "germany-vs-cura-ao-world-cup-s1",
+      "name": "Germany Vs Curaçao | World Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=e52f5195bcebe43cb14d2120b588e1c0&x-time=1781455620",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "germany-vs-cura-ao-world-cup-s2",
+      "name": "Germany Vs Curaçao | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781542021-Kv4cPTAAP5YTi-cdd7f2aa361c5da28663424c3385d75ac9cb477b-111ab657d91bd3f2ac7354e5e16a24e2",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "germany-vs-cura-ao-world-cup-s3",
+      "name": "Germany Vs Curaçao | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544566/720p/chunks.m3u8?is_vip=false&token=cdd7f2aa361c5da28663424c3385d75ac9cb477b&x-sign=da8a81e04a1b21b0449c2458a050e9f4&x-time=1781455620",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "west-indies-vs-sri-lanka",
@@ -284,18 +189,18 @@
       "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
     },
     {
-      "id": "india-vs-afghanistan",
-      "name": "India Vs Afghanistan",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd"
-    },
-    {
       "id": "argentina-vs-algeria",
       "name": "Argentina Vs Algeria",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd"
+    },
+    {
+      "id": "india-vs-afghanistan",
+      "name": "India Vs Afghanistan",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd"
     }
   ]
 }
