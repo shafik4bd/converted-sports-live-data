@@ -1,232 +1,87 @@
 {
-  "lastUpdated": "2026-06-15T18:16:55Z",
-  "totalStreams": 30,
-  "liveCount": 26,
+  "lastUpdated": "2026-06-15T21:28:07Z",
+  "totalStreams": 13,
+  "liveCount": 9,
   "channels": [
     {
-      "id": "spain-vs-cabo-verde",
-      "name": "Spain Vs Cabo Verde",
+      "id": "saudi-arabia-vs-uruguay",
+      "name": "Saudi Arabia Vs Uruguay",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
+    },
+    {
+      "id": "belgium-vs-egypt-world-cup-s1",
+      "name": "Belgium Vs Egypt | World Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781642811-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-cd3fc53a77d5072b8098bcbe159e136b",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "belgium-vs-egypt-world-cup-s2",
+      "name": "Belgium Vs Egypt | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=9c80f91c1299dab517b816d3e6c82778&x-time=1781556360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "belgium-vs-egypt-world-cup-s3",
+      "name": "Belgium Vs Egypt | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=a4333c9e5a551459dfcd314c27b54597&x-time=1781556360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "iran-vs-new-zealand",
+      "name": "Iran Vs New Zealand",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
+    },
+    {
+      "id": "belgium-vs-egypt",
+      "name": "Belgium Vs Egypt",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
     },
     {
-      "id": "nordic-smash-t20-cup-2026-3rd-match-gothenburg-phoenix-vs-vasteras-united",
-      "name": "Nordic Smash T20 Cup 2026 - 3rd Match - Gothenburg Phoenix Vs Vasteras United",
+      "id": "estudiantil-cni-vs-union-comercio-copa-de-la-liga-s1",
+      "name": "Estudiantil Cni Vs Union Comercio | Copa De La Liga Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/enjzeydd63/out/v1/d2a0df51b8ee4655bba3c2f42f661759/cenc.mpd"
-    },
-    {
-      "id": "jabalpur-royal-lions-vs-bhopal-leopards",
-      "name": "Jabalpur Royal Lions Vs Bhopal Leopards",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143086_english_hls_abff174e0741564_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781617446~_GO=Generated~acl=/mumbai/143086_english_hls_abff174e0741564_1ta-di_h264/*~Signature=ATZ0w6cmh_go07osPwl2em0rx_9WzSwWNMZc29wUwxPJIRUxV1fPMP0Z9IgV318SC4pnkFp1R0I_l3SkeXqBbcJzh4UL"
-    },
-    {
-      "id": "vasteras-united-vs-gothenburg-phoenix",
-      "name": "Vasteras United Vs Gothenburg Phoenix",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143177_english_hls_09792ffa0b26753_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781617447~_GO=Generated~acl=/mumbai/143177_english_hls_09792ffa0b26753_1ta-di_h264/*~Signature=ATZ0w6fId95yZ8N9FqfzpAQ5kcPp-OKChFhG41Po0M9y2QpIRYIejVQJotUg-Ejq93YGDgMS_PFhUsxub2jSaODQonEG"
-    },
-    {
-      "id": "spain-vs-cape-verde-islands-world-cup-s1",
-      "name": "Spain Vs Cape Verde Islands | World Cup Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781632015-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-de6bf686cb6f784c191bdf3620dbd86a",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=0c014de8abde4150180125e6e9139683&x-time=1781556360",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "spain-vs-cape-verde-islands-world-cup-s2",
-      "name": "Spain Vs Cape Verde Islands | World Cup Stream 2",
+      "id": "estudiantil-cni-vs-union-comercio-copa-de-la-liga-s2",
+      "name": "Estudiantil Cni Vs Union Comercio | Copa De La Liga Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=1f04a04b63deb9ea45b1bf07fcedecad&x-time=1781545560",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=1781642819-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-01cfae51bdd8adc2f6be9b95406dae7b",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "spain-vs-cape-verde-islands-world-cup-s3",
-      "name": "Spain Vs Cape Verde Islands | World Cup Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781632016-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-977bf9be7b9aada5644fe78f2e7f6476",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "andy-murray-arena-hsbc-championships-s1",
-      "name": "Andy Murray Arena | Hsbc Championships Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781632025-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-7b88bf43f49d9eac3448567478765064",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "andy-murray-arena-hsbc-championships-s2",
-      "name": "Andy Murray Arena | Hsbc Championships Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=b3a80ee0b4403d517e71b12c696aa98d&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "day-3-halle-germany-terra-wortmann-open",
-      "name": "Day 3: Halle Germany | Terra Wortmann Open",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=43f592e31142913bc05da5f64449722f&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "v-g-vs-stab-k-ii-3-division-girone-4-s1",
-      "name": "Våg Vs Stabæk Ii | 3. Division - Girone 4 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b8/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=a6df6045fbd126dd69842deaadbefeac&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "v-g-vs-stab-k-ii-3-division-girone-4-s2",
-      "name": "Våg Vs Stabæk Ii | 3. Division - Girone 4 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b8/chunks.m3u8?is_vip=false&token=1781632041-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-c96c57da8d9ad78b98c60c3b51f5c811",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "staal-j-rpeland-vs-odd-ii-3-division-girone-4-s1",
-      "name": "Staal Jørpeland Vs Odd Ii | 3. Division - Girone 4 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b9/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=f4ff0ffecaf41fd23b671c152e4e9403&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "staal-j-rpeland-vs-odd-ii-3-division-girone-4-s2",
-      "name": "Staal Jørpeland Vs Odd Ii | 3. Division - Girone 4 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b9/chunks.m3u8?is_vip=false&token=1781632047-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-03f55ea338ee7d3ecab1f97dd59aa1a0",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "fram-vs-lyn-ii-3-division-girone-6-s1",
-      "name": "Fram Vs Lyn Ii | 3. Division - Girone 6 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc3/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=d4cf17d0d5b3c8ee3318735a4d6fd7ba&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "fram-vs-lyn-ii-3-division-girone-6-s2",
-      "name": "Fram Vs Lyn Ii | 3. Division - Girone 6 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adc3/chunks.m3u8?is_vip=false&token=1781632035-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-a04f8404366e99997a016a0b53db7521",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "n-mme-kalju-ii-vs-n-mme-united-ii-esiliiga-a-s1",
-      "name": "Nõmme Kalju Ii Vs Nõmme United Ii | Esiliiga A Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929929/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=51ad12f415c37c65fbc3700acfa95748&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "n-mme-kalju-ii-vs-n-mme-united-ii-esiliiga-a-s2",
-      "name": "Nõmme Kalju Ii Vs Nõmme United Ii | Esiliiga A Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929929/chunks.m3u8?is_vip=false&token=1781632052-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-4d26f00188b3a15d3450282d3f29c2d0",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "sane-ii-vs-stord-3-division-girone-3-s1",
-      "name": "Åsane Ii Vs Stord | 3. Division - Girone 3 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b7/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=0f22d3d34ecacfef3939e972633f4dbe&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "sane-ii-vs-stord-3-division-girone-3-s2",
-      "name": "Åsane Ii Vs Stord | 3. Division - Girone 3 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625b7/chunks.m3u8?is_vip=false&token=1781632062-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-8d8b80f0dcf2add42076308fd7f6b4d3",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "day-1-court-1",
-      "name": "Day 1 Court 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143135_english_hls_a3b6f6ae5075013_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781625075~_GO=Generated~acl=/mumbai/143135_english_hls_a3b6f6ae5075013_1ta-di_h264/*~Signature=ATZ0w6eXd-Doafs6qXEFVnY2Ns3ko4hN_Sok9_oIzhdJZlaIX_vDMs2dy2YCUzdIuqD_ff-Pjul9L76pArxluX4o4hUH"
     },
     {
       "id": "day-1-world-feed",
       "name": "Day 1 World Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781619969~_GO=Generated~acl=/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/*~Signature=ATZ0w6eyuJPeqj5rM8k81te_mLR-ZDBMTqYx1hT_uDHmDJYczkOMSXtdAEVDs_N-pMzJCgFvfyNW6kKmoGP_W4mh7-kO"
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781634608~_GO=Generated~acl=/mumbai/143132_english_hls_1d6b72cbde60936_1ta-di_h264/*~Signature=ATZ0w6eq3bnJ25yqyGJqcBCUKcv5UbH4ejdVOUNzbIYAW3huFbTPOeFMz_f5D3UWWnAImgoLw0iobP3F52HRis97WEkN"
     },
     {
-      "id": "day-1-schauinsland-reisen-court",
-      "name": "Day 1 Schauinsland Reisen Court",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143253_english_hls_57515cc93926116_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781616372~_GO=Generated~acl=/mumbai/143253_english_hls_57515cc93926116_1ta-di_h264/*~Signature=ATZ0w6dKPlhhr9UDEikxEbEvKyIXIE3-0BAApOmgaTGzEVdL9NInJF7bJdHe94_5O6bVRP4zLOs4ITuKboQQOVermy0L"
-    },
-    {
-      "id": "day-1-world-feed",
-      "name": "Day 1 World Feed",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781616371~_GO=Generated~acl=/mumbai/143254_english_hls_c3b91c57a837215_1ta-di_h264/*~Signature=ATZ0w6fZWIZNevKtYqQ5jY7ZYMco4ITnl6gnZj30hYnPa9q8kOdH_Mc-hfC_nmBC8zOEO8Gk8thwOgA-r8CWyBK6aOkD"
-    },
-    {
-      "id": "gif-sundsvall-vs-osters-if-superettan-s1",
-      "name": "Gif Sundsvall Vs Osters If | Superettan Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929989/chunks.m3u8?is_vip=false&token=69d42228b22e958def269cf9bd2fbfeb14526fa5&x-sign=d3320d38bce888fb5713acde71107efb&x-time=1781545620",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "gif-sundsvall-vs-osters-if-superettan-s2",
-      "name": "Gif Sundsvall Vs Osters If | Superettan Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929989/chunks.m3u8?is_vip=false&token=1781632057-Kv4cPTAAP5YTi-69d42228b22e958def269cf9bd2fbfeb14526fa5-201176447ec2d4a72a62a2d594624017",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "sri-lanka-w-vs-new-zealand-w",
-      "name": "Sri Lanka_w Vs New Zealand_w",
+      "id": "india-vs-afghanistan",
+      "name": "India Vs Afghanistan",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd"
     },
     {
       "id": "bangladesh-vs-australia",
@@ -236,11 +91,11 @@
       "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
     },
     {
-      "id": "india-vs-afghanistan",
-      "name": "India Vs Afghanistan",
+      "id": "sri-lanka-w-vs-new-zealand-w",
+      "name": "Sri Lanka_w Vs New Zealand_w",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd"
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
     },
     {
       "id": "west-indies-vs-sri-lanka",
