@@ -1,71 +1,80 @@
 {
-  "lastUpdated": "2026-06-16T02:12:22Z",
-  "totalStreams": 18,
-  "liveCount": 14,
+  "lastUpdated": "2026-06-16T07:46:22Z",
+  "totalStreams": 16,
+  "liveCount": 13,
   "channels": [
     {
-      "id": "iran-vs-new-zealand-world-cup-s1",
-      "name": "Iran Vs New Zealand | World Cup Stream 1",
+      "id": "nordic-smash-t20-cup-2026-4th-match-stockholm-united-vs-gothenburg-phoenix",
+      "name": "Nordic Smash T20 Cup 2026 - 4th Match - Stockholm United Vs Gothenburg Phoenix",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1781660793-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-12f7893fa416e7b08a007a503f3703a8",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0kwstbuia9/out/v1/7becbdbfe8a1457e83b0fde4df437eed/cenc.mpd"
+    },
+    {
+      "id": "sri-lanka-w-vs-new-zealand-w",
+      "name": "Sri Lanka_w Vs New Zealand_w",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+    },
+    {
+      "id": "stockholm-united-vs-gothenburg-phoenix",
+      "name": "Stockholm United Vs Gothenburg Phoenix",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781595307~acl=/hls/*~hmac=4b54ebea6274d698e59a894b97fc206030d1c841a4735f61f6c010127edc8a8d"
+    },
+    {
+      "id": "court-3-sands-china-ltd-macau-open-s1",
+      "name": "Court 3 | Sands China Ltd Macau Open Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781680609-Kv4cPTAAP5YTi-c0f6f482c9fc250f3542b4749c20d2d5706eb34e-efa46d709c3e06a4fe791cece18b2226",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "iran-vs-new-zealand-world-cup-s2",
-      "name": "Iran Vs New Zealand | World Cup Stream 2",
+      "id": "court-3-sands-china-ltd-macau-open-s2",
+      "name": "Court 3 | Sands China Ltd Macau Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=33427ca81570ef786f4dd5d0c66e141c18013548&x-sign=32d04eb9381a810fe23f2b46d86b9a58&x-time=1781574360",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=c0f6f482c9fc250f3542b4749c20d2d5706eb34e&x-sign=bed6cc36827959cae0c5c6f4522ec577&x-time=1781594160",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "iran-vs-new-zealand-world-cup-s3",
-      "name": "Iran Vs New Zealand | World Cup Stream 3",
+      "id": "court-4-sands-china-ltd-macau-open-s1",
+      "name": "Court 4 | Sands China Ltd Macau Open Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781660793-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-d49165bd86858de96c6b1aacfad952fb",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1781680614-Kv4cPTAAP5YTi-c0f6f482c9fc250f3542b4749c20d2d5706eb34e-810effec98300562a7bfdcd7d13c02fa",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "iran-vs-new-zealand",
-      "name": "Iran Vs New Zealand",
+      "id": "court-4-sands-china-ltd-macau-open-s2",
+      "name": "Court 4 | Sands China Ltd Macau Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
-    },
-    {
-      "id": "saudi-arabia-vs-uruguay",
-      "name": "Saudi Arabia Vs Uruguay",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd"
-    },
-    {
-      "id": "belgium-vs-egypt",
-      "name": "Belgium Vs Egypt",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd"
-    },
-    {
-      "id": "criciuma-vs-ceara-serie-b-s1",
-      "name": "Criciuma Vs Ceara | Serie B Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929946/chunks.m3u8?is_vip=false&token=33427ca81570ef786f4dd5d0c66e141c18013548&x-sign=88201216241ec16315203cb8e081cd83&x-time=1781574360",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=c0f6f482c9fc250f3542b4749c20d2d5706eb34e&x-sign=3bd1f4a2f9213af935aefe5cd37837b6&x-time=1781594160",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
     {
-      "id": "criciuma-vs-ceara-serie-b-s2",
-      "name": "Criciuma Vs Ceara | Serie B Stream 2",
+      "id": "tohoku-rakuten-golden-eagles-vs-yomiuri-giants-npb-farm-leagues-s1",
+      "name": "Tohoku Rakuten Golden Eagles Vs Yomiuri Giants | Npb Farm Leagues Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929946/chunks.m3u8?is_vip=false&token=1781660801-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-8ed52cfa4648b9f6d726f6b2f87e23d5",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781680619-Kv4cPTAAP5YTi-c0f6f482c9fc250f3542b4749c20d2d5706eb34e-b5ba521f291d6bbf2d5a83c238e484ac",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "tohoku-rakuten-golden-eagles-vs-yomiuri-giants-npb-farm-leagues-s2",
+      "name": "Tohoku Rakuten Golden Eagles Vs Yomiuri Giants | Npb Farm Leagues Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=c0f6f482c9fc250f3542b4749c20d2d5706eb34e&x-sign=e2c8b9f8966b96e9c3be055212c80136&x-time=1781594220",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -74,7 +83,7 @@
       "name": "Court 2 | Sands China Ltd Macau Open Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781660810-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-ac98de4e548c71a38fa6496fb1324746",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781680604-Kv4cPTAAP5YTi-c0f6f482c9fc250f3542b4749c20d2d5706eb34e-50975e11574820019624276f860a9267",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -83,25 +92,7 @@
       "name": "Court 2 | Sands China Ltd Macau Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=33427ca81570ef786f4dd5d0c66e141c18013548&x-sign=cfc01df7155dfedeefec13b01e61d6dc&x-time=1781574360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "londrina-vs-avai-serie-b-s1",
-      "name": "Londrina Vs Avai | Serie B Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929942/chunks.m3u8?is_vip=false&token=33427ca81570ef786f4dd5d0c66e141c18013548&x-sign=302851ac4d82394af90c9ed68b4627ac&x-time=1781574360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "londrina-vs-avai-serie-b-s2",
-      "name": "Londrina Vs Avai | Serie B Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929942/chunks.m3u8?is_vip=false&token=1781660806-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-20bf2220459bc320567b1e6918a43abb",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=c0f6f482c9fc250f3542b4749c20d2d5706eb34e&x-sign=3bbc8c786a25e72958f40a7bad506cb9&x-time=1781594160",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -110,7 +101,7 @@
       "name": "Court 1 | Sands China Ltd Macau Open Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781660814-Kv4cPTAAP5YTi-33427ca81570ef786f4dd5d0c66e141c18013548-2de498d18ba6eee7b4755392109e80c1",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781680599-Kv4cPTAAP5YTi-c0f6f482c9fc250f3542b4749c20d2d5706eb34e-0b4dcb271e718ca0fd72ea0ba79bc2b8",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -119,16 +110,9 @@
       "name": "Court 1 | Sands China Ltd Macau Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=33427ca81570ef786f4dd5d0c66e141c18013548&x-sign=d979d869b3c3e4d30eafe6fd073e0fe5&x-time=1781574360",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=c0f6f482c9fc250f3542b4749c20d2d5706eb34e&x-sign=301f158690b8784c6cd525e4718ea13c&x-time=1781594160",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "sri-lanka-w-vs-new-zealand-w",
-      "name": "Sri Lanka_w Vs New Zealand_w",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
     },
     {
       "id": "bangladesh-vs-australia",
