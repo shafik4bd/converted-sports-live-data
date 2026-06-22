@@ -1,130 +1,69 @@
 {
-  "lastUpdated": "2026-06-21T23:20:26Z",
-  "totalStreams": 15,
-  "liveCount": 15,
+  "lastUpdated": "2026-06-22T02:07:50Z",
+  "totalStreams": 8,
+  "liveCount": 4,
   "channels": [
+    {
+      "id": "major-league-cricket-2026-7th-match-texas-super-kings-vs-mi-new-york",
+      "name": "Major League Cricket 2026 - 7th Match - Texas Super Kings Vs Mi New York",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f1nd6ahwnu/out/v1/c5b09285c1084bf984e616bedaa48f56/cenc.mpd"
+    },
+    {
+      "id": "new-zealand-vs-egypt-world-cup-s1",
+      "name": "New Zealand Vs Egypt | World Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782179193-Kv4cPTAAP5YTi-7abf161ff153af442e09b736e3c73633bf283391-c695d5dabc8e6574e492aede2acd7395",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "new-zealand-vs-egypt-world-cup-s2",
+      "name": "New Zealand Vs Egypt | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=5e164526e95f9cb6f0de23661e1104c8&x-time=1782092760",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "new-zealand-vs-egypt-world-cup-s3",
+      "name": "New Zealand Vs Egypt | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=7abf161ff153af442e09b736e3c73633bf283391&x-sign=2f7b0c456aa2051d0470f3306764b323&x-time=1782092760",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
     {
       "id": "west-indies-vs-sri-lanka",
       "name": "West Indies Vs Sri Lanka",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
     },
     {
-      "id": "major-league-cricket-2026-6th-match-seattle-orcas-vs-los-angeles-knight-riders",
-      "name": "Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders",
-      "status": "LIVE",
+      "id": "new-zealand-vs-egypt",
+      "name": "New Zealand Vs Egypt",
+      "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/twug1hauhn/out/v1/f779b08445434874bd16d7be36666eb9/cenc.mpd"
-    },
-    {
-      "id": "belgium-vs-iran",
-      "name": "Belgium Vs Iran",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd"
+      "link": "https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8"
     },
     {
       "id": "uruguay-vs-cabo-verde",
       "name": "Uruguay Vs Cabo Verde",
-      "status": "LIVE",
+      "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8"
     },
     {
-      "id": "new-zealand-vs-egypt",
-      "name": "New Zealand Vs Egypt",
-      "status": "LIVE",
+      "id": "belgium-vs-iran",
+      "name": "Belgium Vs Iran",
+      "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.wxinxi.com/live/86597104_okehlpipbdoz2lujaxkrvv9eylmlbduv.m3u8"
-    },
-    {
-      "id": "goias-vs-operario-pr-serie-b-s1",
-      "name": "Goias Vs Operario-pr | Serie B Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1144/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=edde1b139938977a28904a70fe2a3c48&x-time=1782081960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "goias-vs-operario-pr-serie-b-s2",
-      "name": "Goias Vs Operario-pr | Serie B Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a170dfe7f02ccc0bb9a1144/chunks.m3u8?is_vip=false&token=1782168401-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-e55099f725990a2753c17239e846a6b3",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "uruguay-vs-cape-verde-islands-world-cup-s1",
-      "name": "Uruguay Vs Cape Verde Islands | World Cup Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782168393-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-3c629245729e5e1ac9da9ab450db238d",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "uruguay-vs-cape-verde-islands-world-cup-s2",
-      "name": "Uruguay Vs Cape Verde Islands | World Cup Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=45fe0711b74122644eb7ccfc0bd44f77&x-time=1782081960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "uruguay-vs-cape-verde-islands-world-cup-s3",
-      "name": "Uruguay Vs Cape Verde Islands | World Cup Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=3177f8b83c0af65b35bf5f7a352d7b77&x-time=1782081960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "day-4",
-      "name": "Day 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782154265~_GO=Generated~acl=/mumbai/143296_english_hls_d8e484c0c070501_1ta-di_h264/*~Signature=Afto3p3_h7jOL2RoWWlPtX0qGMmyqdg485rgz6-jrw5klumscYQ7YjPfupxAgVvuG_AkM1Zo6ZZWG-seyNhFl2CpvY8E"
-    },
-    {
-      "id": "laguna-seca-trofeo-pirelli-race-2-ferrari-challenge-north-america-s1",
-      "name": "Laguna Seca - Trofeo Pirelli Race 2 | Ferrari Challenge North America Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1782168409-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-6898eda84796fa197ac90ae08e3f8335",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "laguna-seca-trofeo-pirelli-race-2-ferrari-challenge-north-america-s2",
-      "name": "Laguna Seca - Trofeo Pirelli Race 2 | Ferrari Challenge North America Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=fb068b13e400fb2f66507a9f149a8334&x-time=1782081960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "laguna-seca-coppa-shell-race-2-ferrari-challenge-north-america-s1",
-      "name": "Laguna Seca - Coppa Shell Race 2 | Ferrari Challenge North America Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1782168405-Kv4cPTAAP5YTi-ac8c58a93f1829bef0b64189696adb32f891fa3d-5e6c976321a98080ae0710aef167d0d5",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "laguna-seca-coppa-shell-race-2-ferrari-challenge-north-america-s2",
-      "name": "Laguna Seca - Coppa Shell Race 2 | Ferrari Challenge North America Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=ac8c58a93f1829bef0b64189696adb32f891fa3d&x-sign=be8cdc36065f73c8872310b9e7a660fa&x-time=1782081960",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd"
     }
   ]
 }
