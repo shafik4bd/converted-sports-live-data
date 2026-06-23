@@ -1,21 +1,41 @@
 {
-  "lastUpdated": "2026-06-23T19:10:40Z",
+  "lastUpdated": "2026-06-23T21:09:10Z",
   "totalStreams": 12,
   "liveCount": 12,
   "channels": [
-    {
-      "id": "west-indies-vs-sri-lanka",
-      "name": "West Indies Vs Sri Lanka",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-    },
     {
       "id": "australia-vs-pakistan",
       "name": "Australia Vs. Pakistan",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qenpqlylc3/out/v1/ba702c33f21f472387054c0fc6680ed2/cenc.mpd"
+    },
+    {
+      "id": "england-vs-ghana-world-cup-s1",
+      "name": "England Vs Ghana | World Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782333997-Kv4cPTAAP5YTi-89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41-19fe940b93468073b367aad58c348b4e",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "england-vs-ghana-world-cup-s2",
+      "name": "England Vs Ghana | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41&x-sign=2140eb835492abe75a58d1fd98f06732&x-time=1782247560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "england-vs-ghana-world-cup-s3",
+      "name": "England Vs Ghana | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41&x-sign=1282a17223b7eedd6b6c05c1e4c0ffb6&x-time=1782247560",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "women-s-t20",
@@ -32,38 +52,18 @@
       "link": "https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd"
     },
     {
-      "id": "portugal-vs-uzbekistan-world-cup-s1",
-      "name": "Portugal Vs Uzbekistan | World Cup Stream 1",
+      "id": "west-indies-vs-sri-lanka",
+      "name": "West Indies Vs Sri Lanka",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782326802-Kv4cPTAAP5YTi-cd064b5126e7737c824c6f5299b1b938af9f1a48-c2ce4c5f5d721325b23a27497348e7ec",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "portugal-vs-uzbekistan-world-cup-s2",
-      "name": "Portugal Vs Uzbekistan | World Cup Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=cd064b5126e7737c824c6f5299b1b938af9f1a48&x-sign=03830da291c1816c8600e4e15a34c154&x-time=1782240360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "portugal-vs-uzbekistan-world-cup-s3",
-      "name": "Portugal Vs Uzbekistan | World Cup Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=cd064b5126e7737c824c6f5299b1b938af9f1a48&x-sign=30559eb7a74e4deecffd120e702f6173&x-time=1782240360",
-      "referer": "https://iframe.rumsport10.live/",
-      "origin": "https://iframe.rumsport10.live"
+      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
     },
     {
       "id": "paris-vs-monaco-lnb-pro-a-s1",
       "name": "Paris Vs Monaco | Lnb Pro A Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=cd064b5126e7737c824c6f5299b1b938af9f1a48&x-sign=01b7f0a7852f9578a762a131960a5342&x-time=1782240360",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41&x-sign=672a23b2c1e88aa43d0fe5544f45a5ea&x-time=1782247560",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -72,7 +72,16 @@
       "name": "Paris Vs Monaco | Lnb Pro A Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782326817-Kv4cPTAAP5YTi-cd064b5126e7737c824c6f5299b1b938af9f1a48-b1e2ea40f55d571e2c854f75ce69a14a",
+      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68897/720p/chunks.m3u8?is_vip=false&token=1782334012-Kv4cPTAAP5YTi-89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41-3e0482c6c57b0988a4f14387eff4da53",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "houston-astros-vs-toronto-blue-jays-mlb",
+      "name": "Houston Astros Vs Toronto Blue Jays | Mlb",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41&x-sign=20d2c87c93151d0402f4ff543cdb43c1&x-time=1782247560",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -81,7 +90,7 @@
       "name": "Day 3 | Bad Homburg Open Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782326811-Kv4cPTAAP5YTi-cd064b5126e7737c824c6f5299b1b938af9f1a48-75fd0715afcf79f476d2b5e40f7826ab",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782334006-Kv4cPTAAP5YTi-89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41-9bdd3cb6238cdc9cdcebd661d2a056b2",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -90,16 +99,9 @@
       "name": "Day 3 | Bad Homburg Open Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=cd064b5126e7737c824c6f5299b1b938af9f1a48&x-sign=b450388a7074a832dd664b660e4cbb7b&x-time=1782240360",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=89978f3ad50cc9b166224fa3ae9bd5c5c3c5cd41&x-sign=2bb78b4946c8bfabc5f418a289b7e22b&x-time=1782247560",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
-    },
-    {
-      "id": "day-2",
-      "name": "Day 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782317524~_GO=Generated~acl=/mumbai/143278_english_hls_14e6d5f7d97697_1ta-di_h264/*~Signature=Afto3p2G-tws8j80k431jXnBnWy5yMxM_74J2sOekDT3JzMuhZouCnVuse_FZs0NdL-m2TNinAnEiqAA_CWityZh1IoA"
     }
   ]
 }
