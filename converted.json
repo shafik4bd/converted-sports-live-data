@@ -1,14 +1,61 @@
 {
-  "lastUpdated": "2026-06-24T18:22:08Z",
-  "totalStreams": 11,
-  "liveCount": 11,
+  "lastUpdated": "2026-06-24T20:22:26Z",
+  "totalStreams": 18,
+  "liveCount": 18,
   "channels": [
     {
-      "id": "west-indies-vs-sri-lanka",
-      "name": "West Indies Vs Sri Lanka",
+      "id": "switzerland-vs-canada-world-cup-s1",
+      "name": "Switzerland Vs Canada | World Cup Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1782416799-Kv4cPTAAP5YTi-52788be6015cfe1c911e6853ab22dc4e1e2b7dee-6c6d02e250dfc996e51351905cf0ec95",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "switzerland-vs-canada-world-cup-s2",
+      "name": "Switzerland Vs Canada | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=5f9eccb886bf95eb6bd8d1097d7980fc&x-time=1782330360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "switzerland-vs-canada-world-cup-s3",
+      "name": "Switzerland Vs Canada | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=c7046b2b51942a12d6e276f7dfa293c8&x-time=1782330360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "bosnia-herzegovina-vs-qatar-world-cup-s1",
+      "name": "Bosnia & Herzegovina Vs Qatar | World Cup Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782416809-Kv4cPTAAP5YTi-52788be6015cfe1c911e6853ab22dc4e1e2b7dee-b6a5dd44a06addc7296af82a7809db1f",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "bosnia-herzegovina-vs-qatar-world-cup-s2",
+      "name": "Bosnia & Herzegovina Vs Qatar | World Cup Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=99389ada01b092021611357d9b02fd68&x-time=1782330360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "bosnia-herzegovina-vs-qatar-world-cup-s3",
+      "name": "Bosnia & Herzegovina Vs Qatar | World Cup Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1c53fc9b944bf884932e41/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=58d2a1d8384ceb75d3f1920af7e7942f&x-time=1782330360",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
     },
     {
       "id": "england-vs-west-indies",
@@ -18,25 +65,18 @@
       "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd"
     },
     {
+      "id": "west-indies-vs-sri-lanka",
+      "name": "West Indies Vs Sri Lanka",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+    },
+    {
       "id": "women-s-t20",
       "name": "Women's T20",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-    },
-    {
-      "id": "shivamogga-yodhas-vs-hubli-tigers",
-      "name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_english_hls_7c1d8217a985311_1ta-di_h264/*~Signature=ARZJ1WKKKM9nhxJGAFl2tanJ5VfxcyW4cdZF0qLhD1PalmwTIT20YCZd2hYFwt9lIVbwI_gCKYzSElBXuOKHklE9VkUN"
-    },
-    {
-      "id": "shivamogga-yodhas-vs-hubli-tigers",
-      "name": "Shivamogga Yodhas Vs Hubli Tigers",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782408365~_GO=Generated~acl=/mumbai/143424_kannada_hls_7cbd6b638824995_1ta-di_h264/*~Signature=ARZJ1WKPH_MZ3zcJ1atRi_xTvgVDfwP3sx98FWmECbv6MS6D6nzALC1W0N4rLBH7NWFTQLVboo9uKsUf5pCM2K77m5QP"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
     },
     {
       "id": "brazil-vs-belize",
@@ -46,18 +86,11 @@
       "link": "https://bd-mc-flive.fancode.com/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/1080p.m3u8?hdntl=Expires=1782409863~_GO=Generated~acl=/mumbai/143288_english_hls_6a8031a1bc62827_1ta-di_h264/*~Signature=ARZJ1WIq3DOWoCnC1fmXXCzDqwpsyZdcAL_eDDyOWBFxqMQ_wTT9Y6rv7y0sfRc4WxZtJ4FXyGxKTFbhwCrXUJoh2akG"
     },
     {
-      "id": "day-3",
-      "name": "Day 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143279_english_hls_40545e7b7360888_1ta-di_h264/1080p.m3u8"
-    },
-    {
       "id": "poland-vs-belgium-nations-league-s1",
       "name": "Poland Vs Belgium | Nations League Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1782409603-Kv4cPTAAP5YTi-e7de9807fb6ad71bc431e91115c141ef46abc02e-7c6d20fa42721eec6d82316d21ed97c6",
+      "link": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1782416827-Kv4cPTAAP5YTi-52788be6015cfe1c911e6853ab22dc4e1e2b7dee-f337ec07671542afdba855e916d8d350",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -66,7 +99,25 @@
       "name": "Poland Vs Belgium | Nations League Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/24/chunks.m3u8?is_vip=false&token=e7de9807fb6ad71bc431e91115c141ef46abc02e&x-sign=b9ccb5cd7b9d342bf5d21337d11d31f9&x-time=1782323160",
+      "link": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=34305d1dbc39a89b0893594c39726365&x-time=1782330420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "poland-vs-belgium-nations-league-s3",
+      "name": "Poland Vs Belgium | Nations League Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68907/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=fab49a3940a013290a5e7b6292f81aa5&x-time=1782330420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "baltimore-orioles-vs-los-angeles-angels-mlb",
+      "name": "Baltimore Orioles Vs Los Angeles Angels | Mlb",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55840/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=237166afaea36c78abc5e9474f335ec9&x-time=1782330420",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -75,7 +126,7 @@
       "name": "Texas Rangers Vs Miami Marlins | Mlb",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=e7de9807fb6ad71bc431e91115c141ef46abc02e&x-sign=e223e53227d8c55948cc9e2f6a6dfad0&x-time=1782323160",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55835/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=d264d22c73656819c81af93c8da587e4&x-time=1782330360",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     },
@@ -84,7 +135,25 @@
       "name": "England W Vs West Indies | Icc Women's T20 World Cup Asia Qualifier",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=e7de9807fb6ad71bc431e91115c141ef46abc02e&x-sign=bd5fb4a0127708064d99c92bb96a47fe&x-time=1782323160",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=a26be17f500d6398e2ff5b452df3484f&x-time=1782330420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "boston-red-sox-vs-colorado-rockies-mlb",
+      "name": "Boston Red Sox Vs Colorado Rockies | Mlb",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55839/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=1fa043889279a660291d90460c837ec3&x-time=1782330420",
+      "referer": "https://iframe.rumsport10.live/",
+      "origin": "https://iframe.rumsport10.live"
+    },
+    {
+      "id": "cleveland-guardians-vs-chicago-white-sox-mlb",
+      "name": "Cleveland Guardians Vs Chicago White Sox | Mlb",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://livecdn-bp-iptv.rumsport7.live/live_abr/55838/720p/chunks.m3u8?is_vip=false&token=52788be6015cfe1c911e6853ab22dc4e1e2b7dee&x-sign=b23bc61a6c14fd716f7eae66a486c121&x-time=1782330420",
       "referer": "https://iframe.rumsport10.live/",
       "origin": "https://iframe.rumsport10.live"
     }
