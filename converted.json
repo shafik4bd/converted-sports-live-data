@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-10T03:49:06Z",
-  "totalStreams": 0,
-  "liveCount": 0,
-  "channels": []
+  "lastUpdated": "2026-07-10T07:40:59Z",
+  "totalStreams": 1,
+  "liveCount": 1,
+  "channels": [
+    {
+      "id": "day-1",
+      "name": "Day 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/139957_english_hls_365866262751348_1ta-di_h264/1080p5.m3u8"
+    }
+  ]
 }
