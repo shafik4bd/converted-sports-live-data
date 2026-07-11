@@ -1,8 +1,15 @@
 {
-  "lastUpdated": "2026-07-11T06:57:32Z",
-  "totalStreams": 3,
-  "liveCount": 3,
+  "lastUpdated": "2026-07-11T08:54:36Z",
+  "totalStreams": 4,
+  "liveCount": 4,
   "channels": [
+    {
+      "id": "zimbabwe-vs-bangladesh",
+      "name": "Zimbabwe Vs Bangladesh",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/1080p.m3u8"
+    },
     {
       "id": "speen-ghar-tigers-vs-amo-sharks",
       "name": "Speen Ghar Tigers Vs Amo Sharks",
@@ -11,18 +18,18 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143598_english_hls_a97b98dba360905_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "individual-race-stage-1-xining-circuit-live",
-      "name": "Individual Race - Stage 1 - Xining Circuit Live",
+      "id": "zimbabwe-vs-bangladesh",
+      "name": "Zimbabwe Vs Bangladesh",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
     },
     {
-      "id": "day-4",
-      "name": "Day 4",
+      "id": "day-2",
+      "name": "Day 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783826342~_GO=Generated~acl=/mumbai/4246602_english_hls_c17432c8e177332_1ta-di_h264/*~Signature=AfBeBzhu_inkaGbIIsU9ayneqvVINtdO3aHo4yCYzJ4cGgzIJqd3Bt2QR8rLj4dRCMCClLRqBzdGugUxubh66fCsCIQJ"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/139958_english_hls_b00cad079d15124_1ta-di_h264/1080p5.m3u8"
     }
   ]
 }
