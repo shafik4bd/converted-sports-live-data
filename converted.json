@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-07-12T07:04:00Z",
-  "totalStreams": 4,
-  "liveCount": 4,
+  "lastUpdated": "2026-07-12T09:20:30Z",
+  "totalStreams": 3,
+  "liveCount": 3,
   "channels": [
     {
-      "id": "mis-e-ainak-knights-vs-speen-ghar-tigers",
-      "name": "Mis E Ainak Knights Vs Speen Ghar Tigers",
+      "id": "speen-ghar-tigers-vs-mis-e-ainak-knights",
+      "name": "Speen Ghar Tigers Vs Mis E Ainak Knights",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-flive.fancode.com/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/1080p.m3u8?hdntl=Expires=1783916342~_GO=Generated~acl=/mumbai/143600_english_hls_73f1f8258776109_1ta-di_h264/*~Signature=AfBeBzjzgrSxuUa2WTUn0Ffz3XZFTCqHE2xifKt_JRyOiUaF0ZWwIUiXklN8k5XsZMlf0l_U2G7LzanetvqDTmUA1gMJ"
@@ -18,18 +18,11 @@
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
     },
     {
-      "id": "individual-race-stage-2-huangyuan-menyuan-live",
-      "name": "Individual Race - Stage 2 - Huangyuan - Menyuan Live",
+      "id": "race-day",
+      "name": "Race Day",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-    },
-    {
-      "id": "day-5",
-      "name": "Day 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1783912743~_GO=Generated~acl=/mumbai/4246603_english_hls_76760988db10479_1ta-di_h264/*~Signature=AfBeBzjJWtJeFgAOpCZgqruP7Qp49p_omCtIk2RKJnVxZxn71WxQenHU3W0IMz4Yed4b_iAznNpTh7LCzqXSsDAa0rMG"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/1080p5.m3u8"
     }
   ]
 }
