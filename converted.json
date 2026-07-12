@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-12T15:08:04Z",
-  "totalStreams": 11,
-  "liveCount": 11,
+  "lastUpdated": "2026-07-12T16:15:20Z",
+  "totalStreams": 10,
+  "liveCount": 10,
   "channels": [
     {
       "id": "ireland-women-vs-west-indies-women",
@@ -46,6 +46,13 @@
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
     },
     {
+      "id": "round-9-race-vila-real-por",
+      "name": "Round 9 Race - Vila Real (Por)",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
       "id": "dota-2-day-6-feed-2",
       "name": "Dota 2 - Day 6 - Feed 2",
       "status": "LIVE",
@@ -60,25 +67,11 @@
       "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
-      "id": "cycling-day-5-langenlois-live",
-      "name": "Cycling Day 5 - Langenlois Live",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
-    },
-    {
       "id": "valorant-day-10",
       "name": "Valorant Day 10",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
-      "id": "race-day",
-      "name": "Race Day",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/1080p5.m3u8"
     }
   ]
 }
