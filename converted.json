@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-12T13:59:36Z",
-  "totalStreams": 8,
-  "liveCount": 8,
+  "lastUpdated": "2026-07-12T15:08:04Z",
+  "totalStreams": 11,
+  "liveCount": 11,
   "channels": [
     {
       "id": "ireland-women-vs-west-indies-women",
@@ -11,11 +11,39 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143144_english_hls_51d512ae5181283_1ta-di_h264/1080p.m3u8"
     },
     {
-      "id": "dota-2-day-6-feed-3",
-      "name": "Dota 2 - Day 6 - Feed 3",
+      "id": "gibraltar-vs-serbia",
+      "name": "Gibraltar Vs Serbia",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/4246574_english_hls_b7547ab9e227143_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "hungary-vs-turkiye",
+      "name": "Hungary Vs Turkiye",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/4246575_english_hls_86789841a782595_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "kalyani-bengaluru-blasters-vs-shivamogga-yodhas",
+      "name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143448_english_hls_fd9231845c10462_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "kalyani-bengaluru-blasters-vs-shivamogga-yodhas",
+      "name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143448_kannada_hls_ef6cda7e1f9624_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "gentlemen-s-singles-final-ladies-doubles-final",
+      "name": "Gentlemen'S Singles Final & Ladies' Doubles Final",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
     },
     {
       "id": "dota-2-day-6-feed-2",
@@ -32,13 +60,6 @@
       "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
-      "id": "valorant-day-10",
-      "name": "Valorant Day 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
-    },
-    {
       "id": "cycling-day-5-langenlois-live",
       "name": "Cycling Day 5 - Langenlois Live",
       "status": "LIVE",
@@ -46,18 +67,18 @@
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
     },
     {
+      "id": "valorant-day-10",
+      "name": "Valorant Day 10",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+    },
+    {
       "id": "race-day",
       "name": "Race Day",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-fblive.fancode.com/mumbai/139959_english_hls_ff0bbf362442822_1ta-di_h264/1080p5.m3u8"
-    },
-    {
-      "id": "adac-gt-master-race-2-nurburgring",
-      "name": "Adac Gt Master Race 2 Nurburgring",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143694_english_hls_f954c5865a94665_1ta-di_h264/1080p5.m3u8"
     }
   ]
 }
