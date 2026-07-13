@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-07-13T13:32:25Z",
-  "totalStreams": 3,
-  "liveCount": 3,
+  "lastUpdated": "2026-07-13T16:11:48Z",
+  "totalStreams": 4,
+  "liveCount": 4,
   "channels": [
     {
-      "id": "amo-sharks-vs-mis-e-ainak-knights",
-      "name": "Amo Sharks Vs Mis E Ainak Knights",
+      "id": "estonia-vs-turkiye",
+      "name": "Estonia Vs Turkiye",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143698_english_hls_1e0e8fa95c84568_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/4246569_english_hls_fcef144b8c12081_1ta-di_h264/1080p.m3u8"
     },
     {
       "id": "day-1-world-feed",
@@ -23,6 +23,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-fblive.fancode.com/mumbai/143483_english_hls_f5dae468f468531_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "day-1-world-feed",
+      "name": "Day 1 World Feed",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8"
     }
   ]
 }
