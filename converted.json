@@ -1,21 +1,28 @@
 {
-  "lastUpdated": "2026-07-13T18:13:22Z",
-  "totalStreams": 2,
-  "liveCount": 2,
+  "lastUpdated": "2026-07-13T19:53:59Z",
+  "totalStreams": 3,
+  "liveCount": 3,
   "channels": [
     {
-      "id": "day-1-world-feed",
-      "name": "Day 1 World Feed",
+      "id": "west-indies-vs-new-zealand",
+      "name": "West Indies Vs New Zealand",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784046365~_GO=Generated~acl=/mumbai/143490_english_hls_7b7a9ab14c90630_1ta-di_h264/*~Signature=AfBeBzglu5cIRaxjcOyBN7M765xEOxqk41iK87YNpcDSRloGW50xkFj-hsLRAIj477ByeVfVqJnzA17QMggHjqTdvpAO"
+      "link": "https://bd-mc-fblive.fancode.com/mumbai/143604_english_hls_f12e08876820754_1ta-di_h264/1080p.m3u8"
+    },
+    {
+      "id": "west-indies-vs-new-zealand",
+      "name": "West Indies Vs New Zealand",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
     },
     {
       "id": "day-1-world-feed",
       "name": "Day 1 World Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-fblive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8"
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784051465~_GO=Generated~acl=/mumbai/143497_english_hls_a92613e81217241_1ta-di_h264/*~Signature=AfBeBzhYrbbIjuJKRceXxtj2S20sqyUp-RdeIJuF_8Zsa-CE8L46exJQt5Fx3xGSdUgH9kKtgJSFul_-qbqYCGUN09gP"
     }
   ]
 }
