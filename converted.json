@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-14T10:23:13Z",
-  "totalStreams": 5,
-  "liveCount": 5,
+  "lastUpdated": "2026-07-14T12:00:28Z",
+  "totalStreams": 8,
+  "liveCount": 8,
   "channels": [
     {
       "id": "serbia-vs-estonia",
@@ -18,11 +18,32 @@
       "link": "https://bd-mc-fblive.fancode.com/mumbai/4246582_english_hls_bdf77704a065549_1ta-di_h264/1080p.m3u8"
     },
     {
+      "id": "mis-e-ainak-knights-vs-band-e-amir-dragons",
+      "name": "Mis E Ainak Knights Vs Band E Amir Dragons",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784107145~_GO=Generated~acl=/mumbai/143695_english_hls_cb0018fc8896337_1ta-di_h264/*~Signature=AfBeBzgZ6AOq1oNTeJgLpG5RJtluz1eWPrMUdGB3hgPq7oc2DxRZvw-_8x7NtRkV7FeX9iojhPWVwEIndjDbLWxljk4I"
+    },
+    {
       "id": "england-vs-india",
       "name": "England Vs India",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+    },
+    {
+      "id": "dota-2-day-7-feed-1",
+      "name": "Dota 2 - Day 7 - Feed 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+    },
+    {
+      "id": "dota-2-day-7-feed-2",
+      "name": "Dota 2 - Day 7 - Feed 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
     },
     {
       "id": "day-2-world-feed",
