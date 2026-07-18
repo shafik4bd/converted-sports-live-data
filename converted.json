@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-18T12:08:09Z",
-  "totalStreams": 7,
-  "liveCount": 7,
+  "lastUpdated": "2026-07-18T13:53:37Z",
+  "totalStreams": 11,
+  "liveCount": 11,
   "channels": [
     {
       "id": "dambulla-sixers-vs-kandy-royals",
@@ -11,8 +11,15 @@
       "link": "https://bd-mc-flive.fancode.com/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784451905~_GO=Generated~acl=/mumbai/4246709_english_hls_da7b8f58e110858_1ta-di_h264/*~Signature=AeRM5cU1OSnj_bC1i2gm2msxU1Me3LvnGURD76TnsAARo9VZR8uYuApwkoP8uSEhyAZ3ZDwQxERvw-du-z2cNSiMu0AN"
     },
     {
-      "id": "northamptonshire-vs-somerset-live",
-      "name": "Northamptonshire Vs Somerset Live",
+      "id": "session-5-finals-live",
+      "name": "Session 5 - Finals - Live",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "id": "hampshire-vs-nottinghamshire-live",
+      "name": "Hampshire Vs Nottinghamshire Live",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8"
@@ -23,6 +30,20 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
+    },
+    {
+      "id": "freefire-day-4",
+      "name": "Freefire - Day 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+    },
+    {
+      "id": "gt2-european-race-live",
+      "name": "Gt2 European Race Live",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
     },
     {
       "id": "semi-finals",
@@ -39,18 +60,25 @@
       "link": "https://bd-mc-flive.fancode.com/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784451067~_GO=Generated~acl=/mumbai/4246810_english_hls_e89f2284cd25454_1ta-di_h264/*~Signature=AeRM5cXruRX0UMO1v11k06R_iY5qlKZYzDMU0IMMgVxoHQxnCs0K3jWoVULCuWtkJw_rYu14m34G7EQAdnhgJ6SIIIQE"
     },
     {
-      "id": "practice-3",
-      "name": "Practice 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-flive.fancode.com/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784456765~_GO=Generated~acl=/mumbai/139469_english_hls_d0e327b7d064554_1ta-di_h264/*~Signature=AeRM5cXDCcnO5pj8VsMjLZz6EnBR5GJpgp_g1okaK2ZdxCAO9SHSyZZPHF7Y1VSYxM11c302MWJu3dfBvMms0Fb7CX0E"
-    },
-    {
       "id": "semi-finals",
       "name": "Semi Finals",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-flive.fancode.com/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784457848~_GO=Generated~acl=/mumbai/143488_english_hls_bccff4cf4958691_1ta-di_h264/*~Signature=AeRM5cU397UInk9iM6np2SH4raPRHgpOfaqbaoFZAn345Ua6mURWvF2beGKhJCLy9e611Bgdstr6cHyrO1eGuovucosE"
+    },
+    {
+      "id": "sprint-race",
+      "name": "Sprint Race",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463125~_GO=Generated~acl=/mumbai/139640_english_hls_3f79ce3dcb48572_1ta-di_h264/*~Signature=AeRM5cXkoJe1RBgKRmQ_JSAcUSVh19EPGYy_MwCRYqsZSkBXmdxvTEQ2Ca_hVaMR4JOfeouOe46MsYLViA-_L8H6AY0N"
+    },
+    {
+      "id": "europe-race-1",
+      "name": "Europe Race 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1784463968~_GO=Generated~acl=/mumbai/143700_english_hls_a77f90fbb756617_1ta-di_h264/*~Signature=AeRM5cWLoyF5xBVdJEWa3xHgNvTX-7rd5YsoG_3VK213W_lul0esL0siYGnjVzcVb0-DMKpqdwmxXLchF9amdXMreqEG"
     }
   ]
 }
