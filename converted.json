@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-24T09:08:14Z",
-  "totalStreams": 51,
-  "liveCount": 6,
+  "lastUpdated": "2026-07-24T11:14:27Z",
+  "totalStreams": 53,
+  "liveCount": 8,
   "channels": [
     {
       "id": "bangladesh-vs-kazakhstan",
@@ -11,11 +11,25 @@
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     },
     {
+      "id": "day-2-world-feed",
+      "name": "Day 2 World Feed",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247418_english_hls_91bd793e2f64097_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "free-practice-1",
+      "name": "Free Practice 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143796_english_hls_281f4906be4698_1ta-di_h264/index.m3u8"
+    },
+    {
       "id": "practice-session",
       "name": "Practice Session",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139733_english_hls_77c436718e63741_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139642_english_hls_45e379dbe128076_1ta-di_h264/index.m3u8"
     },
     {
       "id": "tour-de-france-vs-tour-de-france-s1",
