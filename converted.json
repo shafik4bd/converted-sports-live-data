@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-25T10:15:44Z",
-  "totalStreams": 41,
-  "liveCount": 22,
+  "lastUpdated": "2026-07-25T11:39:01Z",
+  "totalStreams": 44,
+  "liveCount": 25,
   "channels": [
     {
       "id": "sunrisers-leeds-vs-southern-brave-women",
@@ -25,6 +25,13 @@
       "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
     },
     {
+      "id": "ea-sports-fc-26-day-4",
+      "name": "Ea Sports Fc 26 - Day 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8"
+    },
+    {
       "id": "pakistan-women-vs-sri-lanka-women",
       "name": "Pakistan Women Vs Sri Lanka Women",
       "status": "LIVE",
@@ -39,18 +46,25 @@
       "link": "Unavailable"
     },
     {
-      "id": "malaysia-xi-vs-sea-hawks-cricket-club",
-      "name": "Malaysia Xi Vs Sea Hawks Cricket Club",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": "galle-gallants-vs-kandy-royals",
       "name": "Galle Gallants Vs Kandy Royals",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "india-vs-zimbabwe",
+      "name": "India Vs Zimbabwe",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "Unavailable"
+    },
+    {
+      "id": "india-vs-zimbabwe",
+      "name": "India Vs Zimbabwe",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "Unavailable"
     },
     {
       "id": "zim-vs-ind-s1",
@@ -130,11 +144,18 @@
       "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
     },
     {
-      "id": "sprint-race",
-      "name": "Sprint Race",
+      "id": "practice-3",
+      "name": "Practice 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139735_english_hls_aee5160e7e79607_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139474_english_hls_cb09c4273596597_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "day-6",
+      "name": "Day 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
