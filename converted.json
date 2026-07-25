@@ -1,21 +1,28 @@
 {
-  "lastUpdated": "2026-07-25T12:44:39Z",
-  "totalStreams": 44,
-  "liveCount": 25,
+  "lastUpdated": "2026-07-25T14:39:16Z",
+  "totalStreams": 46,
+  "liveCount": 27,
   "channels": [
     {
-      "id": "sunrisers-leeds-vs-southern-brave-women",
-      "name": "Sunrisers Leeds Vs Southern Brave - Women",
+      "id": "women-s-semi-final-b-session-world-championships-kaunas-lithuania-live",
+      "name": "Women'S Semi Final B Session - World Championships Kaunas, Lithuania Live",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8"
+    },
+    {
+      "id": "sunrisers-leeds-vs-southern-brave",
+      "name": "Sunrisers Leeds Vs Southern Brave",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     },
     {
-      "id": "women-s-semi-final-a-session-world-championships-kaunas-lithuania-live",
-      "name": "Women'S Semi Final A Session - World Championships Kaunas, Lithuania Live",
+      "id": "west-indies-vs-pakistan",
+      "name": "West Indies Vs Pakistan",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/PAKvsWI-TesT-tapmad/master.m3u8"
     },
     {
       "id": "ea-sports-fc-26-day-4",
@@ -39,13 +46,6 @@
       "link": "Unavailable"
     },
     {
-      "id": "pakistan-women-vs-sri-lanka-women",
-      "name": "Pakistan Women Vs Sri Lanka Women",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": "netherlands-vs-namibia",
       "name": "Netherlands Vs Namibia",
       "status": "LIVE",
@@ -53,11 +53,18 @@
       "link": "Unavailable"
     },
     {
-      "id": "galle-gallants-vs-kandy-royals",
-      "name": "Galle Gallants Vs Kandy Royals",
+      "id": "west-indies-vs-pakistan",
+      "name": "West Indies Vs Pakistan",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246722_english_hls_dbf98ca42d71277_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143633_english_hls_37959550fb58134_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "colombo-kaps-vs-dambulla-sixers",
+      "name": "Colombo Kaps Vs Dambulla Sixers",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246721_english_hls_414959cb1224583_1ta-di_h264/index.m3u8"
     },
     {
       "id": "zim-vs-ind-s1",
@@ -137,25 +144,32 @@
       "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
     },
     {
-      "id": "day-6",
-      "name": "Day 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143508_english_hls_92168a39226791_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": "race-1",
-      "name": "Race 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143799_english_hls_c362f1d13033774_1ta-di_h264/index.m3u8"
-    },
-    {
       "id": "day-3-world-feed",
       "name": "Day 3 World Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247419_english_hls_7529753d6233196_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "day-3-main-feed",
+      "name": "Day 3 Main Feed",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246803_english_hls_7c0d958ec349342_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "adac-gt-race-1-oschersleben",
+      "name": "Adac Gt Race 1 Oschersleben",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143805_english_hls_0b4437940a64141_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "qualifying",
+      "name": "Qualifying",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139475_english_hls_a385b5276b60495_1ta-di_h264/index.m3u8"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
