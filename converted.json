@@ -1,14 +1,28 @@
 {
-  "lastUpdated": "2026-07-25T03:43:35Z",
-  "totalStreams": 51,
-  "liveCount": 6,
+  "lastUpdated": "2026-07-25T06:21:56Z",
+  "totalStreams": 38,
+  "liveCount": 19,
   "channels": [
     {
-      "id": "territory-tourers-race-1-live",
-      "name": "Territory Tourers Race 1 Live",
+      "id": "motorcraft-mustang-cup-australia-race-1-live",
+      "name": "Motorcraft Mustang Cup Australia Race 1 Live",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-258tjui/master.m3u8"
+    },
+    {
+      "id": "sri-lanka-women-vs-pakistan-women",
+      "name": "Sri Lanka Women Vs Pakistan Women",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8"
+    },
+    {
+      "id": "pakistan-women-vs-sri-lanka-women",
+      "name": "Pakistan Women Vs Sri Lanka Women",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247426_english_hls_65d82e3e4c86377_1ta-di_h264/index.m3u8"
     },
     {
       "id": "malaysia-xi-vs-sea-hawks-cricket-club",
@@ -18,193 +32,109 @@
       "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247198_english_hls_4e2b6a33c555878_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "tour-de-france-vs-tour-de-france-s1",
-      "name": "Tour De France Vs Tour De France Stream 1",
+      "id": "zim-vs-ind-s1",
+      "name": "Zim Vs Ind Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0"
     },
     {
-      "id": "tour-de-france-vs-tour-de-france-s2",
-      "name": "Tour De France Vs Tour De France Stream 2",
+      "id": "zim-vs-ind-s2",
+      "name": "Zim Vs Ind Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd"
+      "link": "https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0"
     },
     {
-      "id": "tour-de-france-vs-tour-de-france-s3",
-      "name": "Tour De France Vs Tour De France Stream 3",
+      "id": "zim-vs-ind-s3",
+      "name": "Zim Vs Ind Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd|Origin=https://www.primevideo.com&user-agent=Mozilla/5.0"
     },
     {
-      "id": "tour-de-france-vs-tour-de-france-s4",
-      "name": "Tour De France Vs Tour De France Stream 4",
+      "id": "zim-vs-ind-s4",
+      "name": "Zim Vs Ind Stream 4",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd"
+      "link": "https://du63lhrf9y1yb.cloudfront.net/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s1",
-      "name": "Formula 1 Vs Formula 1 Stream 1",
-      "status": "UPCOMING",
+      "id": "zim-vs-ind-s5",
+      "name": "Zim Vs Ind Stream 5",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "https://du63lhrf9y1yb.cloudfront.net/143351_english_hls_e275e99cda1596_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s2",
-      "name": "Formula 1 Vs Formula 1 Stream 2",
-      "status": "UPCOMING",
+      "id": "zim-vs-ind-s6",
+      "name": "Zim Vs Ind Stream 6",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1&Referer=https://fancode.com/"
     },
     {
-      "id": "formula-1-vs-formula-1-s3",
-      "name": "Formula 1 Vs Formula 1 Stream 3",
-      "status": "UPCOMING",
+      "id": "zim-vs-ind-s7",
+      "name": "Zim Vs Ind Stream 7",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/53414/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s4",
-      "name": "Formula 1 Vs Formula 1 Stream 4",
-      "status": "UPCOMING",
+      "id": "zim-vs-ind-s8",
+      "name": "Zim Vs Ind Stream 8",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
     },
     {
-      "id": "formula-1-vs-formula-1-s5",
-      "name": "Formula 1 Vs Formula 1 Stream 5",
-      "status": "UPCOMING",
+      "id": "sl-w-vs-pak-w-s1",
+      "name": "Sl-W Vs Pak-W Stream 1",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd|user-agent=Mozilla/5.0"
     },
     {
-      "id": "formula-1-vs-formula-1-s6",
-      "name": "Formula 1 Vs Formula 1 Stream 6",
-      "status": "UPCOMING",
+      "id": "sl-w-vs-pak-w-s2",
+      "name": "Sl-W Vs Pak-W Stream 2",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hjkp3lpev/out/v1/1d92267fc4644b75934bb9be30f77d94/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8|referer=https://tapmad.com"
     },
     {
-      "id": "formula-1-vs-formula-1-s7",
-      "name": "Formula 1 Vs Formula 1 Stream 7",
-      "status": "UPCOMING",
+      "id": "sl-w-vs-pak-w-s3",
+      "name": "Sl-W Vs Pak-W Stream 3",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qoagww87su/out/v1/4f52197b455644b78f9aa2801b418106/cenc.mpd|user-agent=Mozilla/5.0"
+      "link": "http://tvsen5.aynascope.net/willowhd/index.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s8",
-      "name": "Formula 1 Vs Formula 1 Stream 8",
-      "status": "UPCOMING",
+      "id": "japan-race-1",
+      "name": "Japan Race 1",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143794_english_hls_fafc6faf7b4112_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s9",
-      "name": "Formula 1 Vs Formula 1 Stream 9",
-      "status": "UPCOMING",
+      "id": "smackdown-vs-smackdown-s1",
+      "name": "Smackdown Vs Smackdown Stream 1",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/"
+      "link": "https://chatgpt.hereisman.net/playlist/52583/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
     },
     {
-      "id": "formula-1-vs-formula-1-s10",
-      "name": "Formula 1 Vs Formula 1 Stream 10",
-      "status": "UPCOMING",
+      "id": "smackdown-vs-smackdown-s2",
+      "name": "Smackdown Vs Smackdown Stream 2",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://g001.sadhoofiton.shop/out/v2/6e0780e1a8fac7f0f00eef9a0828f0d0/index.m3u8?|referer=https://pushembdz.store/"
+      "link": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
     },
     {
-      "id": "formula-1-vs-formula-1-s11",
-      "name": "Formula 1 Vs Formula 1 Stream 11",
-      "status": "UPCOMING",
+      "id": "smackdown-vs-smackdown-s3",
+      "name": "Smackdown Vs Smackdown Stream 3",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s12",
-      "name": "Formula 1 Vs Formula 1 Stream 12",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://inproviszon.st/sky-sports-f1.m3u8?|referer=https://vileembeds.pages.dev/"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s13",
-      "name": "Formula 1 Vs Formula 1 Stream 13",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/f6ff498a6abd018b2d6c24aa77f6e001/index.m3u8?|referer=https://pushembdz.store/"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s14",
-      "name": "Formula 1 Vs Formula 1 Stream 14",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/264a05ba99b8850a8fbc750ae109cc03/index.m3u8?|referer=https://pushembdz.store/"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s15",
-      "name": "Formula 1 Vs Formula 1 Stream 15",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s16",
-      "name": "Formula 1 Vs Formula 1 Stream 16",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://whioefwhi.sense-scramble-bay.xyz/out/v2/4839b7fb4a693edb7f595e681bccf101/tracks-v0a0/mono.ts.m3u8?|referer=https://pushembdz.store/"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s17",
-      "name": "Formula 1 Vs Formula 1 Stream 17",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://xstm.250909.cc/live/SPORTSFLUX-POOL-20acb0a9c8/5ffe6c552a88/1037.m3u8"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s18",
-      "name": "Formula 1 Vs Formula 1 Stream 18",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s19",
-      "name": "Formula 1 Vs Formula 1 Stream 19",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s20",
-      "name": "Formula 1 Vs Formula 1 Stream 20",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s21",
-      "name": "Formula 1 Vs Formula 1 Stream 21",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edge2caster.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s22",
-      "name": "Formula 1 Vs Formula 1 Stream 22",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://ultav3.me/play/live.php?mac=00:1A:79:44:95:87&stream=303265&extension=m3u8"
-    },
-    {
-      "id": "formula-1-vs-formula-1-s23",
-      "name": "Formula 1 Vs Formula 1 Stream 23",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.57/hls/FRRRE.m3u8|referer=http://www.fawanews.sc/"
+      "link": "http://193.47.62.44/hls/ZZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "motogp-vs-motogp-s1",
@@ -302,7 +232,7 @@
       "name": "Aew Vs Aew Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/nnnnqqQ.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+      "link": "https://chatgpt.hereisman.net/playlist/49815/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
     },
     {
       "id": "aew-vs-aew-s3",
@@ -316,7 +246,7 @@
       "name": "Aew Vs Aew Stream 4",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://embedindia.st/embed/aew/dynamite/2026-07-08"
+      "link": "http://193.47.62.44/hls/vvvvAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
       "id": "one-friday-fights-vs-one-friday-fights-s1",
@@ -338,27 +268,6 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s1",
-      "name": "Smackdown Vs Smackdown Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/52583/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s2",
-      "name": "Smackdown Vs Smackdown Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/1.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s3",
-      "name": "Smackdown Vs Smackdown Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/ZZZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     }
   ]
 }
