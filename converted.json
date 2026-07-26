@@ -1,21 +1,28 @@
 {
-  "lastUpdated": "2026-07-26T12:08:01Z",
+  "lastUpdated": "2026-07-26T14:02:51Z",
   "totalStreams": 42,
   "liveCount": 23,
   "channels": [
     {
-      "id": "men-s-semi-final-a-session-world-championships-kaunas-lithuania-live",
-      "name": "Men'S Semi Final A Session - World Championships Kaunas, Lithuania Live",
+      "id": "west-indies-vs-pakistan",
+      "name": "West Indies Vs Pakistan",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+    },
+    {
+      "id": "men-s-semi-final-b-session-world-championships-kaunas-lithuania-live",
+      "name": "Men'S Semi Final B Session - World Championships Kaunas, Lithuania Live",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8"
     },
     {
-      "id": "pakistan-vs-uzbekistan",
-      "name": "Pakistan Vs Uzbekistan",
+      "id": "manchester-super-giants-vs-birmingham-pheonix",
+      "name": "Manchester Super Giants Vs Birmingham Pheonix",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
       "id": "ea-sports-fc-26-day-5",
@@ -123,25 +130,18 @@
       "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247420_english_hls_e4f538fa6759596_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "race",
-      "name": "Race",
+      "id": "race-2",
+      "name": "Race 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139476_english_hls_cf562dba5f52319_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/143801_english_hls_0f8f9524c923636_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "race",
-      "name": "Race",
+      "id": "day-4-main-feed",
+      "name": "Day 4 Main Feed",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139476_hindi_hls_6550f6366226994_1ta-di_h264/index.m3u8"
-    },
-    {
-      "id": "race",
-      "name": "Race",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/139476_tamil_hls_8675b9f21c93259_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246805_english_hls_302416363781824_1ta-di_h264/index.m3u8"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
