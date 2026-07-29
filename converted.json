@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-07-29T14:21:04Z",
-  "totalStreams": 35,
-  "liveCount": 16,
+  "lastUpdated": "2026-07-29T16:08:08Z",
+  "totalStreams": 38,
+  "liveCount": 19,
   "channels": [
+    {
+      "id": "welsh-fire-vs-trent-rockets",
+      "name": "Welsh Fire Vs Trent Rockets",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
+    {
+      "id": "mi-london-vs-london-spirirts-women",
+      "name": "Mi London Vs London Spirirts - Women",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8"
+    },
     {
       "id": "netherlands-vs-nepal",
       "name": "Netherlands Vs Nepal",
@@ -11,11 +25,18 @@
       "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246708_english_hls_ea32c4304326061_1ta-di_h264/index.m3u8"
     },
     {
-      "id": "galle-gallants-vs-kandy-royals",
-      "name": "Galle Gallants Vs Kandy Royals",
+      "id": "colombo-kaps-vs-dambulla-sixers",
+      "name": "Colombo Kaps Vs Dambulla Sixers",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246726_english_hls_44910f186893977_1ta-di_h264/index.m3u8"
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4246718_english_hls_abcdc67d1179494_1ta-di_h264/index.m3u8"
+    },
+    {
+      "id": "lahore-qalandars-vs-san-francisco-unicorns",
+      "name": "Lahore Qalandars Vs San Francisco Unicorns",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4247436_english_hls_ca300c4f0781842_1ta-di_h264/index.m3u8"
     },
     {
       "id": "zim-vs-ind-s1",
