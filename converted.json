@@ -1,8 +1,15 @@
 {
-  "lastUpdated": "2026-08-06T09:29:09Z",
-  "totalStreams": 89,
-  "liveCount": 18,
+  "lastUpdated": "2026-08-06T11:50:23Z",
+  "totalStreams": 91,
+  "liveCount": 20,
   "channels": [
+    {
+      "id": "pubg-mobile-day-1",
+      "name": "Pubg Mobile - Day 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
+    },
     {
       "id": "south-delhi-superstarz-vs-outer-delhi-warriors",
       "name": "South Delhi Superstarz Vs Outer Delhi Warriors",
@@ -93,6 +100,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "day-1-main-feed",
+      "name": "Day 1 Main Feed",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-pdlive.fancode.com/mumbai/4248185_english_hls_5dab612fcd71433_1ta-di_h264/index.m3u8"
     },
     {
       "id": "atp-vs-wta-s1",
