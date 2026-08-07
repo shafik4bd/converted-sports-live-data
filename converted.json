@@ -1,8 +1,15 @@
 {
-  "lastUpdated": "2026-08-07T13:57:18Z",
-  "totalStreams": 65,
+  "lastUpdated": "2026-08-07T15:02:49Z",
+  "totalStreams": 66,
   "liveCount": 19,
   "channels": [
+    {
+      "id": "birmingham-pheonix-vs-sunrisers-leeds-women",
+      "name": "Birmingham Pheonix Vs Sunrisers Leeds - Women",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
+    },
     {
       "id": "pubg-mobile-day-2",
       "name": "Pubg Mobile - Day 2",
@@ -16,13 +23,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-    },
-    {
-      "id": "sl-xi-vs-ind",
-      "name": "Sl-Xi Vs Ind",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786123685~acl=/*~id=06715452683139887470293096695244~hmac=528c2b73d71c2dde5621b9af04fdc49b2beb709485b455fd179d6a79d0342b6b"
     },
     {
       "id": "ire-vs-afg-s1",
@@ -135,6 +135,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|referer=https://zlive.st/"
+    },
+    {
+      "id": "sl-xi-vs-ind",
+      "name": "Sl-Xi Vs Ind",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonydaimenew.akamaized.net/hls/live/20000298/criclive0708/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786123685~acl=/*~id=06715452683139887470293096695244~hmac=528c2b73d71c2dde5621b9af04fdc49b2beb709485b455fd179d6a79d0342b6b"
     },
     {
       "id": "hull-vs-man-utd",
