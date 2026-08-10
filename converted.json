@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-10T00:02:54Z",
-  "totalStreams": 58,
-  "liveCount": 7,
+  "lastUpdated": "2026-08-10T02:38:00Z",
+  "totalStreams": 62,
+  "liveCount": 6,
   "channels": [
     {
       "id": "c-and-barbuda-falcons-vs-st-lucia-kings",
@@ -9,13 +9,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-    },
-    {
-      "id": "sl-xi-vs-ind",
-      "name": "Sl-Xi Vs Ind",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f"
     },
     {
       "id": "atp-vs-wta-s1",
@@ -51,6 +44,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cast.zlive.st/p/auto-sky-sports-tennis-0/index.m3u8?|referer=https://zlive.st/"
+    },
+    {
+      "id": "sl-vs-ind",
+      "name": "Sl Vs Ind",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonydaimenew.akamaized.net/hls/live/20000292/criclive0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786207430~acl=/*~id=16695139551526506901251541115361~hmac=36fb389ead05454d15c10e46ffb6be410535793eed6dc5d461408c556c05892f"
     },
     {
       "id": "cpl-t20-vs-cpl-t20-s1",
@@ -247,6 +247,34 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "calcutta-premier-division-vs-calcutta-premier-division-s1",
+      "name": "Calcutta Premier Division Vs Calcutta Premier Division Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-n10.videostech.cloud/match/mohammedansportingclub_vs_calcuttapoliceclub/HLS/master.m3u8"
+    },
+    {
+      "id": "calcutta-premier-division-vs-calcutta-premier-division-s2",
+      "name": "Calcutta Premier Division Vs Calcutta Premier Division Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-n10.videostech.cloud/match/coalindiaspa_vs_measurersclub/HLS/master.m3u8"
+    },
+    {
+      "id": "calcutta-premier-division-vs-calcutta-premier-division-s3",
+      "name": "Calcutta Premier Division Vs Calcutta Premier Division Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-n10.videostech.cloud/match/wariathleticclub_vs_aryanclub/HLS/master.m3u8"
+    },
+    {
+      "id": "durand-cup-vs-durand-cup",
+      "name": "Durand Cup Vs Durand Cup",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786229886~acl=/*~id=14719823539692838376837758475488~hmac=e34d1dffff0dddbdd008d1075eea66320e3d75e437f5df2ab83def81ce5c1a13"
     },
     {
       "id": "formula-1-vs-formula-1-s1",
