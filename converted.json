@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-14T18:09:37Z",
-  "totalStreams": 122,
-  "liveCount": 33,
+  "lastUpdated": "2026-08-14T19:19:38Z",
+  "totalStreams": 137,
+  "liveCount": 40,
   "channels": [
     {
       "id": "manchester-super-giants-vs-sunrisers-leeds",
@@ -67,11 +67,32 @@
       "link": "http://162.251.160.53:8089/NCC1/index.m3u8"
     },
     {
-      "id": "msg-vs-sl",
-      "name": "Msg Vs Sl",
+      "id": "msg-vs-sl-s1",
+      "name": "Msg Vs Sl Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd"
+    },
+    {
+      "id": "msg-vs-sl-s2",
+      "name": "Msg Vs Sl Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
+    },
+    {
+      "id": "msg-vs-sl-s3",
+      "name": "Msg Vs Sl Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/4ez0nzel5u/out/v1/f62c7744a9f04e3fa845d956442d98ab/cenc.mpd"
+    },
+    {
+      "id": "msg-vs-sl-s4",
+      "name": "Msg Vs Sl Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.193/hls/AFFFFAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "marseille-vs-atl-madrid-s1",
@@ -88,11 +109,25 @@
       "link": "http://193.47.62.190/hls/AIIIZZZ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
-      "id": "neom-vs-al-fayha",
-      "name": "Neom Vs Al-Fayha",
+      "id": "neom-vs-al-fayha-s1",
+      "name": "Neom Vs Al-Fayha Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://hls.live123.fans/live/4599543.m3u8"
+    },
+    {
+      "id": "neom-vs-al-fayha-s2",
+      "name": "Neom Vs Al-Fayha Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://pul-tenm.gkykp.com/live/sd-1-4599543.m3u8?txSecret=efb1b760b45fef0cf4f199d88d910b3c&txTime=6A8071D0"
+    },
+    {
+      "id": "neom-vs-al-fayha-s3",
+      "name": "Neom Vs Al-Fayha Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.191/hls/FFSSSAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "cagliari-vs-arezzo-s1",
@@ -116,18 +151,32 @@
       "link": "https://hls.live123.fans/live/4613093.m3u8"
     },
     {
-      "id": "kiel-vs-st-pauli",
-      "name": "Kiel Vs St. Pauli",
+      "id": "kiel-vs-st-pauli-s1",
+      "name": "Kiel Vs St. Pauli Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cast.zlive.st/p/auto-eleven-sports-1-0/index.m3u8?|referer=https://zlive.st/"
     },
     {
-      "id": "braunschweig-vs-bochum",
-      "name": "Braunschweig Vs Bochum",
+      "id": "kiel-vs-st-pauli-s2",
+      "name": "Kiel Vs St. Pauli Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.191/hls/FFSSSAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "braunschweig-vs-bochum-s1",
+      "name": "Braunschweig Vs Bochum Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cast.zlive.st/p/auto-eleven-sports-2-0/index.m3u8?|referer=https://zlive.st/"
+    },
+    {
+      "id": "braunschweig-vs-bochum-s2",
+      "name": "Braunschweig Vs Bochum Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.191/hls/FFSSSAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "parma-vs-catania-s1",
@@ -519,21 +568,49 @@
       "name": "Al-Ettifaq Vs Al-Riyadh",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://hls.live123.fans/live/4599544.m3u8"
     },
     {
-      "id": "al-hilal-vs-al-faisaly",
-      "name": "Al-Hilal Vs Al Faisaly",
+      "id": "al-hilal-vs-al-faisaly-s1",
+      "name": "Al-Hilal Vs Al Faisaly Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+    },
+    {
+      "id": "al-hilal-vs-al-faisaly-s2",
+      "name": "Al-Hilal Vs Al Faisaly Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54611/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "al-hilal-vs-al-faisaly-s3",
+      "name": "Al-Hilal Vs Al Faisaly Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4599545.m3u8"
+    },
+    {
+      "id": "al-hilal-vs-al-faisaly-s4",
+      "name": "Al-Hilal Vs Al Faisaly Stream 4",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://t7.ultrastream.vip/sporttv4/index.m3u8?|Referer=https://foottime.top/"
+    },
+    {
+      "id": "al-hilal-vs-al-faisaly-s5",
+      "name": "Al-Hilal Vs Al Faisaly Stream 5",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/78/index.m3u8"
     },
     {
       "id": "telstar-vs-sparta",
       "name": "Telstar Vs Sparta",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://162.251.160.53:8089/321/index.m3u8"
     },
     {
       "id": "wolves-vs-blackburn",
@@ -571,15 +648,36 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "real-sociedad-b-vs-castell-n",
-      "name": "Real Sociedad B Vs Castellón",
+      "id": "real-sociedad-b-vs-castell-n-s1",
+      "name": "Real Sociedad B Vs Castellón Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
+    },
+    {
+      "id": "real-sociedad-b-vs-castell-n-s2",
+      "name": "Real Sociedad B Vs Castellón Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
+    },
+    {
+      "id": "coventry-vs-as-monaco",
+      "name": "Coventry Vs As Monaco",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "coventry-vs-as-monaco",
-      "name": "Coventry Vs As Monaco",
+      "id": "sporting-vs-vit-ria",
+      "name": "Sporting Vs Vitória",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "atalanta-vs-athletic-club",
+      "name": "Atalanta Vs Athletic Club",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
@@ -781,11 +879,18 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "cubs-vs-cardinals",
-      "name": "Cubs Vs Cardinals",
+      "id": "cubs-vs-cardinals-s1",
+      "name": "Cubs Vs Cardinals Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54622/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "cubs-vs-cardinals-s2",
+      "name": "Cubs Vs Cardinals Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
     },
     {
       "id": "astros-vs-mariners",
