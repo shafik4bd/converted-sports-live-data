@@ -1,14 +1,21 @@
 {
-  "lastUpdated": "2026-08-15T17:55:07Z",
-  "totalStreams": 271,
-  "liveCount": 167,
+  "lastUpdated": "2026-08-15T18:35:49Z",
+  "totalStreams": 291,
+  "liveCount": 188,
   "channels": [
     {
-      "id": "pubg-mobile-day-8",
-      "name": "Pubg Mobile - Day 8",
+      "id": "al-ittihad-vs-al-kholood",
+      "name": "Al-Ittihad Vs Al Kholood",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8"
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "id": "al-nassr-vs-al-fateh",
+      "name": "Al-Nassr Vs Al Fateh",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8"
     },
     {
       "id": "sl-vs-ind-s1",
@@ -144,11 +151,60 @@
       "link": "https://live.incableinternet.com/ptv-sports/720p.m3u8"
     },
     {
-      "id": "alav-s-vs-getafe",
-      "name": "Alavés Vs Getafe",
+      "id": "alav-s-vs-getafe-s1",
+      "name": "Alavés Vs Getafe Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "alav-s-vs-getafe-s2",
+      "name": "Alavés Vs Getafe Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "alav-s-vs-getafe-s3",
+      "name": "Alavés Vs Getafe Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54682/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "alav-s-vs-getafe-s4",
+      "name": "Alavés Vs Getafe Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo200.com/live/sd-1-4565316.m3u8?txSecret=ae9e18011df4da0dcfb49b4f71ced368&txTime=6A80B0FF|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "alav-s-vs-getafe-s5",
+      "name": "Alavés Vs Getafe Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://in-mc-flive.fancode.com/mumbai/4247576_english_dash_58903_1drmta-di_h264/index.mpd"
+    },
+    {
+      "id": "alav-s-vs-getafe-s6",
+      "name": "Alavés Vs Getafe Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bd-mc-flive.fancode.com/mumbai/4247576_english_dash_58903_1drmta-di_h264/index.mpd"
+    },
+    {
+      "id": "alav-s-vs-getafe-s7",
+      "name": "Alavés Vs Getafe Stream 7",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://flv.lauthaitv.cc/live/alaves-getafe-laliga.flv"
+    },
+    {
+      "id": "alav-s-vs-getafe-s8",
+      "name": "Alavés Vs Getafe Stream 8",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://pull.niur.live/live/stream-552832_lsd.m3u8?txSecret=a8876251605e962e412704b729bce45b&txTime=6a80f5c4"
     },
     {
       "id": "f-rth-vs-n-rnberg",
@@ -837,11 +893,25 @@
       "link": "http://193.47.62.57/hls/RUUUAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-      "id": "real-oviedo-vs-granada",
-      "name": "Real Oviedo Vs Granada",
+      "id": "real-oviedo-vs-granada-s1",
+      "name": "Real Oviedo Vs Granada Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
+    },
+    {
+      "id": "real-oviedo-vs-granada-s2",
+      "name": "Real Oviedo Vs Granada Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo200.com/live/sd-1-4567221.m3u8?txSecret=7a8fdef496ecc6a8939ff0234fe44405&txTime=6A80AA3B|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "real-oviedo-vs-granada-s3",
+      "name": "Real Oviedo Vs Granada Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.40/hls/HHHHZAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "c-diz-vs-celta-fortuna",
@@ -879,11 +949,18 @@
       "link": "http://193.47.62.57/hls/DHHHAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-      "id": "morocco-vs-algeria",
-      "name": "Morocco Vs Algeria",
+      "id": "morocco-vs-algeria-s1",
+      "name": "Morocco Vs Algeria Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": "morocco-vs-algeria-s2",
+      "name": "Morocco Vs Algeria Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.40/hls/HHHHZAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "al-taawoun-vs-al-khaleej-s1",
@@ -963,11 +1040,32 @@
       "link": "http://193.47.62.57/hls/RUUUAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
-      "id": "inter-vs-real-betis",
-      "name": "Inter Vs Real Betis",
+      "id": "inter-vs-real-betis-s1",
+      "name": "Inter Vs Real Betis Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.57/hls/FAFAFAFAAAA.m3u8|referer=http://www.fawanews.sc/"
+    },
+    {
+      "id": "inter-vs-real-betis-s2",
+      "name": "Inter Vs Real Betis Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54681/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "inter-vs-real-betis-s3",
+      "name": "Inter Vs Real Betis Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/griogoehvn2.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "inter-vs-real-betis-s4",
+      "name": "Inter Vs Real Betis Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://pull.niur.live/live/stream-501412_lsd.m3u8?txSecret=63088f44729b8ce718ead655dfceabd6&txTime=6a80f5c4"
     },
     {
       "id": "hospitalet-vs-barcelona-atl-tic",
@@ -1040,53 +1138,81 @@
       "link": "https://edgestream3.pro/hls/zeuryuegn48.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
     },
     {
-      "id": "tigers-vs-white-sox",
-      "name": "Tigers Vs White Sox",
+      "id": "tigers-vs-white-sox-s1",
+      "name": "Tigers Vs White Sox Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54672/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
     },
     {
-      "id": "bears-vs-browns",
-      "name": "Bears Vs Browns",
+      "id": "tigers-vs-white-sox-s2",
+      "name": "Tigers Vs White Sox Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
     },
     {
-      "id": "bills-vs-panthers",
-      "name": "Bills Vs Panthers",
+      "id": "bears-vs-browns-s1",
+      "name": "Bears Vs Browns Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54675/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
     },
     {
-      "id": "giants-vs-vikings",
-      "name": "Giants Vs Vikings",
+      "id": "bears-vs-browns-s2",
+      "name": "Bears Vs Browns Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://edgestream2.pro/hls/qsdnajbq32.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
     },
     {
-      "id": "bears-vs-browns",
-      "name": "Bears Vs Browns",
+      "id": "bears-vs-browns-s3",
+      "name": "Bears Vs Browns Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.194/hls/AYYYYA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
-      "id": "bills-vs-panthers",
-      "name": "Bills Vs Panthers",
+      "id": "bills-vs-panthers-s1",
+      "name": "Bills Vs Panthers Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54671/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
     },
     {
-      "id": "giants-vs-vikings",
-      "name": "Giants Vs Vikings",
+      "id": "bills-vs-panthers-s2",
+      "name": "Bills Vs Panthers Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "bills-vs-panthers-s3",
+      "name": "Bills Vs Panthers Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.194/hls/AYYYYAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "giants-vs-vikings-s1",
+      "name": "Giants Vs Vikings Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54674/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "giants-vs-vikings-s2",
+      "name": "Giants Vs Vikings Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "giants-vs-vikings-s3",
+      "name": "Giants Vs Vikings Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.194/hls/AYYYYAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "golf-eventos-vs-golf-eventos-s1",
@@ -1171,6 +1297,27 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.190/hls/XAXAXA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "sun-vs-liberty-s1",
+      "name": "Sun Vs Liberty Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54668/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "sun-vs-liberty-s2",
+      "name": "Sun Vs Liberty Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "sun-vs-liberty-s3",
+      "name": "Sun Vs Liberty Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.40/hls/HHHHZAAA.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "cpl-t20-vs-cpl-t20-s1",
@@ -1840,13 +1987,6 @@
     {
       "id": "seahawks-vs-cowboys",
       "name": "Seahawks Vs Cowboys",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "chiefs-vs-rams",
-      "name": "Chiefs Vs Rams",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
