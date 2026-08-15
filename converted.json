@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-15T16:57:38Z",
-  "totalStreams": 263,
-  "liveCount": 159,
+  "lastUpdated": "2026-08-15T17:28:00Z",
+  "totalStreams": 271,
+  "liveCount": 167,
   "channels": [
     {
       "id": "pubg-mobile-day-8",
@@ -781,25 +781,60 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "sheffield-utd-vs-birmingham",
-      "name": "Sheffield Utd Vs Birmingham",
+      "id": "sheffield-utd-vs-birmingham-s1",
+      "name": "Sheffield Utd Vs Birmingham Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd?|user-agent=Mozilla/5.0"
     },
     {
-      "id": "udinese-vs-padova",
-      "name": "Udinese Vs Padova",
+      "id": "sheffield-utd-vs-birmingham-s2",
+      "name": "Sheffield Utd Vs Birmingham Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|user-agent=Mozilla/5.0"
     },
     {
-      "id": "konyaspor-vs-rizespor",
-      "name": "Konyaspor Vs Rizespor",
+      "id": "sheffield-utd-vs-birmingham-s3",
+      "name": "Sheffield Utd Vs Birmingham Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://rdcstream.life/live/espn/index.m3u8?|Referer=https://bolodechocolate.fit/"
+    },
+    {
+      "id": "udinese-vs-padova-s1",
+      "name": "Udinese Vs Padova Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manifest.mpd"
+    },
+    {
+      "id": "udinese-vs-padova-s2",
+      "name": "Udinese Vs Padova Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd|user-agent=Mozilla/5.0"
+    },
+    {
+      "id": "udinese-vs-padova-s3",
+      "name": "Udinese Vs Padova Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo200.com/live/sd-1-4564317.m3u8?txSecret=ab8274cf041117b1934d9e16c1d1908d&txTime=6A80A483|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "konyaspor-vs-rizespor-s1",
+      "name": "Konyaspor Vs Rizespor Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports2tr.m3u8"
+    },
+    {
+      "id": "konyaspor-vs-rizespor-s2",
+      "name": "Konyaspor Vs Rizespor Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.57/hls/RUUUAAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
       "id": "real-oviedo-vs-granada",
@@ -816,11 +851,25 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "catanzaro-vs-s-dtirol",
-      "name": "Catanzaro Vs Südtirol",
+      "id": "catanzaro-vs-s-dtirol-s1",
+      "name": "Catanzaro Vs Südtirol Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/mlmsrlyeb6/out/v1/f24ec71750694b07a01030e537d399e7/0f91b816-1804-4aff-b76f-19576ad89ac8-cenc.mpd?aws_sessionId=163c1568-1405-4e6d-afcf-5fd5f67487c8"
+    },
+    {
+      "id": "catanzaro-vs-s-dtirol-s2",
+      "name": "Catanzaro Vs Südtirol Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd"
+    },
+    {
+      "id": "catanzaro-vs-s-dtirol-s3",
+      "name": "Catanzaro Vs Südtirol Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.57/hls/SAAAAQQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "utrecht-vs-az",
@@ -837,11 +886,18 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "al-taawoun-vs-al-khaleej",
-      "name": "Al-Taawoun Vs Al-Khaleej",
+      "id": "al-taawoun-vs-al-khaleej-s1",
+      "name": "Al-Taawoun Vs Al-Khaleej Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://live.vivo200.com/live/sd-1-4599546.m3u8?txSecret=c1b1e54ca754f0e83c73ff934fb0d52d&txTime=6A80A43A|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "al-taawoun-vs-al-khaleej-s2",
+      "name": "Al-Taawoun Vs Al-Khaleej Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.57/hls/CCCA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
       "id": "angers-vs-paris",
@@ -904,7 +960,7 @@
       "name": "Kasımpaşa Vs Trabzonspor",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.57/hls/RUUUAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
       "id": "inter-vs-real-betis",
