@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T15:54:26Z",
-  "totalStreams": 259,
+  "lastUpdated": "2026-08-15T16:29:48Z",
+  "totalStreams": 260,
   "liveCount": 155,
   "channels": [
     {
@@ -729,14 +729,7 @@
       "name": "Fc Andorra Vs Ceuta",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "fulham-vs-stuttgart",
-      "name": "Fulham Vs Stuttgart",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
     },
     {
       "id": "tottenham-vs-hoffenheim-s1",
@@ -865,11 +858,18 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "dortmund-vs-roma",
-      "name": "Dortmund Vs Roma",
+      "id": "dortmund-vs-roma-s1",
+      "name": "Dortmund Vs Roma Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd|user-agent=Mozilla/5.0"
+    },
+    {
+      "id": "dortmund-vs-roma-s2",
+      "name": "Dortmund Vs Roma Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0"
     },
     {
       "id": "kas-mpa-a-vs-trabzonspor",
@@ -1364,6 +1364,13 @@
     {
       "id": "mainz-05-vs-bournemouth",
       "name": "Mainz 05 Vs Bournemouth",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "fulham-vs-stuttgart",
+      "name": "Fulham Vs Stuttgart",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
