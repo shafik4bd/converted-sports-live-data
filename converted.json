@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-15T19:56:44Z",
-  "totalStreams": 313,
+  "lastUpdated": "2026-08-15T20:31:12Z",
+  "totalStreams": 316,
   "liveCount": 185,
   "channels": [
     {
@@ -1523,11 +1523,32 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "sevilla-vs-rayo-vallecano",
-      "name": "Sevilla Vs Rayo Vallecano",
+      "id": "sevilla-vs-rayo-vallecano-s1",
+      "name": "Sevilla Vs Rayo Vallecano Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
+    },
+    {
+      "id": "sevilla-vs-rayo-vallecano-s2",
+      "name": "Sevilla Vs Rayo Vallecano Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|user-agent=Mozilla/5.0"
+    },
+    {
+      "id": "sevilla-vs-rayo-vallecano-s3",
+      "name": "Sevilla Vs Rayo Vallecano Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "sevilla-vs-rayo-vallecano-s4",
+      "name": "Sevilla Vs Rayo Vallecano Stream 4",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4565324.m3u8"
     },
     {
       "id": "r-racing-club-vs-villarreal",
@@ -1793,7 +1814,7 @@
       "name": "Fluminense Vs Palmeiras Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0"
     },
     {
       "id": "mallorca-vs-real-valladolid",
@@ -1807,7 +1828,7 @@
       "name": "Fortuna Vs Cambuur",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.190/hls/DIIIAA.m3u8|referer=http://www.fawanews.sc/"
     },
     {
       "id": "gen-lerbirli-i-vs-fenerbah-e-s1",
@@ -2192,7 +2213,7 @@
       "name": "Edmonton Vs Toronto",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/54683/load-playlist.m3u8|Referer=https://gooz.aapmains.net"
     }
   ]
 }
