@@ -1,15 +1,8 @@
 {
-  "lastUpdated": "2026-08-19T19:29:51Z",
+  "lastUpdated": "2026-08-19T19:56:48Z",
   "totalStreams": 284,
-  "liveCount": 89,
+  "liveCount": 106,
   "channels": [
-    {
-      "id": "england-vs-pakistan",
-      "name": "England Vs Pakistan",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
     {
       "id": "belgium-vs-malaysia",
       "name": "Belgium Vs Malaysia",
@@ -44,6 +37,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+    },
+    {
+      "id": "atletico-madrid-vs-malaga",
+      "name": "Atletico Madrid Vs Malaga",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8"
     },
     {
       "id": "england-vs-pakistan-s1",
@@ -121,48 +121,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.192/hls/UGGGGQQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "jeddah-vs-al-kholood-s1",
-      "name": "Jeddah Vs Al-Kholood Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo200.com/live/sd-1-4570044.m3u8?txSecret=bfc1051166b3529810fd619dd0cb4223&txTime=6A85DFAD|Referer=https://player.online909.com/"
-    },
-    {
-      "id": "jeddah-vs-al-kholood-s2",
-      "name": "Jeddah Vs Al-Kholood Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4570044.m3u8"
-    },
-    {
-      "id": "jeddah-vs-al-kholood-s3",
-      "name": "Jeddah Vs Al-Kholood Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/OKKKAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "damac-fc-vs-al-taawoun-s1",
-      "name": "Damac Fc Vs Al-Taawoun Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo200.com/live/sd-1-4570042.m3u8?txSecret=8261b28ef5cf7c6c990301d6e1ca3747&txTime=6A85DF8C|Referer=https://player.online909.com/"
-    },
-    {
-      "id": "damac-fc-vs-al-taawoun-s2",
-      "name": "Damac Fc Vs Al-Taawoun Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4570042.m3u8"
-    },
-    {
-      "id": "damac-fc-vs-al-taawoun-s3",
-      "name": "Damac Fc Vs Al-Taawoun Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/OKKKAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "mamelodi-sundowns-vs-marumo-gallants-fc-s1",
@@ -247,6 +205,167 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream1.pro/hls/dza5z8f69.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s1",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s2",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s3",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s4",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s5",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://spxt.hamrimullahchy.workers.dev/1201181/index.json?&e=.m3u8"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s6",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://spxt.hamrimullahchy.workers.dev/1201180/index.json?&e=.m3u8"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s7",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 7",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/152/index.m3u8"
+    },
+    {
+      "id": "atl-tico-madrid-vs-m-laga-cf-s8",
+      "name": "Atlético Madrid Vs Málaga Cf Stream 8",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+    },
+    {
+      "id": "hapoel-be-er-sheva-vs-sabah-fk-s1",
+      "name": "Hapoel Be'Er Sheva Vs Sabah Fk Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4608841.m3u8"
+    },
+    {
+      "id": "hapoel-be-er-sheva-vs-sabah-fk-s2",
+      "name": "Hapoel Be'Er Sheva Vs Sabah Fk Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://rdcstream.life/live/hapoel-beer-sheva-x-sabah-baku/index.m3u8?|Referer=https://bolodechocolate.fit/"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-nk-celje-s1",
+      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-nk-celje-s2",
+      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4608838.m3u8"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-nk-celje-s3",
+      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/"
+    },
+    {
+      "id": "nec-nijmegen-vs-bod-glimt-s1",
+      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "nec-nijmegen-vs-bod-glimt-s2",
+      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://spxt.hamrimullahchy.workers.dev/1201182/index.json?&e=.m3u8"
+    },
+    {
+      "id": "nec-nijmegen-vs-bod-glimt-s3",
+      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4608845.m3u8"
+    },
+    {
+      "id": "nec-nijmegen-vs-bod-glimt-s4",
+      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/"
+    },
+    {
+      "id": "celtic-vs-lask-s1",
+      "name": "Celtic Vs Lask Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "celtic-vs-lask-s2",
+      "name": "Celtic Vs Lask Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "id": "celtic-vs-lask-s3",
+      "name": "Celtic Vs Lask Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4608831.m3u8"
+    },
+    {
+      "id": "celtic-vs-lask-s4",
+      "name": "Celtic Vs Lask Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/"
+    },
+    {
+      "id": "celtic-vs-lask-s5",
+      "name": "Celtic Vs Lask Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://spxt.hamrimullahchy.workers.dev/1201183/index.json?&e=.m3u8"
+    },
+    {
+      "id": "celtic-vs-lask-s6",
+      "name": "Celtic Vs Lask Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/"
     },
     {
       "id": "dynamo-moscow-vs-fc-krasnodar-s1",
@@ -683,167 +802,6 @@
       "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
     },
     {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s1",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s2",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s3",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s4",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s5",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 5",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://spxt.hamrimullahchy.workers.dev/1201181/index.json?&e=.m3u8"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s6",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 6",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://spxt.hamrimullahchy.workers.dev/1201180/index.json?&e=.m3u8"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s7",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 7",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/152/index.m3u8"
-    },
-    {
-      "id": "atl-tico-madrid-vs-m-laga-cf-s8",
-      "name": "Atlético Madrid Vs Málaga Cf Stream 8",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-    },
-    {
-      "id": "hapoel-be-er-sheva-vs-sabah-fk-s1",
-      "name": "Hapoel Be'Er Sheva Vs Sabah Fk Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4608841.m3u8"
-    },
-    {
-      "id": "hapoel-be-er-sheva-vs-sabah-fk-s2",
-      "name": "Hapoel Be'Er Sheva Vs Sabah Fk Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/hapoel-beer-sheva-x-sabah-baku/index.m3u8?|Referer=https://bolodechocolate.fit/"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-nk-celje-s1",
-      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-nk-celje-s2",
-      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4608838.m3u8"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-nk-celje-s3",
-      "name": "Šk Slovan Bratislava Vs Nk Celje Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/slovan-bratislava-x-celje/index.m3u8?|Referer=https://bolodechocolate.fit/"
-    },
-    {
-      "id": "nec-nijmegen-vs-bod-glimt-s1",
-      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "nec-nijmegen-vs-bod-glimt-s2",
-      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://spxt.hamrimullahchy.workers.dev/1201182/index.json?&e=.m3u8"
-    },
-    {
-      "id": "nec-nijmegen-vs-bod-glimt-s3",
-      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4608845.m3u8"
-    },
-    {
-      "id": "nec-nijmegen-vs-bod-glimt-s4",
-      "name": "Nec Nijmegen Vs Bodø/Glimt Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/nec-nijmegen-x-bodoglimt/index.m3u8?|Referer=https://bolodechocolate.fit/"
-    },
-    {
-      "id": "celtic-vs-lask-s1",
-      "name": "Celtic Vs Lask Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "celtic-vs-lask-s2",
-      "name": "Celtic Vs Lask Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    {
-      "id": "celtic-vs-lask-s3",
-      "name": "Celtic Vs Lask Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4608831.m3u8"
-    },
-    {
-      "id": "celtic-vs-lask-s4",
-      "name": "Celtic Vs Lask Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/celtic-x-lask-linz/index.m3u8?|Referer=https://bolodechocolate.fit/"
-    },
-    {
-      "id": "celtic-vs-lask-s5",
-      "name": "Celtic Vs Lask Stream 5",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://spxt.hamrimullahchy.workers.dev/1201183/index.json?&e=.m3u8"
-    },
-    {
-      "id": "celtic-vs-lask-s6",
-      "name": "Celtic Vs Lask Stream 6",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/"
-    },
-    {
       "id": "cerro-porte-o-vs-palmeiras-s1",
       "name": "Cerro Porteño Vs Palmeiras Stream 1",
       "status": "UPCOMING",
@@ -1150,6 +1108,48 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://tmaxapp.site/8wirwjs76erftg/cbsnet.m3u8"
+    },
+    {
+      "id": "jeddah-vs-al-kholood-s1",
+      "name": "Jeddah Vs Al-Kholood Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo200.com/live/sd-1-4570044.m3u8?txSecret=bfc1051166b3529810fd619dd0cb4223&txTime=6A85DFAD|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "jeddah-vs-al-kholood-s2",
+      "name": "Jeddah Vs Al-Kholood Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4570044.m3u8"
+    },
+    {
+      "id": "jeddah-vs-al-kholood-s3",
+      "name": "Jeddah Vs Al-Kholood Stream 3",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/OKKKAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "damac-fc-vs-al-taawoun-s1",
+      "name": "Damac Fc Vs Al-Taawoun Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo200.com/live/sd-1-4570042.m3u8?txSecret=8261b28ef5cf7c6c990301d6e1ca3747&txTime=6A85DF8C|Referer=https://player.online909.com/"
+    },
+    {
+      "id": "damac-fc-vs-al-taawoun-s2",
+      "name": "Damac Fc Vs Al-Taawoun Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4570042.m3u8"
+    },
+    {
+      "id": "damac-fc-vs-al-taawoun-s3",
+      "name": "Damac Fc Vs Al-Taawoun Stream 3",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/OKKKAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "rubin-kazan-vs-fc-spartak-moscow-s1",
