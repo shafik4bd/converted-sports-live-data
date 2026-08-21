@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-21T17:50:05Z",
-  "totalStreams": 456,
-  "liveCount": 117,
+  "lastUpdated": "2026-08-21T18:42:11Z",
+  "totalStreams": 445,
+  "liveCount": 126,
   "channels": [
     {
       "id": "al-riyadh-vs-al-nassr",
@@ -11,11 +11,11 @@
       "link": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
     },
     {
-      "id": "netherlands-vs-india-w",
-      "name": "Netherlands Vs India - W",
+      "id": "al-qadsiah-vs-al-ittihad",
+      "name": "Al Qadsiah Vs Al-Ittihad",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8"
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
       "id": "al-hazem-vs-al-diriyah-s1",
@@ -305,11 +305,74 @@
       "link": "https://hls.live123.fans/live/4550617.m3u8"
     },
     {
+      "id": "aldosivi-vs-club-atl-tico-uni-n-de-santa-fe-s1",
+      "name": "Aldosivi Vs Club Atlético Unión De Santa Fe Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4539701.m3u8"
+    },
+    {
+      "id": "aldosivi-vs-club-atl-tico-uni-n-de-santa-fe-s2",
+      "name": "Aldosivi Vs Club Atlético Unión De Santa Fe Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/961/index.m3u8"
+    },
+    {
+      "id": "aldosivi-vs-club-atl-tico-uni-n-de-santa-fe-s3",
+      "name": "Aldosivi Vs Club Atlético Unión De Santa Fe Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/GNNNAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "ik-sirius-vs-bk-h-cken",
       "name": "Ik Sirius Vs Bk Häcken",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.50/hls/NNNNAAAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s1",
+      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/445/index.m3u8"
+    },
+    {
+      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s2",
+      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4567537.m3u8"
+    },
+    {
+      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s3",
+      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4567536.m3u8"
+    },
+    {
+      "id": "sv-ried-vs-grazer-ak-1902-s1",
+      "name": "Sv Ried Vs Grazer Ak 1902 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4567035.m3u8"
+    },
+    {
+      "id": "sv-ried-vs-grazer-ak-1902-s2",
+      "name": "Sv Ried Vs Grazer Ak 1902 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://hls.live123.fans/live/4567034.m3u8"
+    },
+    {
+      "id": "sv-ried-vs-grazer-ak-1902-s3",
+      "name": "Sv Ried Vs Grazer Ak 1902 Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/GNNNAAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "als-omonia-vs-aek-larnaca-s1",
@@ -914,55 +977,6 @@
       "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
     },
     {
-      "id": "aldosivi-vs-club-atl-tico-uni-n-de-santa-fe-s1",
-      "name": "Aldosivi Vs Club Atlético Unión De Santa Fe Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/961/index.m3u8"
-    },
-    {
-      "id": "aldosivi-vs-club-atl-tico-uni-n-de-santa-fe-s2",
-      "name": "Aldosivi Vs Club Atlético Unión De Santa Fe Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4539701.m3u8"
-    },
-    {
-      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s1",
-      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/445/index.m3u8"
-    },
-    {
-      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s2",
-      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4567537.m3u8"
-    },
-    {
-      "id": "fc-petrolul-ploie-ti-vs-fc-rapid-bucure-ti-s3",
-      "name": "Fc Petrolul Ploiești Vs Fc Rapid București Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4567536.m3u8"
-    },
-    {
-      "id": "sv-ried-vs-grazer-ak-1902-s1",
-      "name": "Sv Ried Vs Grazer Ak 1902 Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4567035.m3u8"
-    },
-    {
-      "id": "sv-ried-vs-grazer-ak-1902-s2",
-      "name": "Sv Ried Vs Grazer Ak 1902 Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://hls.live123.fans/live/4567034.m3u8"
-    },
-    {
       "id": "vitesse-vs-almere-city-fc",
       "name": "Vitesse Vs Almere City Fc",
       "status": "UPCOMING",
@@ -1292,34 +1306,6 @@
       "link": "http://162.251.160.53:8089/961/index.m3u8"
     },
     {
-      "id": "oriente-petrolero-vs-cd-san-antonio",
-      "name": "Oriente Petrolero Vs Cd San Antonio",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "rubio-u-vs-sportivo-trinidense",
-      "name": "Rubio Ñu Vs Sportivo Trinidense",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "leones-del-norte-vs-independiente-del-valle",
-      "name": "Leones Del Norte Vs Independiente Del Valle",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "deportivo-cuenca-vs-mushuc-runa-sc",
-      "name": "Deportivo Cuenca Vs Mushuc Runa Sc",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
       "id": "tigres-uanl-vs-atlante-fc-s1",
       "name": "Tigres Uanl Vs Atlante Fc Stream 1",
       "status": "UPCOMING",
@@ -1346,27 +1332,6 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "fk-austria-wien-vs-red-bull-salzburg",
-      "name": "Fk Austria Wien Vs Red Bull Salzburg",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "first-vienna-fc-vs-sk-sturm-graz",
-      "name": "First Vienna Fc Vs Sk Sturm Graz",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "san-marcos-de-arica-vs-rangers-de-talca",
-      "name": "San Marcos De Arica Vs Rangers De Talca",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
       "id": "cherno-more-varna-vs-fk-dunav-ruse",
@@ -1593,13 +1558,6 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "universidad-cat-lica-del-ecuador-vs-manta-fc",
-      "name": "Universidad Católica Del Ecuador Vs Manta Fc",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
       "id": "udinese-vs-como",
       "name": "Udinese Vs Como",
       "status": "UPCOMING",
@@ -1616,20 +1574,6 @@
     {
       "id": "genoa-vs-ssc-napoli",
       "name": "Genoa Vs Ssc Napoli",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "barcelona-sc-guayaquil-vs-orense-sc",
-      "name": "Barcelona Sc Guayaquil Vs Orense Sc",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "t-cnico-universitario-vs-guayaquil-city",
-      "name": "Técnico Universitario Vs Guayaquil City",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
@@ -2041,13 +1985,6 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "l-r-vicenza-vs-catanzaro",
-      "name": "L.R. Vicenza Vs Catanzaro",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
       "id": "empoli-vs-cremonese",
       "name": "Empoli Vs Cremonese",
       "status": "UPCOMING",
@@ -2106,20 +2043,6 @@
     {
       "id": "piast-gliwice-vs-legia-warszawa",
       "name": "Piast Gliwice Vs Legia Warszawa",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "huachipato-vs-deportes-limache",
-      "name": "Huachipato Vs Deportes Limache",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "universidad-cat-lica-vs-ublense",
-      "name": "Universidad Católica Vs Ñublense",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
