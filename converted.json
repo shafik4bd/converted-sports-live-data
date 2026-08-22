@@ -1,28 +1,21 @@
 {
-  "lastUpdated": "2026-08-22T14:56:37Z",
-  "totalStreams": 463,
-  "liveCount": 153,
+  "lastUpdated": "2026-08-22T15:28:44Z",
+  "totalStreams": 468,
+  "liveCount": 154,
   "channels": [
-    {
-      "id": "euro-kabaddi-mens-and-womens",
-      "name": "Euro Kabaddi Mens And Womens",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
-    },
-    {
-      "id": "usa-vs-new-zealand-w",
-      "name": "Usa Vs New Zealand - W",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
-    },
     {
       "id": "netherlands-vs-india",
       "name": "Netherlands Vs India",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+    },
+    {
+      "id": "athletic-vs-sevilla",
+      "name": "Athletic Vs Sevilla",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serieAleague.akamaized.net/hls/live/2107107/A1@257-tapmad/master.m3u8"
     },
     {
       "id": "premier-league-vs-simulcast-s1",
@@ -347,6 +340,20 @@
       "link": "http://193.47.62.41/hls/efffaaaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
+      "id": "fortuna-sittard-vs-az-alkmaar-s1",
+      "name": "Fortuna Sittard Vs Az Alkmaar Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
+    },
+    {
+      "id": "fortuna-sittard-vs-az-alkmaar-s2",
+      "name": "Fortuna Sittard Vs Az Alkmaar Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/BCCCAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "mks-korona-kielce-vs-motor-lublin-s1",
       "name": "Mks Korona Kielce Vs Motor Lublin Stream 1",
       "status": "LIVE",
@@ -366,20 +373,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "1-fc-n-rnberg-vs-vfl-wolfsburg-s1",
-      "name": "1. Fc Nürnberg Vs Vfl Wolfsburg Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/kdddaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "1-fc-n-rnberg-vs-vfl-wolfsburg-s2",
-      "name": "1. Fc Nürnberg Vs Vfl Wolfsburg Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/kdddaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "afc-wimbledon-vs-reading-s1",
@@ -718,6 +711,20 @@
       "link": "http://193.47.62.54/hls/TDDDQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
+      "id": "cs-mar-timo-vs-acad-mico-viseu-fc-s1",
+      "name": "Cs Marítimo Vs Académico Viseu Fc Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+    },
+    {
+      "id": "cs-mar-timo-vs-acad-mico-viseu-fc-s2",
+      "name": "Cs Marítimo Vs Académico Viseu Fc Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/BCCC.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "sekhukhune-vs-orlando-pirates-s1",
       "name": "Sekhukhune Vs Orlando Pirates Stream 1",
       "status": "LIVE",
@@ -750,7 +757,7 @@
       "name": "Formula 1 Vs Formula Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tipnftb5jj/out/v1/ae7147358bdd4d45912f6ec5ea0c510b/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dj33emtab6/out/v1/07387027812e452086103d4f68b45f06/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
       "id": "formula-1-vs-formula-s2",
@@ -771,7 +778,7 @@
       "name": "Formula 1 Vs Formula Stream 4",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/chkjskzwb1/out/v1/606c9e8c9893407db74029536ac6b808/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gl3ncksosm/out/v1/2d72ad983aeb461ab0f28e073cf34212/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
     },
     {
       "id": "formula-1-vs-formula-s5",
@@ -1271,11 +1278,25 @@
       "link": "g"
     },
     {
-      "id": "real-oviedo-vs-legan-s",
-      "name": "Real Oviedo Vs Leganés",
+      "id": "athletic-club-vs-sevilla-s5",
+      "name": "Athletic Club Vs Sevilla Stream 5",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/FIIIAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "real-oviedo-vs-legan-s-s1",
+      "name": "Real Oviedo Vs Leganés Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
+    },
+    {
+      "id": "real-oviedo-vs-legan-s-s2",
+      "name": "Real Oviedo Vs Leganés Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/FIIIA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "valencia-vs-celta-vigo-s1",
@@ -1418,6 +1439,13 @@
       "link": "https://tmaxapp.site/pt658svs/sporttv6.m3u8"
     },
     {
+      "id": "rc-lens-vs-auxerre-s3",
+      "name": "Rc Lens Vs Auxerre Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/FIIIAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "nice-vs-lorient",
       "name": "Nice Vs Lorient",
       "status": "UPCOMING",
@@ -1439,11 +1467,18 @@
       "link": "https://tmaxapp.site/ligue6sc6/ligue4.m3u8"
     },
     {
-      "id": "akhmat-grozny-vs-fc-rostov",
-      "name": "Akhmat Grozny Vs Fc Rostov",
+      "id": "akhmat-grozny-vs-fc-rostov-s1",
+      "name": "Akhmat Grozny Vs Fc Rostov Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.41/hls/FIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "akhmat-grozny-vs-fc-rostov-s2",
+      "name": "Akhmat Grozny Vs Fc Rostov Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/FIII.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "cska-moscow-vs-lokomotiv-moscow",
@@ -1642,13 +1677,6 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "fortuna-sittard-vs-az-alkmaar",
-      "name": "Fortuna Sittard Vs Az Alkmaar",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-    },
-    {
       "id": "aykur-rizespor-vs-samsunspor",
       "name": "Çaykur Rizespor Vs Samsunspor",
       "status": "UPCOMING",
@@ -1756,13 +1784,6 @@
     {
       "id": "new-york-red-bulls-vs-chicago-fire",
       "name": "New York Red Bulls Vs Chicago Fire",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "nashville-sc-vs-columbus-crew",
-      "name": "Nashville Sc Vs Columbus Crew",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
@@ -1892,13 +1913,6 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
-    },
-    {
-      "id": "cs-mar-timo-vs-acad-mico-viseu-fc",
-      "name": "Cs Marítimo Vs Académico Viseu Fc",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
     },
     {
       "id": "sporting-cp-vs-fc-alverca-s1",
@@ -2221,6 +2235,20 @@
       "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/RGGGA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "1-fc-n-rnberg-vs-vfl-wolfsburg-s1",
+      "name": "1. Fc Nürnberg Vs Vfl Wolfsburg Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/kdddaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "1-fc-n-rnberg-vs-vfl-wolfsburg-s2",
+      "name": "1. Fc Nürnberg Vs Vfl Wolfsburg Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/kdddaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "luton-town-vs-notts-county-s1",
@@ -2941,14 +2969,21 @@
       "name": "South Africa Vs New Zealand Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://rdcstream.life/live/sport-tv-5-pt/index.m3u8?|Referer=https://bolodechocolate.fit/"
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
     },
     {
       "id": "south-africa-vs-new-zealand-s3",
       "name": "South Africa Vs New Zealand Stream 3",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsaction.m3u8"
+      "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8"
+    },
+    {
+      "id": "south-africa-vs-new-zealand-s4",
+      "name": "South Africa Vs New Zealand Stream 4",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.194/hls/LLLLQF.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
