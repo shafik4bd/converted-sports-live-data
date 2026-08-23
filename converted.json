@@ -1,28 +1,21 @@
 {
-  "lastUpdated": "2026-08-23T11:55:45Z",
-  "totalStreams": 324,
-  "liveCount": 63,
+  "lastUpdated": "2026-08-23T12:51:56Z",
+  "totalStreams": 323,
+  "liveCount": 65,
   "channels": [
-    {
-      "id": "sri-lanka-vs-india",
-      "name": "Sri Lanka Vs India",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
-    },
-    {
-      "id": "malaysia-vs-south-africa",
-      "name": "Malaysia Vs South Africa",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
-    },
     {
       "id": "japan-vs-england-w",
       "name": "Japan Vs England - W",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8"
+    },
+    {
+      "id": "france-vs-ireland",
+      "name": "France Vs Ireland",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8"
     },
     {
       "id": "sri-lanka-vs-india-s1",
@@ -86,27 +79,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s1",
-      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtfmzwubqz/out/v1/96db69b89e7c41a5ad6767652065d799/cenc.mpd"
-    },
-    {
-      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s2",
-      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
-    },
-    {
-      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s3",
-      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "akron-togliatti-vs-krylya-sovetov-samara-s1",
@@ -249,6 +221,20 @@
       "link": "https://play3.315nb.com/live/72339714_0e82a527ad36b7997f4ffce0348c80dd_540p.m3u8?auth_key=1787497069-0-0-110650de1c0edda54f14c7ee1a60e0ea"
     },
     {
+      "id": "east-bengal-fc-vs-mohun-bagan-super-giant-s1",
+      "name": "East Bengal Fc Vs Mohun Bagan Super Giant Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/East_Ben2308/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=802857373c5805697c4666812db75dd9-1787481001457"
+    },
+    {
+      "id": "east-bengal-fc-vs-mohun-bagan-super-giant-s2",
+      "name": "East Bengal Fc Vs Mohun Bagan Super Giant Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/East_Ben2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=802857373c5805697c4666812db75dd9-1787481001457"
+    },
+    {
       "id": "sangbad-pratidin-bhawanipore-vs-railway-fc",
       "name": "Sangbad Pratidin Bhawanipore Vs Railway Fc",
       "status": "LIVE",
@@ -268,6 +254,41 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://live-n10.videostech.cloud/match/bidhannagarmsavscalcuttacustomsclub/HLS/master.m3u8"
+    },
+    {
+      "id": "golf-eventos-vs-golf-eventos-s1",
+      "name": "Golf Eventos Vs Golf Eventos Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8"
+    },
+    {
+      "id": "golf-eventos-vs-golf-eventos-s2",
+      "name": "Golf Eventos Vs Golf Eventos Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "golf-eventos-vs-golf-eventos-s3",
+      "name": "Golf Eventos Vs Golf Eventos Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8"
+    },
+    {
+      "id": "golf-eventos-vs-golf-eventos-s4",
+      "name": "Golf Eventos Vs Golf Eventos Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/DEDEDEAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "golf-eventos-vs-golf-eventos-s5",
+      "name": "Golf Eventos Vs Golf Eventos Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "west-coast-eagles-vs-hawthorn-hawks-s1",
@@ -366,13 +387,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://cdn02khi-n.tamashaweb.com:8087/jazzauth/FIH-HWC2026B-abr/playlist.m3u8"
-    },
-    {
-      "id": "supercars-vs-supercars",
-      "name": "Supercars Vs Supercars",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8"
     },
     {
       "id": "cycling-vs-cycling-s1",
@@ -555,6 +569,27 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://crimson-cloud-807f.kamrukhanchy.workers.dev/441307/index.json?&e=.m3u8"
+    },
+    {
+      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s1",
+      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rtfmzwubqz/out/v1/96db69b89e7c41a5ad6767652065d799/cenc.mpd"
+    },
+    {
+      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s2",
+      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+    },
+    {
+      "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s3",
+      "name": "Top End T20 Series 2026 Vs Top End T20 Series 2026 Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
     },
     {
       "id": "atl-tico-madrid-vs-villarreal-s1",
@@ -1285,20 +1320,6 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "east-bengal-fc-vs-mohun-bagan-super-giant-s1",
-      "name": "East Bengal Fc Vs Mohun Bagan Super Giant Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/East_Ben2308/BEN/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=802857373c5805697c4666812db75dd9-1787481001457"
-    },
-    {
-      "id": "east-bengal-fc-vs-mohun-bagan-super-giant-s2",
-      "name": "East Bengal Fc Vs Mohun Bagan Super Giant Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/East_Ben2308/ENG/master.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0&Referer=https://www.sonyliv.com/&Origin=https://www.sonyliv.com&x-playback-session-id=802857373c5805697c4666812db75dd9-1787481001457"
-    },
-    {
       "id": "pumas-unam-vs-club-necaxa",
       "name": "Pumas Unam Vs Club Necaxa",
       "status": "UPCOMING",
@@ -1838,41 +1859,6 @@
       "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8"
     },
     {
-      "id": "golf-eventos-vs-golf-eventos-s1",
-      "name": "Golf Eventos Vs Golf Eventos Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportsgolf.m3u8"
-    },
-    {
-      "id": "golf-eventos-vs-golf-eventos-s2",
-      "name": "Golf Eventos Vs Golf Eventos Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "golf-eventos-vs-golf-eventos-s3",
-      "name": "Golf Eventos Vs Golf Eventos Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport1nz15866.m3u8"
-    },
-    {
-      "id": "golf-eventos-vs-golf-eventos-s4",
-      "name": "Golf Eventos Vs Golf Eventos Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/DEDEDEAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "golf-eventos-vs-golf-eventos-s5",
-      "name": "Golf Eventos Vs Golf Eventos Stream 5",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/DEDEDEAAAX.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
       "id": "tennis-evento-vs-tennis-evento-s1",
       "name": "Tennis | Evento Vs Tennis | Evento Stream 1",
       "status": "UPCOMING",
@@ -2270,6 +2256,13 @@
       "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/ARRRVV.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "supercars-vs-supercars",
+      "name": "Supercars Vs Supercars",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport4nz97xcdfg.m3u8"
     }
   ]
 }
