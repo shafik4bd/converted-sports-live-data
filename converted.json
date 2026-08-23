@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-23T10:57:23Z",
+  "lastUpdated": "2026-08-23T11:28:24Z",
   "totalStreams": 316,
-  "liveCount": 57,
+  "liveCount": 55,
   "channels": [
     {
       "id": "sri-lanka-vs-india",
@@ -254,20 +254,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/TGGGA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "port-adelaide-power-vs-hawthorn-hawks-s1",
-      "name": "Port Adelaide Power Vs Hawthorn Hawks Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "port-adelaide-power-vs-hawthorn-hawks-s2",
-      "name": "Port Adelaide Power Vs Hawthorn Hawks Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
     },
     {
       "id": "cronulla-sharks-vs-parramatta-eels-s1",
@@ -2214,6 +2200,20 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "port-adelaide-power-vs-hawthorn-hawks-s1",
+      "name": "Port Adelaide Power Vs Hawthorn Hawks Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "port-adelaide-power-vs-hawthorn-hawks-s2",
+      "name": "Port Adelaide Power Vs Hawthorn Hawks Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysport7nz45cx74fvg.m3u8"
     }
   ]
 }
