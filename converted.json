@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-24T21:03:53Z",
+  "lastUpdated": "2026-08-24T21:48:20Z",
   "totalStreams": 200,
-  "liveCount": 72,
+  "liveCount": 68,
   "channels": [
     {
       "id": "men-s-women-s-singles-qualifying",
@@ -88,13 +88,6 @@
       "link": "http://193.47.62.41/hls/dbbbbaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
-      "id": "sc-o-elul-gala-i-vs-fc-arge-pite-ti",
-      "name": "Sc Oțelul Galați Vs Fc Argeș Pitești",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/fzzzaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
       "id": "hallescher-fc-vs-fc-schalke-04-s1",
       "name": "Hallescher Fc Vs Fc Schalke 04 Stream 1",
       "status": "LIVE",
@@ -114,27 +107,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s1",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s2",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/90/index.m3u8"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s3",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "gil-vicente-vs-casa-pia",
@@ -802,6 +774,13 @@
       "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0"
     },
     {
+      "id": "sc-o-elul-gala-i-vs-fc-arge-pite-ti",
+      "name": "Sc Oțelul Galați Vs Fc Argeș Pitești",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/fzzzaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "malm-ff-vs-djurg-rdens-if-s1",
       "name": "Malmö Ff Vs Djurgårdens If Stream 1",
       "status": "FINISHED",
@@ -905,6 +884,27 @@
       "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/EBBBAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s1",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+    },
+    {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s2",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/90/index.m3u8"
+    },
+    {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s3",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 3",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "neom-sc-vs-al-qadsiah-s1",
