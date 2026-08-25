@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-08-24T23:55:50Z",
+  "lastUpdated": "2026-08-25T01:40:42Z",
   "totalStreams": 227,
-  "liveCount": 125,
+  "liveCount": 166,
   "channels": [
     {
       "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s1",
@@ -18,18 +18,53 @@
       "link": "https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8"
     },
     {
-      "id": "tigre-vs-central-c-rdoba-s1",
-      "name": "Tigre Vs Central Córdoba Stream 1",
+      "id": "libertad-fc-vs-macar",
+      "name": "Libertad Fc Vs Macará",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/zzdddAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "everton-de-vi-a-del-mar-vs-universidad-de-concepci-n",
+      "name": "Everton De Viña Del Mar Vs Universidad De Concepción",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/zzdddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "ca-lan-s-vs-argentinos-juniors-s1",
+      "name": "Ca Lanús Vs Argentinos Juniors Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/40/index.m3u8"
     },
     {
-      "id": "tigre-vs-central-c-rdoba-s2",
-      "name": "Tigre Vs Central Córdoba Stream 2",
+      "id": "ca-lan-s-vs-argentinos-juniors-s2",
+      "name": "Ca Lanús Vs Argentinos Juniors Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/jttta.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+      "link": "http://193.47.62.41/hls/ZZGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "ca-talleres-vs-rosario-central-s1",
+      "name": "Ca Talleres Vs Rosario Central Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+    },
+    {
+      "id": "ca-talleres-vs-rosario-central-s2",
+      "name": "Ca Talleres Vs Rosario Central Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/50/index.m3u8"
+    },
+    {
+      "id": "ca-talleres-vs-rosario-central-s3",
+      "name": "Ca Talleres Vs Rosario Central Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/ZZGGGS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "botafogo-vs-athletico-s1",
@@ -51,6 +86,34 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/zzddd.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s1",
+      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+    },
+    {
+      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s2",
+      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s3",
+      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s4",
+      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
     },
     {
       "id": "racing-club-vs-boca-juniors-s1",
@@ -100,6 +163,13 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/GZZZQQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "granada-vs-mallorca",
+      "name": "Granada Vs Mallorca",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
     },
     {
       "id": "osasuna-vs-levante-ud-s1",
@@ -165,6 +235,41 @@
       "link": "http://193.47.62.41/hls/G444AAAaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
+      "id": "as-roma-vs-fiorentina-s1",
+      "name": "As Roma Vs Fiorentina Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
+    },
+    {
+      "id": "as-roma-vs-fiorentina-s2",
+      "name": "As Roma Vs Fiorentina Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
+    },
+    {
+      "id": "as-roma-vs-fiorentina-s3",
+      "name": "As Roma Vs Fiorentina Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssxpsgkjtp/out/v1/9030b59b336d4deabda16d8ab696670d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "as-roma-vs-fiorentina-s4",
+      "name": "As Roma Vs Fiorentina Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
+    },
+    {
+      "id": "as-roma-vs-fiorentina-s5",
+      "name": "As Roma Vs Fiorentina Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbbaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "bologna-vs-lazio-s1",
       "name": "Bologna Vs Lazio Stream 1",
       "status": "LIVE",
@@ -214,6 +319,13 @@
       "link": "https://edgestream2.pro/hls/syaLqucEne4k.m3u8|referer=https%3A%2F%2Fstreame.center&origin=https%3A%2F%2Fstreame.center&user-agent=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F134.0.0.0%20Safari%2F537.36%20Edg%2F134.0.0.0"
     },
     {
+      "id": "sc-o-elul-gala-i-vs-fc-arge-pite-ti",
+      "name": "Sc Oțelul Galați Vs Fc Argeș Pitești",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/fzzzaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "malm-ff-vs-djurg-rdens-if-s1",
       "name": "Malmö Ff Vs Djurgårdens If Stream 1",
       "status": "LIVE",
@@ -254,6 +366,27 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/EBBBAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "hallescher-fc-vs-fc-schalke-04-s1",
+      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/30/index.m3u8"
+    },
+    {
+      "id": "hallescher-fc-vs-fc-schalke-04-s2",
+      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbbaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "hallescher-fc-vs-fc-schalke-04-s3",
+      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
     },
     {
       "id": "fc-w-rzburger-kickers-vs-1-fc-k-ln-s1",
@@ -319,6 +452,34 @@
       "link": "http://193.47.62.41/hls/EBBBAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s1",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
+    },
+    {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s2",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/90/index.m3u8"
+    },
+    {
+      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s3",
+      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "gil-vicente-vs-casa-pia",
+      "name": "Gil Vicente Vs Casa Pia",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
+    },
+    {
       "id": "neom-sc-vs-al-qadsiah-s1",
       "name": "Neom Sc Vs Al-Qadsiah Stream 1",
       "status": "LIVE",
@@ -354,6 +515,20 @@
       "link": "http://193.47.62.41/hls/fzzzaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
+      "id": "stade-de-reims-vs-annecy-fc-s1",
+      "name": "Stade De Reims Vs Annecy Fc Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+    },
+    {
+      "id": "stade-de-reims-vs-annecy-fc-s2",
+      "name": "Stade De Reims Vs Annecy Fc Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbba.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
       "id": "coastal-union-vs-tra-united-s1",
       "name": "Coastal Union Vs Tra United Stream 1",
       "status": "LIVE",
@@ -380,6 +555,20 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/EBBB.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "nacional-asunci-n-vs-sportivo-luque-o-s1",
+      "name": "Nacional Asunción Vs Sportivo Luqueño Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbbaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "nacional-asunci-n-vs-sportivo-luque-o-s2",
+      "name": "Nacional Asunción Vs Sportivo Luqueño Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/dbbbbaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "jong-fc-utrecht-vs-heracles-almelo-s1",
@@ -557,6 +746,34 @@
       "link": "https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
     },
     {
+      "id": "chicago-white-sox-vs-texas-rangers-s1",
+      "name": "Chicago White Sox Vs Texas Rangers Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/55171/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "chicago-white-sox-vs-texas-rangers-s2",
+      "name": "Chicago White Sox Vs Texas Rangers Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "chicago-white-sox-vs-texas-rangers-s3",
+      "name": "Chicago White Sox Vs Texas Rangers Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/zzdddAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "chicago-white-sox-vs-texas-rangers-s4",
+      "name": "Chicago White Sox Vs Texas Rangers Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+    },
+    {
       "id": "miami-marlins-vs-boston-red-sox-s1",
       "name": "Miami Marlins Vs Boston Red Sox Stream 1",
       "status": "LIVE",
@@ -604,6 +821,76 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream1.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+    },
+    {
+      "id": "minnesota-lynx-vs-golden-state-valkyries-s1",
+      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/55174/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
+    },
+    {
+      "id": "minnesota-lynx-vs-golden-state-valkyries-s2",
+      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+    },
+    {
+      "id": "minnesota-lynx-vs-golden-state-valkyries-s3",
+      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
+    },
+    {
+      "id": "minnesota-lynx-vs-golden-state-valkyries-s4",
+      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/zzdddAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "fulham-vs-chelsea-s1",
+      "name": "Fulham Vs Chelsea Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+    },
+    {
+      "id": "fulham-vs-chelsea-s2",
+      "name": "Fulham Vs Chelsea Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8"
+    },
+    {
+      "id": "fulham-vs-chelsea-s3",
+      "name": "Fulham Vs Chelsea Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8"
+    },
+    {
+      "id": "fulham-vs-chelsea-s4",
+      "name": "Fulham Vs Chelsea Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
+    },
+    {
+      "id": "fulham-vs-chelsea-s5",
+      "name": "Fulham Vs Chelsea Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports3tr.m3u8"
+    },
+    {
+      "id": "fulham-vs-chelsea-s6",
+      "name": "Fulham Vs Chelsea Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.53/hls/ZKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "indycar-series-racing-vs-indycar-series-racing-s1",
@@ -991,207 +1278,18 @@
       "link": "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809389.m3u8"
     },
     {
-      "id": "libertad-fc-vs-macar",
-      "name": "Libertad Fc Vs Macará",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/zzdddAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "everton-de-vi-a-del-mar-vs-universidad-de-concepci-n",
-      "name": "Everton De Viña Del Mar Vs Universidad De Concepción",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/zzdddA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "ca-lan-s-vs-argentinos-juniors-s1",
-      "name": "Ca Lanús Vs Argentinos Juniors Stream 1",
-      "status": "UPCOMING",
+      "id": "tigre-vs-central-c-rdoba-s1",
+      "name": "Tigre Vs Central Córdoba Stream 1",
+      "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/40/index.m3u8"
     },
     {
-      "id": "ca-lan-s-vs-argentinos-juniors-s2",
-      "name": "Ca Lanús Vs Argentinos Juniors Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/ZZGGG.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "ca-talleres-vs-rosario-central-s1",
-      "name": "Ca Talleres Vs Rosario Central Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
-    },
-    {
-      "id": "ca-talleres-vs-rosario-central-s2",
-      "name": "Ca Talleres Vs Rosario Central Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/50/index.m3u8"
-    },
-    {
-      "id": "ca-talleres-vs-rosario-central-s3",
-      "name": "Ca Talleres Vs Rosario Central Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/ZZGGGS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s1",
-      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 1",
+      "id": "tigre-vs-central-c-rdoba-s2",
+      "name": "Tigre Vs Central Córdoba Stream 2",
       "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-    },
-    {
-      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s2",
-      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s3",
-      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 3",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
-    },
-    {
-      "id": "m-laga-cf-vs-deportivo-de-a-coru-a-s4",
-      "name": "Málaga Cf Vs Deportivo De A Coruña Stream 4",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/sqdahach1ax.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-    },
-    {
-      "id": "granada-vs-mallorca",
-      "name": "Granada Vs Mallorca",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cache07.zapitv.com/live/eds_c2/HYPERMOTION1/dash_live_ez/HYPERMOTION1.mpd"
-    },
-    {
-      "id": "as-roma-vs-fiorentina-s1",
-      "name": "As Roma Vs Fiorentina Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
-    },
-    {
-      "id": "as-roma-vs-fiorentina-s2",
-      "name": "As Roma Vs Fiorentina Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd|Origin=https://amazon.com&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0"
-    },
-    {
-      "id": "as-roma-vs-fiorentina-s3",
-      "name": "As Roma Vs Fiorentina Stream 3",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ssxpsgkjtp/out/v1/9030b59b336d4deabda16d8ab696670d/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "as-roma-vs-fiorentina-s4",
-      "name": "As Roma Vs Fiorentina Stream 4",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/pt658svs/sporttv2.m3u8"
-    },
-    {
-      "id": "as-roma-vs-fiorentina-s5",
-      "name": "As Roma Vs Fiorentina Stream 5",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbbaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "sc-o-elul-gala-i-vs-fc-arge-pite-ti",
-      "name": "Sc Oțelul Galați Vs Fc Argeș Pitești",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/fzzzaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "hallescher-fc-vs-fc-schalke-04-s1",
-      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/30/index.m3u8"
-    },
-    {
-      "id": "hallescher-fc-vs-fc-schalke-04-s2",
-      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbbaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "hallescher-fc-vs-fc-schalke-04-s3",
-      "name": "Hallescher Fc Vs Fc Schalke 04 Stream 3",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s1",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports1tr.m3u8"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s2",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/90/index.m3u8"
-    },
-    {
-      "id": "kocaelispor-vs-amed-sportif-faaliyetler-s3",
-      "name": "Kocaelispor Vs Amed Sportif Faaliyetler Stream 3",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbb.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "gil-vicente-vs-casa-pia",
-      "name": "Gil Vicente Vs Casa Pia",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/pt658svs/sporttv1.m3u8"
-    },
-    {
-      "id": "stade-de-reims-vs-annecy-fc-s1",
-      "name": "Stade De Reims Vs Annecy Fc Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
-    },
-    {
-      "id": "stade-de-reims-vs-annecy-fc-s2",
-      "name": "Stade De Reims Vs Annecy Fc Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbba.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "nacional-asunci-n-vs-sportivo-luque-o-s1",
-      "name": "Nacional Asunción Vs Sportivo Luqueño Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbbaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "nacional-asunci-n-vs-sportivo-luque-o-s2",
-      "name": "Nacional Asunción Vs Sportivo Luqueño Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/dbbbbaaaa.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+      "link": "http://193.47.62.41/hls/jttta.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
@@ -1481,34 +1579,6 @@
       "link": "http://193.47.62.41/hls/ZZGGGSS.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
-      "id": "chicago-white-sox-vs-texas-rangers-s1",
-      "name": "Chicago White Sox Vs Texas Rangers Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/55171/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
-    },
-    {
-      "id": "chicago-white-sox-vs-texas-rangers-s2",
-      "name": "Chicago White Sox Vs Texas Rangers Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/Czajafjihafch18.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-    },
-    {
-      "id": "chicago-white-sox-vs-texas-rangers-s3",
-      "name": "Chicago White Sox Vs Texas Rangers Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/zzdddAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "chicago-white-sox-vs-texas-rangers-s4",
-      "name": "Chicago White Sox Vs Texas Rangers Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-    },
-    {
       "id": "los-angeles-sparks-vs-atlanta-dream-s1",
       "name": "Los Angeles Sparks Vs Atlanta Dream Stream 1",
       "status": "UPCOMING",
@@ -1521,76 +1591,6 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/FZZZDQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "minnesota-lynx-vs-golden-state-valkyries-s1",
-      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/55174/load-playlist?&.m3u8|Referer=https://gooz.aapmains.net"
-    },
-    {
-      "id": "minnesota-lynx-vs-golden-state-valkyries-s2",
-      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-    },
-    {
-      "id": "minnesota-lynx-vs-golden-state-valkyries-s3",
-      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0&Referer=https://streame.center&Origin=https://streame.center"
-    },
-    {
-      "id": "minnesota-lynx-vs-golden-state-valkyries-s4",
-      "name": "Minnesota Lynx Vs Golden State Valkyries Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/zzdddAAAA.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "fulham-vs-chelsea-s1",
-      "name": "Fulham Vs Chelsea Stream 1",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "fulham-vs-chelsea-s2",
-      "name": "Fulham Vs Chelsea Stream 2",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportspl.m3u8"
-    },
-    {
-      "id": "fulham-vs-chelsea-s3",
-      "name": "Fulham Vs Chelsea Stream 3",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/usanetwork.m3u8"
-    },
-    {
-      "id": "fulham-vs-chelsea-s4",
-      "name": "Fulham Vs Chelsea Stream 4",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/skysportslnz.m3u8"
-    },
-    {
-      "id": "fulham-vs-chelsea-s5",
-      "name": "Fulham Vs Chelsea Stream 5",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tmaxapp.site/8wirwjs76erftg/beinsports3tr.m3u8"
-    },
-    {
-      "id": "fulham-vs-chelsea-s6",
-      "name": "Fulham Vs Chelsea Stream 6",
-      "status": "FINISHED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.53/hls/ZKKKK.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     }
   ]
 }
