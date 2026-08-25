@@ -1,8 +1,15 @@
 {
-  "lastUpdated": "2026-08-25T13:54:28Z",
-  "totalStreams": 187,
-  "liveCount": 46,
+  "lastUpdated": "2026-08-25T14:51:14Z",
+  "totalStreams": 188,
+  "liveCount": 41,
   "channels": [
+    {
+      "id": "men-s-women-s-singles-qualifying",
+      "name": "Men'S & Women'S Singles Qualifying",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8"
+    },
     {
       "id": "sri-lanka-vs-india-s1",
       "name": "Sri Lanka Vs India Stream 1",
@@ -65,48 +72,6 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
-    },
-    {
-      "id": "jeju-sk-vs-pohang-steelers-s1",
-      "name": "Jeju Sk Vs Pohang Steelers Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/apppQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "jeju-sk-vs-pohang-steelers-s2",
-      "name": "Jeju Sk Vs Pohang Steelers Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/apppQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "fc-seoul-vs-bucheon-fc-1995-s1",
-      "name": "Fc Seoul Vs Bucheon Fc 1995 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/apppQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "fc-seoul-vs-bucheon-fc-1995-s2",
-      "name": "Fc Seoul Vs Bucheon Fc 1995 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/apppQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "gimcheon-sangmu-fc-vs-jeonbuk-hyundai-motors-s1",
-      "name": "Gimcheon Sangmu Fc Vs Jeonbuk Hyundai Motors Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/appp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
-    },
-    {
-      "id": "gimcheon-sangmu-fc-vs-jeonbuk-hyundai-motors-s2",
-      "name": "Gimcheon Sangmu Fc Vs Jeonbuk Hyundai Motors Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/appp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "top-end-t20-series-2026-vs-top-end-t20-series-2026-s1",
@@ -214,27 +179,6 @@
       "link": "http://193.47.62.194/hls/vavavava.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
-      "id": "hockey-vs-hockey-s1",
-      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
-    },
-    {
-      "id": "hockey-vs-hockey-s2",
-      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8"
-    },
-    {
-      "id": "hockey-vs-hockey-s3",
-      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.incableinternet.com/ptv-sports/720p.m3u8"
-    },
-    {
       "id": "cycling-vs-cycling-s1",
       "name": "Cycling Vs Cycling Stream 1",
       "status": "LIVE",
@@ -324,6 +268,27 @@
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://tmaxapp.site/pt658svs/sporttv5.m3u8"
+    },
+    {
+      "id": "hockey-vs-hockey-s1",
+      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://tvsen7.aynascope.net/Sports1/tracks-v1a1/mono.ts.m3u8"
+    },
+    {
+      "id": "hockey-vs-hockey-s2",
+      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/Splus2/Starsel2.m3u8"
+    },
+    {
+      "id": "hockey-vs-hockey-s3",
+      "name": "Hockey 🏑 Vs Hockey 🏑 Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.incableinternet.com/ptv-sports/720p.m3u8"
     },
     {
       "id": "real-betis-vs-valencia-s1",
@@ -800,6 +765,48 @@
       "status": "FINISHED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "jeju-sk-vs-pohang-steelers-s1",
+      "name": "Jeju Sk Vs Pohang Steelers Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/apppQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "jeju-sk-vs-pohang-steelers-s2",
+      "name": "Jeju Sk Vs Pohang Steelers Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/apppQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "fc-seoul-vs-bucheon-fc-1995-s1",
+      "name": "Fc Seoul Vs Bucheon Fc 1995 Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/apppQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "fc-seoul-vs-bucheon-fc-1995-s2",
+      "name": "Fc Seoul Vs Bucheon Fc 1995 Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/apppQQ.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "gimcheon-sangmu-fc-vs-jeonbuk-hyundai-motors-s1",
+      "name": "Gimcheon Sangmu Fc Vs Jeonbuk Hyundai Motors Stream 1",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/appp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
+    },
+    {
+      "id": "gimcheon-sangmu-fc-vs-jeonbuk-hyundai-motors-s2",
+      "name": "Gimcheon Sangmu Fc Vs Jeonbuk Hyundai Motors Stream 2",
+      "status": "FINISHED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/appp.m3u8?|Referer=http://www.fawanews.sc/&Origin=http://www.fawanews.sc/"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
