@@ -1,609 +1,49 @@
 {
-  "lastUpdated": "2026-09-26T01:58:22Z",
-  "totalStreams": 389,
-  "liveCount": 72,
+  "lastUpdated": "2026-09-26T07:31:27Z",
+  "totalStreams": 331,
+  "liveCount": 35,
   "channels": [
-    {
-      "id": "smackdown-vs-smackdown-s1",
-      "name": "SmackDown Vs SmackDown Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s2",
-      "name": "SmackDown Vs SmackDown Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s3",
-      "name": "SmackDown Vs SmackDown Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sdddqQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s4",
-      "name": "SmackDown Vs SmackDown Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/zeuryuegn48.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s5",
-      "name": "SmackDown Vs SmackDown Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s6",
-      "name": "SmackDown Vs SmackDown Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://daffodil.demonpvp.fun/wwe.m3u8",
-      "referer": "https://roxiestreams.info",
-      "origin": "https://roxiestreams.info"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s7",
-      "name": "SmackDown Vs SmackDown Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/zeuryuegn48.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s8",
-      "name": "SmackDown Vs SmackDown Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s9",
-      "name": "SmackDown Vs SmackDown Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s10",
-      "name": "SmackDown Vs SmackDown Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s11",
-      "name": "SmackDown Vs SmackDown Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s12",
-      "name": "SmackDown Vs SmackDown Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s13",
-      "name": "SmackDown Vs SmackDown Stream 13",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s14",
-      "name": "SmackDown Vs SmackDown Stream 14",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8"
-    },
-    {
-      "id": "smackdown-vs-smackdown-s15",
-      "name": "SmackDown Vs SmackDown Stream 15",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd"
-    },
-    {
-      "id": "uab-blazers-vs-navy-midshipmen-s1",
-      "name": "UAB Blazers Vs Navy Midshipmen Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "uab-blazers-vs-navy-midshipmen-s2",
-      "name": "UAB Blazers Vs Navy Midshipmen Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "indiana-hoosiers-vs-northwestern-wildcats-s1",
-      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "indiana-hoosiers-vs-northwestern-wildcats-s2",
-      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
-    },
-    {
-      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s1",
-      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
-    },
-    {
-      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s2",
-      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s3",
-      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sdddqQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "japan-vs-nepal-s1",
-      "name": "Japan Vs Nepal Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
-    },
-    {
-      "id": "japan-vs-nepal-s2",
-      "name": "Japan Vs Nepal Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sddd.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "barbados-vs-saint-lucia-s1",
-      "name": "Barbados Vs Saint Lucia Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/25179/index.m3u8"
-    },
-    {
-      "id": "barbados-vs-saint-lucia-s2",
-      "name": "Barbados Vs Saint Lucia Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sdddqQQAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "honduras-vs-suriname-s1",
-      "name": "Honduras Vs Suriname Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/28980/index.m3u8"
-    },
-    {
-      "id": "honduras-vs-suriname-s2",
-      "name": "Honduras Vs Suriname Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVAQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "jamaica-vs-guatemala-s1",
-      "name": "Jamaica Vs Guatemala Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/27149/index.m3u8"
-    },
-    {
-      "id": "jamaica-vs-guatemala-s2",
-      "name": "Jamaica Vs Guatemala Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sdddqQQA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "bonaire-vs-saint-kitts-and-nevis-s1",
-      "name": "Bonaire Vs Saint Kitts and Nevis Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/26743/index.m3u8"
-    },
-    {
-      "id": "bonaire-vs-saint-kitts-and-nevis-s2",
-      "name": "Bonaire Vs Saint Kitts and Nevis Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/sdddqQQAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "cavalry-fc-vs-fc-supra-du-quebec-s1",
-      "name": "Cavalry FC Vs FC Supra Du Quebec Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVAQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "cavalry-fc-vs-fc-supra-du-quebec-s2",
-      "name": "Cavalry FC Vs FC Supra Du Quebec Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVAQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "atlante-fc-vs-cf-monterrey",
-      "name": "Atlante FC Vs CF Monterrey",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVAQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "seattle-reign-fc-vs-boston-legacy-fc-s1",
-      "name": "Seattle Reign FC Vs Boston Legacy FC Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "seattle-reign-fc-vs-boston-legacy-fc-s2",
-      "name": "Seattle Reign FC Vs Boston Legacy FC Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/VAVAVA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "el-paso-locomotive-fc-vs-fc-tulsa",
-      "name": "El Paso Locomotive FC Vs FC Tulsa",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-      "referer": "https://amazon.com",
-      "origin": "https://amazon.com"
-    },
-    {
-      "id": "once-caldas-vs-atl-tico-bucaramanga",
-      "name": "Once Caldas Vs Atlético Bucaramanga",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/YNNNAAAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "washington-nationals-vs-new-york-mets",
-      "name": "Washington Nationals Vs New York Mets",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-york-yankees-vs-baltimore-orioles-s1",
-      "name": "New York Yankees Vs Baltimore Orioles Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/16yuitzaerghbhc16.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-york-yankees-vs-baltimore-orioles-s2",
-      "name": "New York Yankees Vs Baltimore Orioles Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/ojzkajnach21.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "miami-marlins-vs-atlanta-braves",
-      "name": "Miami Marlins Vs Atlanta Braves",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "chicago-white-sox-vs-colorado-rockies",
-      "name": "Chicago White Sox Vs Colorado Rockies",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/kjhfzua25.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "toronto-blue-jays-vs-cincinnati-reds",
-      "name": "Toronto Blue Jays Vs Cincinnati Reds",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/ijfnakfidch22.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "kansas-city-royals-vs-cleveland-guardians",
-      "name": "Kansas City Royals Vs Cleveland Guardians",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/fskjanach24.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "minnesota-twins-vs-texas-rangers-s1",
-      "name": "Minnesota Twins Vs Texas Rangers Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8imd2p4vnj/out/v1/6c4f049e9216473a801f58131fbac05a/cenc.mpd"
-    },
-    {
-      "id": "minnesota-twins-vs-texas-rangers-s2",
-      "name": "Minnesota Twins Vs Texas Rangers Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57087/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "minnesota-twins-vs-texas-rangers-s3",
-      "name": "Minnesota Twins Vs Texas Rangers Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-s1",
-      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kehilzugiy/out/v1/976299890e1f4fecac34005d3ba594bd/cenc.mpd"
-    },
-    {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-s2",
-      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
-    },
-    {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-s3",
-      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57091/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "san-diego-padres-vs-arizona-diamondbacks-s4",
-      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/hefbafbakx28.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "milwaukee-brewers-vs-st-louis-cardinals",
-      "name": "Milwaukee Brewers Vs St. Louis Cardinals",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "athletics-vs-houston-astros-s1",
-      "name": "Athletics Vs Houston Astros Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wtawubhywt/out/v1/080489d61f4b4540bbb5691a379572b1/cenc.mpd"
-    },
-    {
-      "id": "athletics-vs-houston-astros-s2",
-      "name": "Athletics Vs Houston Astros Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/unrhzvoti3/out/v1/8921ace1c97147b6977cf016f7b6580d/cenc.mpd"
-    },
-    {
-      "id": "athletics-vs-houston-astros-s3",
-      "name": "Athletics Vs Houston Astros Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57089/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "athletics-vs-houston-astros-s4",
-      "name": "Athletics Vs Houston Astros Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "washington-capitals-vs-boston-bruins",
-      "name": "Washington Capitals Vs Boston Bruins",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "minnesota-wild-vs-dallas-stars-s1",
-      "name": "Minnesota Wild Vs Dallas Stars Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81afea3d-72f0-43a8-8832-c388494d20f0/master.m3u8"
-    },
-    {
-      "id": "minnesota-wild-vs-dallas-stars-s2",
-      "name": "Minnesota Wild Vs Dallas Stars Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-york-islanders-vs-new-york-rangers",
-      "name": "New York Islanders Vs New York Rangers",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "colorado-avalanche-vs-winnipeg-jets",
-      "name": "Colorado Avalanche Vs Winnipeg Jets",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "rutgers-scarlet-knights-vs-howard-bison",
-      "name": "Rutgers Scarlet Knights Vs Howard Bison",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/oipozuezeji33.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
     {
       "id": "formula-1-vs-formula-s1",
       "name": "Formula 1 Vs Formula Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
     },
     {
       "id": "formula-1-vs-formula-s2",
       "name": "Formula 1 Vs Formula Stream 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
     },
     {
       "id": "formula-1-vs-formula-s3",
       "name": "Formula 1 Vs Formula Stream 3",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd"
     },
     {
       "id": "formula-1-vs-formula-s4",
       "name": "Formula 1 Vs Formula Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57011/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "formula-1-vs-formula-s5",
-      "name": "Formula 1 Vs Formula Stream 5",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "formula-1-vs-formula-s6",
-      "name": "Formula 1 Vs Formula Stream 6",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
-    },
-    {
-      "id": "formula-1-vs-formula-s7",
-      "name": "Formula 1 Vs Formula Stream 7",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd"
     },
     {
-      "id": "formula-1-vs-formula-s8",
-      "name": "Formula 1 Vs Formula Stream 8",
-      "status": "UPCOMING",
+      "id": "formula-1-vs-formula-s5",
+      "name": "Formula 1 Vs Formula Stream 5",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream3.pro/hls/hbfkazbkaznc49.m3u8?",
       "referer": "https://streamscenter.online/",
       "origin": "https://streamscenter.online"
     },
     {
-      "id": "formula-1-vs-formula-s9",
-      "name": "Formula 1 Vs Formula Stream 9",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/RRRR.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "formula-1-vs-formula-s10",
-      "name": "Formula 1 Vs Formula Stream 10",
-      "status": "UPCOMING",
+      "id": "formula-1-vs-formula-s6",
+      "name": "Formula 1 Vs Formula Stream 6",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream4.pro/hls/hbfkazbkaznc49.m3u8",
       "referer": "https://streame.center",
@@ -612,35 +52,35 @@
     {
       "id": "tennis-evento-vs-tennis-evento-s1",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=8W3-qi6L4hzOhynVnQ1rXw&e=2075285627&scheme=https"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s2",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s3",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 3",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s4",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 4",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s5",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 5",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.44/hls/FOFOFO.m3u8?",
       "referer": "http://www.fawanews.sc/",
@@ -649,63 +89,63 @@
     {
       "id": "tennis-evento-vs-tennis-evento-s6",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 6",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s7",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 7",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://tmaxapp.site/8wirwjs76erftg/skysportstennis.m3u8"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s8",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 8",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s9",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 9",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s10",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 10",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s11",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 11",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s12",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 12",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s13",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 13",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
     },
     {
       "id": "tennis-evento-vs-tennis-evento-s14",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 14",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.190/hls/XAXAXA.m3u8?",
       "referer": "http://www.fawanews.sc/",
@@ -714,7 +154,7 @@
     {
       "id": "tennis-evento-vs-tennis-evento-s15",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 15",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8?",
       "referer": "http://www.fawanews.sc/",
@@ -723,7 +163,7 @@
     {
       "id": "tennis-evento-vs-tennis-evento-s16",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 16",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.190/hls/XAXAXA.m3u8?",
       "referer": "http://www.fawanews.sc/",
@@ -732,11 +172,170 @@
     {
       "id": "tennis-evento-vs-tennis-evento-s17",
       "name": "TENNIS | EVENTO  Vs TENNIS | EVENTO Stream 17",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.41/hls/FHHHQQQQQQQQ.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "malaysia-vs-oman-s1",
+      "name": "Malaysia Vs Oman Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/tkvp43tjk4/out/v1/2030b6c3c68d45dcac5ffd6b60ff64ee/cenc.mpd"
+    },
+    {
+      "id": "malaysia-vs-oman-s2",
+      "name": "Malaysia Vs Oman Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/sddd.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "malaysia-vs-oman-s3",
+      "name": "Malaysia Vs Oman Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+    },
+    {
+      "id": "fremantle-dockers-vs-brisbane-lions-s1",
+      "name": "Fremantle Dockers Vs Brisbane Lions Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
+    },
+    {
+      "id": "fremantle-dockers-vs-brisbane-lions-s2",
+      "name": "Fremantle Dockers Vs Brisbane Lions Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
+    },
+    {
+      "id": "canterbury-vs-southland-s1",
+      "name": "Canterbury Vs Southland Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "canterbury-vs-southland-s2",
+      "name": "Canterbury Vs Southland Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "china-u23-vs-thailand-u23-s1",
+      "name": "China U23 Vs Thailand U23 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAaaaaaA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "china-u23-vs-thailand-u23-s2",
+      "name": "China U23 Vs Thailand U23 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAaaaaaA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "nascar-cup-series-vs-nascar-cup-series-s1",
+      "name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
+    },
+    {
+      "id": "nascar-cup-series-vs-nascar-cup-series-s2",
+      "name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s1",
+      "name": "Cycling Vs Cycling Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s2",
+      "name": "Cycling Vs Cycling Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s3",
+      "name": "Cycling Vs Cycling Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s4",
+      "name": "Cycling Vs Cycling Stream 4",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s5",
+      "name": "Cycling Vs Cycling Stream 5",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s6",
+      "name": "Cycling Vs Cycling Stream 6",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd"
+    },
+    {
+      "id": "cycling-vs-cycling-s7",
+      "name": "Cycling Vs Cycling Stream 7",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/TNNNN.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "golf-evento-vs-golf-evento-s1",
+      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
+    },
+    {
+      "id": "golf-evento-vs-golf-evento-s2",
+      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
+    },
+    {
+      "id": "golf-evento-vs-golf-evento-s3",
+      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd"
     },
     {
       "id": "england-vs-sri-lanka-s1",
@@ -795,13 +394,6 @@
       "link": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https"
     },
     {
-      "id": "malaysia-vs-oman",
-      "name": "Malaysia Vs Oman",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
-    },
-    {
       "id": "sydney-swans-vs-brisbane-lions",
       "name": "Sydney Swans Vs Brisbane Lions",
       "status": "UPCOMING",
@@ -828,52 +420,6 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "california-golden-bears-vs-clemson-tigers-s1",
-      "name": "California Golden Bears Vs Clemson Tigers Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/jkhazabcka36.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "california-golden-bears-vs-clemson-tigers-s2",
-      "name": "California Golden Bears Vs Clemson Tigers Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "bc-lions-vs-saskatchewan-roughriders-s1",
-      "name": "BC Lions Vs Saskatchewan Roughriders Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "bc-lions-vs-saskatchewan-roughriders-s2",
-      "name": "BC Lions Vs Saskatchewan Roughriders Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
-    },
-    {
-      "id": "bc-lions-vs-saskatchewan-roughriders-s3",
-      "name": "BC Lions Vs Saskatchewan Roughriders Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-    },
-    {
-      "id": "bc-lions-vs-saskatchewan-roughriders-s4",
-      "name": "BC Lions Vs Saskatchewan Roughriders Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
     {
       "id": "edmonton-elks-vs-hamilton-tiger-cats",
@@ -1204,21 +750,21 @@
       "name": "Canada Vs Chile",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
     {
       "id": "mexico-vs-colombia",
       "name": "Mexico Vs Colombia",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd"
     },
     {
       "id": "usa-vs-peru",
       "name": "USA Vs Peru",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd"
     },
     {
       "id": "malta-vs-liechtenstein",
@@ -1274,9 +820,7 @@
       "name": "Sydney Roosters Vs Canberra Raiders",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
     },
     {
       "id": "gold-coast-titans-vs-brisbane-broncos",
@@ -1288,18 +832,18 @@
       "origin": "https://streame.center"
     },
     {
-      "id": "malaysia-vs-oman",
-      "name": "Malaysia Vs Oman",
+      "id": "slovenia-vs-scotland-s1",
+      "name": "Slovenia Vs Scotland Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
     },
     {
-      "id": "slovenia-vs-scotland",
-      "name": "Slovenia Vs Scotland",
+      "id": "slovenia-vs-scotland-s2",
+      "name": "Slovenia Vs Scotland Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd"
     },
     {
       "id": "pakistan-vs-thailand",
@@ -1316,43 +860,11 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "el-salvador-vs-martinique-s1",
-      "name": "El Salvador Vs Martinique Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
-    },
-    {
-      "id": "el-salvador-vs-martinique-s2",
-      "name": "El Salvador Vs Martinique Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/25179/index.m3u8"
-    },
-    {
       "id": "india-vs-west-indies",
       "name": "India Vs West Indies",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "seattle-mariners-vs-los-angeles-angels",
-      "name": "Seattle Mariners Vs Los Angeles Angels",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "san-francisco-giants-vs-los-angeles-dodgers",
-      "name": "San Francisco Giants Vs Los Angeles Dodgers",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/sfjnzabacah31.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
     },
     {
       "id": "kenya-vs-eritrea",
@@ -1369,46 +881,46 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "ad-ceuta-vs-real-sociedad-b",
-      "name": "AD Ceuta Vs Real Sociedad B",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "slovenia-vs-scotland",
-      "name": "Slovenia Vs Scotland",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
       "id": "san-marino-vs-finland",
       "name": "San Marino Vs Finland",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
       "id": "faroe-islands-vs-kazakhstan",
       "name": "Faroe Islands Vs Kazakhstan",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd"
     },
     {
       "id": "bulgaria-vs-luxembourg",
       "name": "Bulgaria Vs Luxembourg",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
     },
     {
-      "id": "iceland-vs-estonia",
-      "name": "Iceland Vs Estonia",
+      "id": "iceland-vs-estonia-s1",
+      "name": "Iceland Vs Estonia Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
+    },
+    {
+      "id": "iceland-vs-estonia-s2",
+      "name": "Iceland Vs Estonia Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd"
+    },
+    {
+      "id": "iceland-vs-estonia-s3",
+      "name": "Iceland Vs Estonia Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd"
     },
     {
       "id": "slovakia-vs-moldova",
@@ -1418,18 +930,25 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "czechia-vs-croatia",
-      "name": "Czechia Vs Croatia",
+      "id": "czechia-vs-croatia-s1",
+      "name": "Czechia Vs Croatia Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
+    },
+    {
+      "id": "czechia-vs-croatia-s2",
+      "name": "Czechia Vs Croatia Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
       "id": "north-macedonia-vs-switzerland",
       "name": "North Macedonia Vs Switzerland",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd"
     },
     {
       "id": "albania-vs-belarus",
@@ -1439,39 +958,46 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "england-vs-spain",
-      "name": "England Vs Spain",
+      "id": "england-vs-spain-s1",
+      "name": "England Vs Spain Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
-      "id": "celta-fortuna-vs-ce-sabadell",
-      "name": "Celta Fortuna Vs CE Sabadell",
+      "id": "england-vs-spain-s2",
+      "name": "England Vs Spain Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
     },
     {
-      "id": "granada-vs-fc-andorra",
-      "name": "Granada Vs FC Andorra",
+      "id": "england-vs-spain-s3",
+      "name": "England Vs Spain Stream 3",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
     },
     {
-      "id": "cd-tenerife-vs-c-diz",
-      "name": "CD Tenerife Vs Cádiz",
+      "id": "england-vs-spain-s4",
+      "name": "England Vs Spain Stream 4",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd"
+    },
+    {
+      "id": "england-vs-spain-s5",
+      "name": "England Vs Spain Stream 5",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd"
     },
     {
       "id": "halifax-wanderers-fc-vs-atl-tico-ottawa",
       "name": "Halifax Wanderers FC Vs Atlético Ottawa",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
     {
       "id": "vancouver-fc-vs-forge-fc",
@@ -1551,104 +1077,6 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "cf-montr-al-vs-fc-cincinnati",
-      "name": "CF Montréal Vs FC Cincinnati",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "charlotte-fc-vs-chicago-fire",
-      "name": "Charlotte FC Vs Chicago Fire",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "atlanta-united-vs-new-york-city-fc",
-      "name": "Atlanta United Vs New York City FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "new-york-red-bulls-vs-st-louis-city",
-      "name": "New York Red Bulls Vs St.Louis City",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "philadelphia-union-vs-orlando-city-sc",
-      "name": "Philadelphia Union Vs Orlando City SC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "austin-fc-vs-san-diego-fc",
-      "name": "Austin FC Vs San Diego FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "seattle-sounders-fc-vs-minnesota-united",
-      "name": "Seattle Sounders FC Vs Minnesota United",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "houston-dynamo-vs-sporting-kansas-city",
-      "name": "Houston Dynamo Vs Sporting Kansas City",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "nashville-sc-vs-toronto-fc",
-      "name": "Nashville SC Vs Toronto FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "fc-dallas-vs-los-angeles-fc",
-      "name": "FC Dallas Vs Los Angeles FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "san-jose-earthquakes-vs-portland-timbers",
-      "name": "San Jose Earthquakes Vs Portland Timbers",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "real-salt-lake-vs-new-england-revolution",
-      "name": "Real Salt Lake Vs New England Revolution",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "la-galaxy-vs-colorado-rapids",
-      "name": "LA Galaxy Vs Colorado Rapids",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "vancouver-whitecaps-vs-dc-united",
-      "name": "Vancouver Whitecaps Vs DC United",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
       "id": "portland-thorns-fc-vs-houston-dash",
       "name": "Portland Thorns FC Vs Houston Dash",
       "status": "UPCOMING",
@@ -1656,11 +1084,18 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "washington-spirit-vs-angel-city-fc",
-      "name": "Washington Spirit Vs Angel City FC",
+      "id": "washington-spirit-vs-angel-city-fc-s1",
+      "name": "Washington Spirit Vs Angel City FC Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
+    },
+    {
+      "id": "washington-spirit-vs-angel-city-fc-s2",
+      "name": "Washington Spirit Vs Angel City FC Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
     },
     {
       "id": "kansas-city-current-vs-denver-summit-fc",
@@ -1670,18 +1105,46 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "charlton-athletic-wfc-vs-manchester-city",
-      "name": "Charlton Athletic WFC Vs Manchester City",
+      "id": "charlton-athletic-wfc-vs-manchester-city-s1",
+      "name": "Charlton Athletic WFC Vs Manchester City Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
     },
     {
-      "id": "london-city-lionesses-vs-brighton",
-      "name": "London City Lionesses Vs Brighton",
+      "id": "charlton-athletic-wfc-vs-manchester-city-s2",
+      "name": "Charlton Athletic WFC Vs Manchester City Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+    },
+    {
+      "id": "charlton-athletic-wfc-vs-manchester-city-s3",
+      "name": "Charlton Athletic WFC Vs Manchester City Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme="
+    },
+    {
+      "id": "london-city-lionesses-vs-brighton-s1",
+      "name": "London City Lionesses Vs Brighton Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "london-city-lionesses-vs-brighton-s2",
+      "name": "London City Lionesses Vs Brighton Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+    },
+    {
+      "id": "london-city-lionesses-vs-brighton-s3",
+      "name": "London City Lionesses Vs Brighton Stream 3",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme="
     },
     {
       "id": "plymouth-argyle-vs-burton-albion",
@@ -1772,14 +1235,7 @@
       "name": "Oldham Athletic Vs Salford City",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
-    },
-    {
-      "id": "pakistan-vs-thailand",
-      "name": "Pakistan Vs Thailand",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=Dxx13S3dlOjavbRFqRtQ6g&e=2075285630&scheme="
     },
     {
       "id": "vietnam-vs-philippines",
@@ -1789,46 +1245,53 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
-      "id": "oman-vs-saudi-arabia",
-      "name": "Oman Vs Saudi Arabia",
+      "id": "oman-vs-saudi-arabia-s1",
+      "name": "Oman Vs Saudi Arabia Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd"
     },
     {
-      "id": "kuwait-vs-iraq",
-      "name": "Kuwait Vs Iraq",
+      "id": "oman-vs-saudi-arabia-s2",
+      "name": "Oman Vs Saudi Arabia Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
     },
     {
-      "id": "cruz-azul-vs-cd-toluca",
-      "name": "Cruz Azul Vs CD Toluca",
+      "id": "kuwait-vs-iraq-s1",
+      "name": "Kuwait Vs Iraq Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd"
     },
     {
-      "id": "tigres-uanl-vs-club-puebla",
-      "name": "Tigres UANL Vs Club Puebla",
+      "id": "kuwait-vs-iraq-s2",
+      "name": "Kuwait Vs Iraq Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
     },
     {
-      "id": "santos-laguna-vs-cf-pachuca",
-      "name": "Santos Laguna Vs CF Pachuca",
+      "id": "tigres-uanl-vs-club-puebla-s1",
+      "name": "Tigres UANL Vs Club Puebla Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+    },
+    {
+      "id": "tigres-uanl-vs-club-puebla-s2",
+      "name": "Tigres UANL Vs Club Puebla Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd"
     },
     {
       "id": "cd-guadalajara-vs-quer-taro-fc",
       "name": "CD Guadalajara Vs Querétaro FC",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dx5hfbpk7u/out/v1/c14185a397544650b9761d43ad2e8e91/cenc.mpd"
     },
     {
       "id": "fc-emmen-vs-top-oss",
@@ -1908,6 +1371,378 @@
       "link": "https://file.genoads.com/ch1.m3u8"
     },
     {
+      "id": "queen-of-the-south-vs-rangers-b-u21",
+      "name": "Queen of The South Vs Rangers B U21",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+    },
+    {
+      "id": "deportivo-pereira-vs-internacional-de-bogot",
+      "name": "Deportivo Pereira Vs Internacional de Bogotá",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+    },
+    {
+      "id": "c-cuta-deportivo-vs-llaneros-fc",
+      "name": "Cúcuta Deportivo Vs Llaneros FC",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "junior-barranquilla-vs-independiente-medell-n",
+      "name": "Junior Barranquilla Vs Independiente Medellín",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "detroit-city-fc-vs-colorado-springs-switchbacks-fc",
+      "name": "Detroit City FC Vs Colorado Springs Switchbacks FC",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+      "referer": "https://amazon.com",
+      "origin": "https://amazon.com"
+    },
+    {
+      "id": "orange-county-sc-vs-pittsburgh-riverhounds",
+      "name": "Orange County SC Vs Pittsburgh Riverhounds",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+      "referer": "https://amazon.com",
+      "origin": "https://amazon.com"
+    },
+    {
+      "id": "hawke-s-bay-vs-taranaki",
+      "name": "Hawke's Bay Vs Taranaki",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "wellington-lions-vs-waikato",
+      "name": "Wellington Lions Vs Waikato",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "north-harbour-vs-otago-s1",
+      "name": "North Harbour Vs Otago Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "north-harbour-vs-otago-s2",
+      "name": "North Harbour Vs Otago Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "france-vs-canada",
+      "name": "France Vs Canada",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
+    },
+    {
+      "id": "washington-nationals-vs-new-york-mets",
+      "name": "Washington Nationals Vs New York Mets",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "detroit-tigers-vs-pittsburgh-pirates",
+      "name": "Detroit Tigers Vs Pittsburgh Pirates",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "toronto-blue-jays-vs-cincinnati-reds",
+      "name": "Toronto Blue Jays Vs Cincinnati Reds",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "miami-marlins-vs-atlanta-braves",
+      "name": "Miami Marlins Vs Atlanta Braves",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "san-francisco-giants-vs-los-angeles-dodgers",
+      "name": "San Francisco Giants Vs Los Angeles Dodgers",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "chicago-white-sox-vs-colorado-rockies",
+      "name": "Chicago White Sox Vs Colorado Rockies",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "kansas-city-royals-vs-cleveland-guardians",
+      "name": "Kansas City Royals Vs Cleveland Guardians",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "milwaukee-brewers-vs-st-louis-cardinals",
+      "name": "Milwaukee Brewers Vs St. Louis Cardinals",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "philadelphia-phillies-vs-tampa-bay-rays",
+      "name": "Philadelphia Phillies Vs Tampa Bay Rays",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "minnesota-twins-vs-texas-rangers",
+      "name": "Minnesota Twins Vs Texas Rangers",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "athletics-vs-houston-astros",
+      "name": "Athletics Vs Houston Astros",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "seattle-mariners-vs-los-angeles-angels",
+      "name": "Seattle Mariners Vs Los Angeles Angels",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s1",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s2",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "philadelphia-flyers-vs-washington-capitals",
+      "name": "Philadelphia Flyers Vs Washington Capitals",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "los-angeles-kings-vs-anaheim-ducks",
+      "name": "Los Angeles Kings Vs Anaheim Ducks",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "utah-mammoth-vs-colorado-avalanche",
+      "name": "Utah Mammoth Vs Colorado Avalanche",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "buffalo-sabres-vs-pittsburgh-penguins",
+      "name": "Buffalo Sabres Vs Pittsburgh Penguins",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "nashville-predators-vs-carolina-hurricanes",
+      "name": "Nashville Predators Vs Carolina Hurricanes",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "ottawa-senators-vs-montr-al-canadiens",
+      "name": "Ottawa Senators Vs Montréal Canadiens",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "florida-panthers-vs-tampa-bay-lightning",
+      "name": "Florida Panthers Vs Tampa Bay Lightning",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "chicago-blackhawks-vs-st-louis-blues",
+      "name": "Chicago Blackhawks Vs St. Louis Blues",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "detroit-red-wings-vs-columbus-blue-jackets",
+      "name": "Detroit Red Wings Vs Columbus Blue Jackets",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "vancouver-canucks-vs-seattle-kraken",
+      "name": "Vancouver Canucks Vs Seattle Kraken",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "vegas-golden-knights-vs-san-jose-sharks",
+      "name": "Vegas Golden Knights Vs San Jose Sharks",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "new-york-islanders-vs-new-jersey-devils",
+      "name": "New York Islanders Vs New Jersey Devils",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "edmonton-oilers-vs-calgary-flames",
+      "name": "Edmonton Oilers Vs Calgary Flames",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "raul-rosas-jr-vs-raoni-barcelos",
+      "name": "Raul Rosas Jr. Vs Raoni Barcelos",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
+    },
+    {
+      "id": "world-sbk-vs-world-sbk",
+      "name": "WORLD SBK Vs WORLD SBK",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
+    },
+    {
+      "id": "corinthians-vs-s-o-paulo",
+      "name": "Corinthians Vs São Paulo",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
+    },
+    {
+      "id": "colombia-u20-vs-italy-u20",
+      "name": "Colombia U20 Vs Italy U20",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "b"
+    },
+    {
+      "id": "adelaide-36ers-vs-cairns-taipans",
+      "name": "Adelaide 36ers Vs Cairns Taipans",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "sydney-kings-vs-illawarra-hawks",
+      "name": "Sydney Kings Vs Illawarra Hawks",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
       "id": "panama-vs-new-zealand",
       "name": "Panama Vs New Zealand",
       "status": "UPCOMING",
@@ -1920,6 +1755,121 @@
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://file.genoads.com/ch1.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s1",
+      "name": "SmackDown Vs SmackDown Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/54963/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s2",
+      "name": "SmackDown Vs SmackDown Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://jellyfin.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s3",
+      "name": "SmackDown Vs SmackDown Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/sdddqQQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s4",
+      "name": "SmackDown Vs SmackDown Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream3.pro/hls/zeuryuegn48.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s5",
+      "name": "SmackDown Vs SmackDown Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://plex.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s6",
+      "name": "SmackDown Vs SmackDown Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://daffodil.demonpvp.fun/wwe.m3u8",
+      "referer": "https://roxiestreams.info",
+      "origin": "https://roxiestreams.info"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s7",
+      "name": "SmackDown Vs SmackDown Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/zeuryuegn48.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s8",
+      "name": "SmackDown Vs SmackDown Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://raw.githubusercontent.com/athenapanda26/hls/refs/heads/main/smack.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s9",
+      "name": "SmackDown Vs SmackDown Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s10",
+      "name": "SmackDown Vs SmackDown Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s11",
+      "name": "SmackDown Vs SmackDown Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/6.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s12",
+      "name": "SmackDown Vs SmackDown Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://melancholy.fromthyheart.site/dailymotion/live/playlist/5.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s13",
+      "name": "SmackDown Vs SmackDown Stream 13",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://acumen.loreofeldenring.site/dailymotion/live/playlist/1.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s14",
+      "name": "SmackDown Vs SmackDown Stream 14",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://serendipity.loreofeldenring.site/dailymotion/live/playlist/5.m3u8"
+    },
+    {
+      "id": "smackdown-vs-smackdown-s15",
+      "name": "SmackDown Vs SmackDown Stream 15",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd"
     },
     {
       "id": "aew-night-dynamite-vs-aew-night-dynamite-s1",
@@ -1966,20 +1916,6 @@
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://sauce.loreofeldenring.site/dailymotion/live/playlist/11.m3u8"
-    },
-    {
-      "id": "nascar-cup-series-vs-nascar-cup-series-s1",
-      "name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
-    },
-    {
-      "id": "nascar-cup-series-vs-nascar-cup-series-s2",
-      "name": "NASCAR CUP SERIES Vs NASCAR CUP SERIES Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
     },
     {
       "id": "wwe-raw-vs-wwe-raw-s1",
@@ -2049,78 +1985,6 @@
       "link": "https://ubuntu.fromthyheart.site/dailymotion/live/playlist/4.m3u8"
     },
     {
-      "id": "cycling-vs-cycling-s1",
-      "name": "Cycling Vs Cycling Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s2",
-      "name": "Cycling Vs Cycling Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s3",
-      "name": "Cycling Vs Cycling Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s4",
-      "name": "Cycling Vs Cycling Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s5",
-      "name": "Cycling Vs Cycling Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s6",
-      "name": "Cycling Vs Cycling Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd"
-    },
-    {
-      "id": "cycling-vs-cycling-s7",
-      "name": "Cycling Vs Cycling Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/TNNNN.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "golf-evento-vs-golf-evento-s1",
-      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8"
-    },
-    {
-      "id": "golf-evento-vs-golf-evento-s2",
-      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-    },
-    {
-      "id": "golf-evento-vs-golf-evento-s3",
-      "name": "GOLF EVENTO Vs GOLF EVENTO Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd"
-    },
-    {
       "id": "tna-impact-vs-tna-impact",
       "name": "TNA iMPACT Vs TNA iMPACT",
       "status": "ENDED",
@@ -2130,559 +1994,232 @@
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "temple-owls-vs-army-knights-s1",
-      "name": "Temple Owls Vs Army Knights Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/qsdnajbq32.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "temple-owls-vs-army-knights-s2",
-      "name": "Temple Owls Vs Army Knights Stream 2",
+      "id": "california-golden-bears-vs-clemson-tigers-s1",
+      "name": "California Golden Bears Vs Clemson Tigers Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
     },
     {
-      "id": "hungary-vs-ukraine-s1",
-      "name": "Hungary Vs Ukraine Stream 1",
+      "id": "california-golden-bears-vs-clemson-tigers-s2",
+      "name": "California Golden Bears Vs Clemson Tigers Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ma4gaeu3qd/out/v1/2c8b7fb77a8c4c9ba8cbceddfe3c13d1/cenc.mpd"
-    },
-    {
-      "id": "hungary-vs-ukraine-s2",
-      "name": "Hungary Vs Ukraine Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/4yiko4it8k/out/v1/b77dd424c745443aba2f3f88d418f797/cenc-sd.mpd"
-    },
-    {
-      "id": "hungary-vs-ukraine-s3",
-      "name": "Hungary Vs Ukraine Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/orhlovwjv8/out/v1/3fbdf8c3ec6743d085d32dace1764176/cenc.mpd"
-    },
-    {
-      "id": "hungary-vs-ukraine-s4",
-      "name": "Hungary Vs Ukraine Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57055/load-playlist?&.m3u8",
+      "link": "https://chatgpt.hereisman.net/playlist/57095/load-playlist?&.m3u8",
       "referer": "https://gooz.aapmains.net",
       "origin": "https://gooz.aapmains.net"
     },
     {
-      "id": "hungary-vs-ukraine-s5",
-      "name": "Hungary Vs Ukraine Stream 5",
+      "id": "california-golden-bears-vs-clemson-tigers-s3",
+      "name": "California Golden Bears Vs Clemson Tigers Stream 3",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022317/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "hungary-vs-ukraine-s6",
-      "name": "Hungary Vs Ukraine Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/19035/index.m3u8http://162.251.160.53:8089/19035/index.m3u8"
-    },
-    {
-      "id": "hungary-vs-ukraine-s7",
-      "name": "Hungary Vs Ukraine Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/griogoehvn2.m3u8",
+      "link": "https://edgestream5.pro/hls/jkhazabcka36.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "italy-vs-belgium-s1",
-      "name": "Italy Vs Belgium Stream 1",
+      "id": "california-golden-bears-vs-clemson-tigers-s4",
+      "name": "California Golden Bears Vs Clemson Tigers Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAaaaaa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "uab-blazers-vs-navy-midshipmen-s1",
+      "name": "UAB Blazers Vs Navy Midshipmen Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/uheyztezgj34.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "uab-blazers-vs-navy-midshipmen-s2",
+      "name": "UAB Blazers Vs Navy Midshipmen Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
+    },
+    {
+      "id": "uab-blazers-vs-navy-midshipmen-s3",
+      "name": "UAB Blazers Vs Navy Midshipmen Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.50/hls/FZZZA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "indiana-hoosiers-vs-northwestern-wildcats-s1",
+      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+    },
+    {
+      "id": "indiana-hoosiers-vs-northwestern-wildcats-s2",
+      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57083/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "indiana-hoosiers-vs-northwestern-wildcats-s3",
+      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/jnknjfzbk35.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "indiana-hoosiers-vs-northwestern-wildcats-s4",
+      "name": "Indiana Hoosiers Vs Northwestern Wildcats Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.50/hls/FZZZAA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s1",
+      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
+    },
+    {
+      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s2",
+      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57086/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s3",
+      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "winnipeg-blue-bombers-vs-toronto-argonauts-s4",
+      "name": "Winnipeg Blue Bombers Vs Toronto Argonauts Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/sdddqQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "bc-lions-vs-saskatchewan-roughriders-s1",
+      "name": "BC Lions Vs Saskatchewan Roughriders Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+    },
+    {
+      "id": "bc-lions-vs-saskatchewan-roughriders-s2",
+      "name": "BC Lions Vs Saskatchewan Roughriders Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57096/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "bc-lions-vs-saskatchewan-roughriders-s3",
+      "name": "BC Lions Vs Saskatchewan Roughriders Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+    },
+    {
+      "id": "bc-lions-vs-saskatchewan-roughriders-s4",
+      "name": "BC Lions Vs Saskatchewan Roughriders Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
+    },
+    {
+      "id": "bc-lions-vs-saskatchewan-roughriders-s5",
+      "name": "BC Lions Vs Saskatchewan Roughriders Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/sdddqQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "japan-vs-nepal-s1",
+      "name": "Japan Vs Nepal Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/brhm0lukoo/out/v1/48d2d472bf554f69a5830b766d301aab/cenc.mpd"
+    },
+    {
+      "id": "japan-vs-nepal-s2",
+      "name": "Japan Vs Nepal Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/Asiancrc12/index.m3u8"
+    },
+    {
+      "id": "japan-vs-nepal-s3",
+      "name": "Japan Vs Nepal Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/sddd.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "honduras-vs-suriname-s1",
+      "name": "Honduras Vs Suriname Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/28980/index.m3u8"
+    },
+    {
+      "id": "honduras-vs-suriname-s2",
+      "name": "Honduras Vs Suriname Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/VAVAVAQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "el-salvador-vs-martinique-s1",
+      "name": "El Salvador Vs Martinique Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd"
     },
     {
-      "id": "italy-vs-belgium-s2",
-      "name": "Italy Vs Belgium Stream 2",
+      "id": "el-salvador-vs-martinique-s2",
+      "name": "El Salvador Vs Martinique Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-    },
-    {
-      "id": "italy-vs-belgium-s3",
-      "name": "Italy Vs Belgium Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4517795.m3u8?txSecret=d643e4c7474cdbd0f14d89362972f8b8&txTime=6AB6D26C",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "italy-vs-belgium-s4",
-      "name": "Italy Vs Belgium Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120300/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "italy-vs-belgium-s5",
-      "name": "Italy Vs Belgium Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/16034/index.m3u8"
-    },
-    {
-      "id": "italy-vs-belgium-s6",
-      "name": "Italy Vs Belgium Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/b0h5fNwDKH.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "italy-vs-belgium-s7",
-      "name": "Italy Vs Belgium Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/dd713707-0e3c-4608-a515-71f8ae0968d0.m3u8?",
+      "link": "http://193.47.62.44/hls/ATTTAaaaa.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "italy-vs-belgium-s8",
-      "name": "Italy Vs Belgium Stream 8",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.50/hls/LIIIAAAQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "italy-vs-belgium-s9",
-      "name": "Italy Vs Belgium Stream 9",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://raievent10-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8"
-    },
-    {
-      "id": "t-rkiye-vs-france-s1",
-      "name": "Türkiye Vs France Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
-    },
-    {
-      "id": "t-rkiye-vs-france-s2",
-      "name": "Türkiye Vs France Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
-    },
-    {
-      "id": "t-rkiye-vs-france-s3",
-      "name": "Türkiye Vs France Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4517796.m3u8?txSecret=c91332cd16b4fc096a89b244784b106c&txTime=6AB6D299",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "t-rkiye-vs-france-s4",
-      "name": "Türkiye Vs France Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "t-rkiye-vs-france-s5",
-      "name": "Türkiye Vs France Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/15489/index.m3u8"
-    },
-    {
-      "id": "t-rkiye-vs-france-s6",
-      "name": "Türkiye Vs France Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "t-rkiye-vs-france-s7",
-      "name": "Türkiye Vs France Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/5379da79-901c-4cc2-b511-47cdd1f2b9c0.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "t-rkiye-vs-france-s8",
-      "name": "Türkiye Vs France Stream 8",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/LIIIAAAQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "sweden-vs-romania-s1",
-      "name": "Sweden Vs Romania Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
-    },
-    {
-      "id": "sweden-vs-romania-s2",
-      "name": "Sweden Vs Romania Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd"
-    },
-    {
-      "id": "sweden-vs-romania-s3",
-      "name": "Sweden Vs Romania Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57053/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "sweden-vs-romania-s4",
-      "name": "Sweden Vs Romania Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4517799.m3u8?txSecret=8371efd438789f9776e310cbf6e420e3&txTime=6AB6D2C1",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "sweden-vs-romania-s5",
-      "name": "Sweden Vs Romania Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037142/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "sweden-vs-romania-s6",
-      "name": "Sweden Vs Romania Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/97549ec0-bc8d-4970-ac61-af1cf3312f22.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "sweden-vs-romania-s7",
-      "name": "Sweden Vs Romania Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/22105/index.m3u8"
-    },
-    {
-      "id": "sweden-vs-romania-s8",
-      "name": "Sweden Vs Romania Stream 8",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/LIIIAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s1",
-      "name": "Montenegro Vs Cyprus Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57056/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s2",
-      "name": "Montenegro Vs Cyprus Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4517800.m3u8?txSecret=14356fdcc4cc8872f846ec647ed94498&txTime=6AB6D31D",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s3",
-      "name": "Montenegro Vs Cyprus Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2022316/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s4",
-      "name": "Montenegro Vs Cyprus Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/875dc817-28d2-4f7e-9804-051297192fb7.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s5",
-      "name": "Montenegro Vs Cyprus Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/377qj1h2727.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s6",
-      "name": "Montenegro Vs Cyprus Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/14034/index.m3u8"
-    },
-    {
-      "id": "montenegro-vs-cyprus-s7",
-      "name": "Montenegro Vs Cyprus Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.50/hls/LIIIA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s1",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s2",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57054/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s3",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4517798.m3u8?txSecret=c8e0ca5ced5c30abc0af62d237962823&txTime=6AB6D300",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s4",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew-akamaized.pages.dev/hls/live/2037141/Footlive2509/ENG/master.m3u8",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s5",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/caf0994c-efb4-442e-932c-8abf4681ef8e.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s6",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/18824/index.m3u8"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s7",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 7",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "poland-vs-bosnia-herzegovina-s8",
-      "name": "Poland Vs Bosnia & Herzegovina Stream 8",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/LIIIAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "morocco-vs-gabon-s1",
-      "name": "Morocco Vs Gabon Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/unzcostkkb/out/v1/2469724fa7754a4da6861d8ba80de958/b7b32205-0d9d-4cb7-8820-9d2816112664-cenc.mpd?aws_sessionId=5292552f-ba56-438a-8f69-c70bbc7975c5"
-    },
-    {
-      "id": "morocco-vs-gabon-s2",
-      "name": "Morocco Vs Gabon Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4642692.m3u8?txSecret=6f29312755c04217e068a8a8cf56577f&txTime=6AB6D33C",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "morocco-vs-gabon-s3",
-      "name": "Morocco Vs Gabon Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/2b24f899-f079-4d3c-80a1-68f6044029c5.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "morocco-vs-gabon-s4",
-      "name": "Morocco Vs Gabon Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/DTTTAAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "burkina-faso-vs-benin-s1",
-      "name": "Burkina Faso Vs Benin Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4642689.m3u8?txSecret=47fbac22187b58d1a055a3a07123f495&txTime=6AB6D4F2",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "burkina-faso-vs-benin-s2",
-      "name": "Burkina Faso Vs Benin Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/29557de5-4e27-45dd-8652-8a61e83d497a.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "burkina-faso-vs-benin-s3",
-      "name": "Burkina Faso Vs Benin Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/DTTTA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "algeria-vs-zambia-s1",
-      "name": "Algeria Vs Zambia Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/05b65a40-5e2b-4478-ae28-4b6acc5a7a99.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "algeria-vs-zambia-s2",
-      "name": "Algeria Vs Zambia Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/DTTT.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "egypt-vs-angola-s1",
-      "name": "Egypt Vs Angola Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/h3ufdbk8nt/out/v1/27aac1f9df984d65a9d4b95d234f4468/a32c079f-541f-4ecc-a16f-4bc16e337d3b-cenc.mpd?aws_sessionId=bc4f17a8-c58b-4c79-a50a-ba78968eff5d"
-    },
-    {
-      "id": "egypt-vs-angola-s2",
-      "name": "Egypt Vs Angola Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cdn.gamhed.online/hls/arena8x-2.m3u8"
-    },
-    {
-      "id": "egypt-vs-angola-s3",
-      "name": "Egypt Vs Angola Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4642693.m3u8?txSecret=f0885e7f6f0289101c6a7aa92801157d&txTime=6AB6D4DF",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
-    },
-    {
-      "id": "egypt-vs-angola-s4",
-      "name": "Egypt Vs Angola Stream 4",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/4c83a480-06a7-4ab1-a8a0-ca20cde631a6.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "egypt-vs-angola-s5",
-      "name": "Egypt Vs Angola Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/DTTTAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "grenada-vs-cuba-s1",
-      "name": "Grenada Vs Cuba Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd"
-    },
-    {
-      "id": "grenada-vs-cuba-s2",
-      "name": "Grenada Vs Cuba Stream 2",
+      "id": "el-salvador-vs-martinique-s3",
+      "name": "El Salvador Vs Martinique Stream 3",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/25179/index.m3u8"
-    },
-    {
-      "id": "bermuda-vs-guadeloupe-s1",
-      "name": "Bermuda Vs Guadeloupe Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/25179/index.m3u8"
-    },
-    {
-      "id": "bermuda-vs-guadeloupe-s2",
-      "name": "Bermuda Vs Guadeloupe Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
     },
     {
       "id": "girona-fc-vs-albacete-balompi-s1",
@@ -2701,355 +2238,348 @@
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "fc-dordrecht-vs-almere-city-fc-s1",
-      "name": "FC Dordrecht Vs Almere City FC Stream 1",
+      "id": "cavalry-fc-vs-fc-supra-du-quebec-s1",
+      "name": "Cavalry FC Vs FC Supra Du Quebec Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/29364/index.m3u8"
-    },
-    {
-      "id": "fc-dordrecht-vs-almere-city-fc-s2",
-      "name": "FC Dordrecht Vs Almere City FC Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQ.m3u8?",
+      "link": "http://193.47.62.41/hls/VAVAVAQQ.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "hartford-athletic-vs-louisville-city-fc",
-      "name": "Hartford Athletic Vs Louisville City FC",
+      "id": "cavalry-fc-vs-fc-supra-du-quebec-s2",
+      "name": "Cavalry FC Vs FC Supra Du Quebec Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.41/hls/VAVAVAQQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "racing-louisville-vs-san-diego-wave-fc",
-      "name": "Racing Louisville Vs San Diego Wave FC",
+      "id": "atlante-fc-vs-cf-monterrey",
+      "name": "Atlante FC Vs CF Monterrey",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.41/hls/VAVAVAQQQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "river-plate-reserve-vs-boca-juniors-reserve",
-      "name": "River Plate Reserve Vs Boca Juniors Reserve",
+      "id": "club-tijuana-vs-atlas-fc",
+      "name": "Club Tijuana Vs Atlas FC",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.41/hls/VAVAVAQQQ.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "gr-mio-novorizontino-vs-s-o-bernardo",
-      "name": "Grêmio Novorizontino Vs São Bernardo",
+      "id": "seattle-reign-fc-vs-boston-legacy-fc-s1",
+      "name": "Seattle Reign FC Vs Boston Legacy FC Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://file.genoads.com/ch1.m3u8"
+      "link": "http://193.47.62.41/hls/VAVAVA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s1",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 1",
+      "id": "seattle-reign-fc-vs-boston-legacy-fc-s2",
+      "name": "Seattle Reign FC Vs Boston Legacy FC Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
+      "link": "http://193.47.62.41/hls/VAVAVA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s2",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 2",
+      "id": "el-paso-locomotive-fc-vs-fc-tulsa",
+      "name": "El Paso Locomotive FC Vs FC Tulsa",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+      "referer": "https://amazon.com",
+      "origin": "https://amazon.com"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s3",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 3",
+      "id": "once-caldas-vs-atl-tico-bucaramanga",
+      "name": "Once Caldas Vs Atlético Bucaramanga",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/ihfazugfyjcazich17.m3u8",
+      "link": "http://193.47.62.59/hls/YNNNAAAAA.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "chicago-white-sox-vs-colorado-rockies",
+      "name": "Chicago White Sox Vs Colorado Rockies",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/kjhfzua25.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s1",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 1",
+      "id": "kansas-city-royals-vs-cleveland-guardians",
+      "name": "Kansas City Royals Vs Cleveland Guardians",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/57052/load-playlist?&.m3u8",
+      "link": "https://edgestream6.pro/hls/fskjanach24.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "minnesota-twins-vs-texas-rangers-s1",
+      "name": "Minnesota Twins Vs Texas Rangers Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/8imd2p4vnj/out/v1/6c4f049e9216473a801f58131fbac05a/cenc.mpd"
+    },
+    {
+      "id": "minnesota-twins-vs-texas-rangers-s2",
+      "name": "Minnesota Twins Vs Texas Rangers Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57087/load-playlist?&.m3u8",
       "referer": "https://gooz.aapmains.net",
       "origin": "https://gooz.aapmains.net"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s2",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 2",
+      "id": "minnesota-twins-vs-texas-rangers-s3",
+      "name": "Minnesota Twins Vs Texas Rangers Stream 3",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/sg5x7mjuyw/out/v1/f118c9bb7c744376bc56cd939c5db25b/cenc.mpd"
-    },
-    {
-      "id": "boston-red-sox-vs-chicago-cubs-s3",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 3",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/dazhfiach15.m3u8",
+      "link": "https://edgestream2.pro/hls/.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "boston-red-sox-vs-chicago-cubs-s4",
-      "name": "Boston Red Sox Vs Chicago Cubs Stream 4",
+      "id": "seattle-mariners-vs-los-angeles-angels-s1",
+      "name": "Seattle Mariners Vs Los Angeles Angels Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/DSDDSDSDSQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/anjogv5xrr/out/v1/ad8d5a8809e447ca82ae5bced4cd0e7f/cenc.mpd"
     },
     {
-      "id": "detroit-tigers-vs-pittsburgh-pirates",
-      "name": "Detroit Tigers Vs Pittsburgh Pirates",
+      "id": "seattle-mariners-vs-los-angeles-angels-s2",
+      "name": "Seattle Mariners Vs Los Angeles Angels Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/Czajafjihafch18.m3u8",
+      "link": "https://chatgpt.hereisman.net/playlist/57093/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "seattle-mariners-vs-los-angeles-angels-s3",
+      "name": "Seattle Mariners Vs Los Angeles Angels Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/JHDAJBDnjdna30.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "philadelphia-phillies-vs-tampa-bay-rays",
-      "name": "Philadelphia Phillies Vs Tampa Bay Rays",
+      "id": "seattle-mariners-vs-los-angeles-angels-s4",
+      "name": "Seattle Mariners Vs Los Angeles Angels Stream 4",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/bzagLHzach19.m3u8",
+      "link": "http://193.47.62.44/hls/ATTTAaa.m3u8?",
+      "referer": "http://www.fawanews.sc/",
+      "origin": "http://www.fawanews.sc"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s1",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kehilzugiy/out/v1/976299890e1f4fecac34005d3ba594bd/cenc.mpd"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s2",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s3",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57091/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "san-diego-padres-vs-arizona-diamondbacks-s4",
+      "name": "San Diego Padres Vs Arizona Diamondbacks Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/hefbafbakx28.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "mali-vs-cabo-verde-s1",
-      "name": "Mali Vs Cabo Verde Stream 1",
+      "id": "milwaukee-brewers-vs-st-louis-cardinals",
+      "name": "Milwaukee Brewers Vs St. Louis Cardinals",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4642691.m3u8?txSecret=3c8cdbcbf199b81b6e9b5f81f384a84e&txTime=6AB6D8DF",
-      "referer": "https://player.787200.com/",
-      "origin": "https://player.787200.com"
+      "link": "https://edgestream3.pro/hls/dzjhkfazbka26.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "mali-vs-cabo-verde-s2",
-      "name": "Mali Vs Cabo Verde Stream 2",
+      "id": "athletics-vs-houston-astros-s1",
+      "name": "Athletics Vs Houston Astros Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/3e61ecee-cf52-40a1-b4a9-dc78b06bdc13.m3u8?",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wtawubhywt/out/v1/080489d61f4b4540bbb5691a379572b1/cenc.mpd"
+    },
+    {
+      "id": "athletics-vs-houston-astros-s2",
+      "name": "Athletics Vs Houston Astros Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/unrhzvoti3/out/v1/8921ace1c97147b6977cf016f7b6580d/cenc.mpd"
+    },
+    {
+      "id": "athletics-vs-houston-astros-s3",
+      "name": "Athletics Vs Houston Astros Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57089/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "athletics-vs-houston-astros-s4",
+      "name": "Athletics Vs Houston Astros Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "san-francisco-giants-vs-los-angeles-dodgers-s1",
+      "name": "San Francisco Giants Vs Los Angeles Dodgers Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cevjagch1h/out/v1/ed492a38328746489d07b87d4df813fa/cenc.mpd"
+    },
+    {
+      "id": "san-francisco-giants-vs-los-angeles-dodgers-s2",
+      "name": "San Francisco Giants Vs Los Angeles Dodgers Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/57094/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "san-francisco-giants-vs-los-angeles-dodgers-s3",
+      "name": "San Francisco Giants Vs Los Angeles Dodgers Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream6.pro/hls/sfjnzabacah31.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "san-francisco-giants-vs-los-angeles-dodgers-s4",
+      "name": "San Francisco Giants Vs Los Angeles Dodgers Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/ATTTAaaa.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "mali-vs-cabo-verde-s3",
-      "name": "Mali Vs Cabo Verde Stream 3",
+      "id": "minnesota-wild-vs-dallas-stars-s1",
+      "name": "Minnesota Wild Vs Dallas Stars Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8"
+      "link": "https://chatgpt.hereisman.net/playlist/57084/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
     },
     {
-      "id": "mali-vs-cabo-verde-s4",
-      "name": "Mali Vs Cabo Verde Stream 4",
+      "id": "minnesota-wild-vs-dallas-stars-s2",
+      "name": "Minnesota Wild Vs Dallas Stars Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/DTTTAAA.m3u8?",
+      "link": "https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/81afea3d-72f0-43a8-8832-c388494d20f0/master.m3u8"
+    },
+    {
+      "id": "minnesota-wild-vs-dallas-stars-s3",
+      "name": "Minnesota Wild Vs Dallas Stars Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "new-york-islanders-vs-new-york-rangers",
+      "name": "New York Islanders Vs New York Rangers",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "colorado-avalanche-vs-winnipeg-jets",
+      "name": "Colorado Avalanche Vs Winnipeg Jets",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/rtzaeyvhb53.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "rutgers-scarlet-knights-vs-howard-bison-s1",
+      "name": "Rutgers Scarlet Knights Vs Howard Bison Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/oipozuezeji33.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "rutgers-scarlet-knights-vs-howard-bison-s2",
+      "name": "Rutgers Scarlet Knights Vs Howard Bison Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.50/hls/FZZZ.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "kk-partizan-mozzart-bet-vs-ea7-emporio-armani-milano-s1",
-      "name": "KK Partizan Mozzart Bet Vs EA7 Emporio Armani Milano Stream 1",
+      "id": "northland-vs-counties-manukau-s1",
+      "name": "Northland Vs Counties Manukau Stream 1",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/f5c6bee3-cc89-4f7a-a8a7-1016e3b4a3c7.m3u8?",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "kk-partizan-mozzart-bet-vs-ea7-emporio-armani-milano-s2",
-      "name": "KK Partizan Mozzart Bet Vs EA7 Emporio Armani Milano Stream 2",
+      "id": "northland-vs-counties-manukau-s2",
+      "name": "Northland Vs Counties Manukau Stream 2",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888A.m3u8?",
+      "link": "http://193.47.62.44/hls/ATTTAa.m3u8?",
       "referer": "http://www.fawanews.sc/",
       "origin": "http://www.fawanews.sc"
     },
     {
-      "id": "fenerbah-e-tarfin-vs-virtus-bologna-s1",
-      "name": "Fenerbahçe Tarfin Vs Virtus Bologna Stream 1",
+      "id": "new-york-yankees-vs-baltimore-orioles",
+      "name": "New York Yankees Vs Baltimore Orioles",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/CAAAQQQQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "fenerbah-e-tarfin-vs-virtus-bologna-s2",
-      "name": "Fenerbahçe Tarfin Vs Virtus Bologna Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/CAAAQQQQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "be-ikta-jk-vs-valencia-basket-s1",
-      "name": "Beşiktaş JK Vs Valencia Basket Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/8d28eeec-4940-44c4-a952-4520d547b05f.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "be-ikta-jk-vs-valencia-basket-s2",
-      "name": "Beşiktaş JK Vs Valencia Basket Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/FEEEEQQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "england-u21-vs-kazakhstan-u21-s1",
-      "name": "England U21 Vs Kazakhstan U21 Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555A.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "england-u21-vs-kazakhstan-u21-s2",
-      "name": "England U21 Vs Kazakhstan U21 Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555A.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "leeds-rhinos-vs-warrington-wolves-s1",
-      "name": "Leeds Rhinos Vs Warrington Wolves Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "leeds-rhinos-vs-warrington-wolves-s2",
-      "name": "Leeds Rhinos Vs Warrington Wolves Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "ulster-rugby-vs-edinburgh-rugby-s1",
-      "name": "Ulster Rugby Vs Edinburgh Rugby Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAAQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "ulster-rugby-vs-edinburgh-rugby-s2",
-      "name": "Ulster Rugby Vs Edinburgh Rugby Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAAQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "benetton-treviso-vs-dragons-s1",
-      "name": "Benetton Treviso Vs Dragons Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "benetton-treviso-vs-dragons-s2",
-      "name": "Benetton Treviso Vs Dragons Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "connacht-rugby-vs-stormers-s1",
-      "name": "Connacht Rugby Vs Stormers Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAAQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "connacht-rugby-vs-stormers-s2",
-      "name": "Connacht Rugby Vs Stormers Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/G555AAAAQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "northampton-saints-vs-newcastle-red-bulls-s1",
-      "name": "Northampton Saints Vs Newcastle Red Bulls Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "northampton-saints-vs-newcastle-red-bulls-s2",
-      "name": "Northampton Saints Vs Newcastle Red Bulls Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "harlequin-fc-vs-bath-rugby-s1",
-      "name": "Harlequin FC Vs Bath Rugby Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "harlequin-fc-vs-bath-rugby-s2",
-      "name": "Harlequin FC Vs Bath Rugby Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AA.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "fc-grenoble-rugby-vs-valence-romans-dr-me-s1",
-      "name": "FC Grenoble Rugby Vs Valence Romans Drôme Stream 1",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
-    },
-    {
-      "id": "fc-grenoble-rugby-vs-valence-romans-dr-me-s2",
-      "name": "FC Grenoble Rugby Vs Valence Romans Drôme Stream 2",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.44/hls/K888AAAAQQQQ.m3u8?",
-      "referer": "http://www.fawanews.sc/",
-      "origin": "http://www.fawanews.sc"
+      "link": ".m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
       "id": "wwe-nxt-vs-wwe-nxt-s1",
