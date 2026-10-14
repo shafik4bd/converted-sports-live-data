@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-10-14T06:41:21Z",
-  "totalStreams": 183,
-  "liveCount": 22,
+  "lastUpdated": "2026-10-14T12:45:37Z",
+  "totalStreams": 184,
+  "liveCount": 37,
   "channels": [
     {
       "id": "tennis-evento-vs-tennis-evento-s1",
@@ -122,6 +122,48 @@
       "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd"
     },
     {
+      "id": "wcl-2026-vs-wcl-2026-s1",
+      "name": "WCL 2026 Vs WCL 2026 Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/CWCW-PreRoll-Live-DASH/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?aws.sessionId=a5905909-7a94-41e4-adfb-d978f53fbe72"
+    },
+    {
+      "id": "wcl-2026-vs-wcl-2026-s2",
+      "name": "WCL 2026 Vs WCL 2026 Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2nblcfrrf7/out/v1/ac32368934c242f5afaabf2f160b6b53/cenc.mpd"
+    },
+    {
+      "id": "wcl-2026-vs-wcl-2026-s3",
+      "name": "WCL 2026 Vs WCL 2026 Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+    },
+    {
+      "id": "wcl-2026-vs-wcl-2026-s4",
+      "name": "WCL 2026 Vs WCL 2026 Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "wcl-2026-vs-wcl-2026-s5",
+      "name": "WCL 2026 Vs WCL 2026 Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://51.75.127.199:3141/starsports2/index.m3u8"
+    },
+    {
+      "id": "wcl-2026-vs-wcl-2026-s6",
+      "name": "WCL 2026 Vs WCL 2026 Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+    },
+    {
       "id": "australia-women-vs-bangladesh-women-s1",
       "name": "Australia Women Vs Bangladesh Women Stream 1",
       "status": "LIVE",
@@ -166,6 +208,24 @@
       "link": "https://dai-fancode.pages.dev/mumbai/4250150_english_hls_e1216d6dea39966_1ta-di_h264/index.m3u8",
       "referer": "https://fancode.com/",
       "origin": "https://fancode.com"
+    },
+    {
+      "id": "persib-bandung-vs-th-c-ng-viettel-s1",
+      "name": "Persib Bandung Vs Thể Công - Viettel Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/bzzzq.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "persib-bandung-vs-th-c-ng-viettel-s2",
+      "name": "Persib Bandung Vs Thể Công - Viettel Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/bzzzq.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
@@ -316,6 +376,20 @@
       "link": "http://193.47.62.50/hls/HHHHRAAA.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "aew-night-dynamite-vs-aew-night-dynamite-s1",
+      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+    },
+    {
+      "id": "aew-night-dynamite-vs-aew-night-dynamite-s2",
+      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
     },
     {
       "id": "one-fights-night-vs-one-fights-night-s1",
@@ -477,35 +551,35 @@
     {
       "id": "india-vs-west-indies-s1",
       "name": "India Vs West Indies Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd"
     },
     {
       "id": "india-vs-west-indies-s2",
       "name": "India Vs West Indies Stream 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd"
     },
     {
       "id": "india-vs-west-indies-s3",
       "name": "India Vs West Indies Stream 3",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9krvxoeuuo/out/v1/aa5f25b09106480aae6bcef3e8fabc60/cenc.mpd"
     },
     {
       "id": "india-vs-west-indies-s4",
       "name": "India Vs West Indies Stream 4",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://103.114.11.37:8081/Willow-TV/index.m3u8"
     },
     {
       "id": "india-vs-west-indies-s5",
       "name": "India Vs West Indies Stream 5",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://193.47.62.59/hls/NCCCAAQA.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
@@ -514,7 +588,7 @@
     {
       "id": "india-vs-west-indies-s6",
       "name": "India Vs West Indies Stream 6",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://livetv.hotstar.com/mp1/gec-india-1540068295/5a4eb3ac6e424eef8a30962d2232f80f/index.mpd?",
       "referer": "https://www.hotstar.com/",
@@ -523,7 +597,7 @@
     {
       "id": "india-vs-west-indies-s7",
       "name": "India Vs West Indies Stream 7",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://livetv.hotstar.com/mp1/gec-india-1540068247/9a6e7c30f9194cc1a6a6250cedb115fb/index.mpd?",
       "referer": "https://www.hotstar.com/",
@@ -551,15 +625,6 @@
       "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
     },
     {
-      "id": "sydney-kings-vs-new-zealand-breakers",
-      "name": "Sydney Kings Vs New Zealand Breakers",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "missouri-state-bears-vs-kennesaw-state-owls",
       "name": "Missouri State Bears Vs Kennesaw State Owls",
       "status": "UPCOMING",
@@ -571,24 +636,6 @@
     {
       "id": "sam-houston-state-bearkats-vs-western-kentucky-hilltoppers",
       "name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "kashiwa-reysol-vs-port-fc",
-      "name": "Kashiwa Reysol Vs Port FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "melbourne-victory-vs-fc-seoul",
-      "name": "Melbourne Victory Vs FC Seoul",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/.m3u8",
@@ -623,15 +670,6 @@
       "origin": "https://streame.center"
     },
     {
-      "id": "persib-bandung-vs-th-c-ng-viettel",
-      "name": "Persib Bandung Vs Thể Công - Viettel",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "al-faisaly-sc-vs-al-nahda-sc",
       "name": "Al Faisaly SC Vs Al Nahda SC",
       "status": "UPCOMING",
@@ -643,15 +681,6 @@
     {
       "id": "al-kuwait-sc-vs-al-khaldiya",
       "name": "Al Kuwait SC Vs Al Khaldiya",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "vissel-kobe-vs-jeonbuk-hyundai-motors",
-      "name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/.m3u8",
@@ -776,58 +805,22 @@
       "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-u19-vs-fenerbah-e-u19",
-      "name": "Aston Villa U19 Vs Fenerbahçe U19",
+      "id": "manchester-city-u19-vs-paris-saint-germain-u19-s1",
+      "name": "Manchester City U19 Vs Paris Saint-Germain U19 Stream 1",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
+      "link": "http://193.47.62.59/hls/f333AAAQQ.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
-      "id": "manchester-city-u19-vs-paris-saint-germain-u19",
-      "name": "Manchester City U19 Vs Paris Saint-Germain U19",
+      "id": "manchester-city-u19-vs-paris-saint-germain-u19-s2",
+      "name": "Manchester City U19 Vs Paris Saint-Germain U19 Stream 2",
       "status": "UPCOMING",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "lask-linz-u19-vs-liverpool-u19",
-      "name": "LASK Linz U19 Vs Liverpool U19",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "aston-villa-u19-vs-fenerbah-e-u19",
-      "name": "Aston Villa U19 Vs Fenerbahçe U19",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "manchester-city-u19-vs-paris-saint-germain-u19",
-      "name": "Manchester City U19 Vs Paris Saint-Germain U19",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "lask-linz-u19-vs-liverpool-u19",
-      "name": "LASK Linz U19 Vs Liverpool U19",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
+      "link": "http://193.47.62.59/hls/f333AAAQQ.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
       "id": "fluminense-vs-palmeiras",
@@ -1199,6 +1192,24 @@
       "origin": "https://streame.center"
     },
     {
+      "id": "real-betis-u19-vs-fc-porto-u19-s1",
+      "name": "Real Betis U19 Vs FC Porto U19 Stream 1",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/bzzzqqq.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "real-betis-u19-vs-fc-porto-u19-s2",
+      "name": "Real Betis U19 Vs FC Porto U19 Stream 2",
+      "status": "UPCOMING",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/bzzzqqq.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
       "id": "wwe-raw-vs-wwe-raw-s1",
       "name": "WWE RAW Vs WWE RAW Stream 1",
       "status": "ENDED",
@@ -1312,46 +1323,38 @@
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
-      "id": "wcl-2026-vs-wcl-2026-s1",
-      "name": "WCL 2026 Vs WCL 2026 Stream 1",
+      "id": "kashiwa-reysol-vs-port-fc",
+      "name": "Kashiwa Reysol Vs Port FC",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://dfus5rb42if6f.cloudfront.net/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/CWCW-PreRoll-Live-DASH/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd?aws.sessionId=a5905909-7a94-41e4-adfb-d978f53fbe72"
+      "link": "https://live.vivo155.com/live/hd-en-1-4621538.m3u8?txSecret=68672f72ae79985c109a9ff0fe1adcd5&txTime=6ACF6386",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
     },
     {
-      "id": "wcl-2026-vs-wcl-2026-s2",
-      "name": "WCL 2026 Vs WCL 2026 Stream 2",
+      "id": "melbourne-victory-vs-fc-seoul",
+      "name": "Melbourne Victory Vs FC Seoul",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eax7szfszf/out/v1/721844f560444e3991ac80af6169f7a3/cenc.mpd"
+      "link": "https://live2.jorvakstreamcache.com/live/channel5.m3u8"
     },
     {
-      "id": "wcl-2026-vs-wcl-2026-s3",
-      "name": "WCL 2026 Vs WCL 2026 Stream 3",
+      "id": "vissel-kobe-vs-jeonbuk-hyundai-motors",
+      "name": "Vissel Kobe Vs Jeonbuk Hyundai Motors",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+      "link": "https://live.vivo155.com/live/hd-en-1-4621519.m3u8?txSecret=f45df90d9fb95a91fe33353a2ab61d3b&txTime=6ACF634E",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
     },
     {
-      "id": "wcl-2026-vs-wcl-2026-s4",
-      "name": "WCL 2026 Vs WCL 2026 Stream 4",
+      "id": "lask-linz-u19-vs-liverpool-u19",
+      "name": "LASK Linz U19 Vs Liverpool U19",
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
-    },
-    {
-      "id": "wcl-2026-vs-wcl-2026-s5",
-      "name": "WCL 2026 Vs WCL 2026 Stream 5",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://51.75.127.199:3141/starsports2/index.m3u8"
-    },
-    {
-      "id": "wcl-2026-vs-wcl-2026-s6",
-      "name": "WCL 2026 Vs WCL 2026 Stream 6",
-      "status": "ENDED",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
+      "link": "https://edgestream2.pro/hls/.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
       "id": "tabel-tennis-evento-vs-tabel-tennis-evento",
