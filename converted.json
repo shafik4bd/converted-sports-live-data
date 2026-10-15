@@ -1,8 +1,22 @@
 {
-  "lastUpdated": "2026-10-14T21:27:22Z",
+  "lastUpdated": "2026-10-15T00:05:44Z",
   "totalStreams": 336,
-  "liveCount": 123,
+  "liveCount": 52,
   "channels": [
+    {
+      "id": "aew-night-dynamite-vs-aew-night-dynamite-s1",
+      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+    },
+    {
+      "id": "aew-night-dynamite-vs-aew-night-dynamite-s2",
+      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
+    },
     {
       "id": "sports-live-vs-sports-live",
       "name": "SPORTS LIVE Vs SPORTS LIVE",
@@ -11,990 +25,324 @@
       "link": "https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/jvrno3jef2/out/v1/0f66f4d875f04d7d91f6210461dd7b52/cenc.mpd"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s1",
-      "name": "Lincoln City Vs West Ham United Stream 1",
+      "id": "aew-collision-vs-aew-collision-s1",
+      "name": "AEW Collision Vs AEW Collision Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/exwmclal38/out/v1/b0d2af4c68b941668c3b7787e8b8d8dc/dba45b85-d5ea-44c4-b834-5b52bd6876b9-cenc.mpd?aws_sessionId=a46c4195-4c8c-46bb-9971-dc0f208566c4"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s2",
-      "name": "Lincoln City Vs West Ham United Stream 2",
+      "id": "aew-collision-vs-aew-collision-s2",
+      "name": "AEW Collision Vs AEW Collision Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
+    },
+    {
+      "id": "missouri-state-bears-vs-kennesaw-state-owls",
+      "name": "Missouri State Bears Vs Kennesaw State Owls",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "sam-houston-state-bearkats-vs-western-kentucky-hilltoppers-s1",
+      "name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
+    },
+    {
+      "id": "sam-houston-state-bearkats-vs-western-kentucky-hilltoppers-s2",
+      "name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "rhode-island-union-vs-loudoun-united-fc",
+      "name": "Rhode Island Union Vs Loudoun United FC",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+      "referer": "https://amazon.com",
+      "origin": "https://amazon.com"
+    },
+    {
+      "id": "sarmiento-vs-river-plate",
+      "name": "Sarmiento Vs River Plate",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/2366/index.m3u8"
+    },
+    {
+      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s1",
+      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s3",
-      "name": "Lincoln City Vs West Ham United Stream 3",
+      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s2",
+      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s4",
-      "name": "Lincoln City Vs West Ham United Stream 4",
+      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s3",
+      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s5",
-      "name": "Lincoln City Vs West Ham United Stream 5",
+      "id": "inter-miami-cf-vs-new-york-city-fc-s1",
+      "name": "Inter Miami CF Vs New York City FC Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b8f06531_d898_491e_a0da_40e637d1febf/index.m3u8"
     },
     {
-      "id": "lincoln-city-vs-west-ham-united-s6",
-      "name": "Lincoln City Vs West Ham United Stream 6",
+      "id": "inter-miami-cf-vs-new-york-city-fc-s2",
+      "name": "Inter Miami CF Vs New York City FC Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/2710/index.m3u8"
-    },
-    {
-      "id": "lincoln-city-vs-west-ham-united-s7",
-      "name": "Lincoln City Vs West Ham United Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAAAAQQ.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "portsmouth-vs-sheffield-united-s1",
-      "name": "Portsmouth Vs Sheffield United Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?",
-      "referer": "https://iplayer.is/",
+      "link": "https://netanjahu.hls.st/t/a15dcca488e14416f3066f69d72a219a/index.m3u8",
+      "referer": "https://iplayer.is",
       "origin": "https://iplayer.is"
     },
     {
-      "id": "portsmouth-vs-sheffield-united-s2",
-      "name": "Portsmouth Vs Sheffield United Stream 2",
+      "id": "inter-miami-cf-vs-new-york-city-fc-s3",
+      "name": "Inter Miami CF Vs New York City FC Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
+      "link": "https://live1.dyrur1.com/live/63kv9igrwj8ix7e_c68970984fc12ff53d527d6a587562ec_1080p.m3u8?auth_key=1791779438-0-0-a2db5477c7ad7dc56b98299f44f7ac64"
     },
     {
-      "id": "portsmouth-vs-sheffield-united-s3",
-      "name": "Portsmouth Vs Sheffield United Stream 3",
+      "id": "inter-miami-cf-vs-new-york-city-fc-s4",
+      "name": "Inter Miami CF Vs New York City FC Stream 4",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/2587/index.m3u8"
+      "link": "https://live.vivo155.com/live/sd-1-4460597.m3u8?txSecret=3effb1e16738b3d17b589325134c12e1&txTime=6ACC3F3E"
     },
     {
-      "id": "portsmouth-vs-sheffield-united-s4",
-      "name": "Portsmouth Vs Sheffield United Stream 4",
+      "id": "fc-cincinnati-vs-new-england-revolution",
+      "name": "FC Cincinnati Vs New England Revolution",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6e2fa3e3_b94a_4e59_9eb8_4e5a2050796b/index.m3u8"
     },
     {
-      "id": "queens-park-rangers-vs-derby-county-s1",
-      "name": "Queens Park Rangers Vs Derby County Stream 1",
+      "id": "dc-united-vs-new-york-red-bulls",
+      "name": "DC United Vs New York Red Bulls",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a342647d_0899_4203_bb45_31fb55328a5f/index.m3u8"
     },
     {
-      "id": "queens-park-rangers-vs-derby-county-s2",
-      "name": "Queens Park Rangers Vs Derby County Stream 2",
+      "id": "cf-montr-al-vs-atlanta-united",
+      "name": "CF Montréal Vs Atlanta United",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_aa500460_06b6_4465_9985_23a43da9b421/index.m3u8"
     },
     {
-      "id": "norwich-city-vs-southampton-s1",
-      "name": "Norwich City Vs Southampton Stream 1",
+      "id": "columbus-crew-vs-charlotte-fc",
+      "name": "Columbus Crew Vs Charlotte FC",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/b51d93f8f43655bd11e0a63e963dd97c/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6453c817_c20e_4618_883d_46fa53192ed9/index.m3u8"
     },
     {
-      "id": "norwich-city-vs-southampton-s2",
-      "name": "Norwich City Vs Southampton Stream 2",
+      "id": "toronto-fc-vs-orlando-city-sc-s1",
+      "name": "Toronto FC Vs Orlando City SC Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
     },
     {
-      "id": "norwich-city-vs-southampton-s3",
-      "name": "Norwich City Vs Southampton Stream 3",
+      "id": "toronto-fc-vs-orlando-city-sc-s2",
+      "name": "Toronto FC Vs Orlando City SC Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/2646/index.m3u8"
+      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c532cc86_e637_49b6_b6ff_edbf3e7d728d/index.m3u8"
     },
     {
-      "id": "norwich-city-vs-southampton-s4",
-      "name": "Norwich City Vs Southampton Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "paris-basketball-vs-virtus-bologna-s1",
-      "name": "Paris Basketball Vs Virtus Bologna Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/44c57d33-47f1-4d92-a9dc-623d65a1cf36.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "paris-basketball-vs-virtus-bologna-s2",
-      "name": "Paris Basketball Vs Virtus Bologna Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/BGBGBGAA.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s1",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=20699da2-a3d6-4800-b224-3c654ab49cd8"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s2",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=20699da2-a3d6-4800-b224-3c654ab49cd8"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s3",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s4",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s5",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/58033/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s6",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628405.m3u8?txSecret=f0c91d76d2c1fee3e577db8fbc1b1ff6&txTime=6ACFE25F",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s7",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/54165a08064fb2f73a89da27b80ddbeb/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s8",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/1412562be5539f8848aaf33c55f1f9c5/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s9",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/9d3c3f1499465eb29035bc7af6b9cd19/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s10",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/af31d0300ac31844ba0ee230f7cc8588/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s11",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/cf67fc84-86d8-44c8-8d82-41825cd5242a.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s12",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/20022/index.m3u8"
-    },
-    {
-      "id": "bod-glimt-vs-borussia-dortmund-s13",
-      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 13",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s1",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s2",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s3",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s4",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s5",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628498.m3u8?txSecret=1616c48510f498f376ab8fba52b308c5&txTime=6ACFE316",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s6",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/9cf5ccb59252c0a9ca4918e9ed4231bb/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s7",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/e6425c073f117b802d9654c15ac26ed5/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s8",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/83d79ac6d334e721ebf6a278a9dda85d/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s9",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s10",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/8341cfd7-2beb-48c9-8d97-f9e2d970f43e.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s11",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/22055/index.m3u8"
-    },
-    {
-      "id": "shakhtar-donetsk-vs-aek-athens-s12",
-      "name": "Shakhtar Donetsk Vs AEK Athens Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/I777aaaaa.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s1",
-      "name": "Real Betis Vs FC Porto Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s2",
-      "name": "Real Betis Vs FC Porto Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s3",
-      "name": "Real Betis Vs FC Porto Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s4",
-      "name": "Real Betis Vs FC Porto Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s5",
-      "name": "Real Betis Vs FC Porto Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/58032/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s6",
-      "name": "Real Betis Vs FC Porto Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628401.m3u8?txSecret=b4be498457931c4bc710bd89dc2fdd23&txTime=6ACFE2B6",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s7",
-      "name": "Real Betis Vs FC Porto Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/c9ea9d3af7595b2dca99977dcc721743/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s8",
-      "name": "Real Betis Vs FC Porto Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/04dc1ef2b4b1558812e23326cae17c67/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s9",
-      "name": "Real Betis Vs FC Porto Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/8b04f3042a09b647e95dce8d4fca71f8/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s10",
-      "name": "Real Betis Vs FC Porto Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/2ef1606b0b094da59ac63f6fdeaceb47/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s11",
-      "name": "Real Betis Vs FC Porto Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/f8ade365-a9fc-4ba0-8310-057e91b3b63c.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "real-betis-vs-fc-porto-s12",
-      "name": "Real Betis Vs FC Porto Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/19010/index.m3u8"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s1",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s2",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s3",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s4",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s5",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628506.m3u8?txSecret=abe20ee1b054765d341d0b6eab59514f&txTime=6ACFE2F3",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s6",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/709a8d88b643f6bcc004ab95ec2b5c48/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s7",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/e9af53c0dfa6746c858a1bff11ed716b/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s8",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/a4b44cae69ba9308681df15bf7c13312/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s9",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/3f1fc5a5-b93f-47a0-9f29-b5b248991f16.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s10",
-      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://c8.vfruitfairy.com/23066/index.m3u8"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s1",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 1",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s1",
+      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
     },
     {
-      "id": "manchester-city-vs-paris-saint-germain-s2",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 2",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s2",
+      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
     },
     {
-      "id": "manchester-city-vs-paris-saint-germain-s3",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 3",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s3",
+      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
     },
     {
-      "id": "manchester-city-vs-paris-saint-germain-s4",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 4",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s4",
+      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 4",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/58034/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s5",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628456.m3u8?txSecret=82e30e03c8eaf8f4cc9e390a38d45406&txTime=6ACFE18F",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s6",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8?",
-      "referer": "https://www.arena8x.live/",
-      "origin": "https://www.arena8x.live"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s7",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/9e7ea27590dfe6b6b581f0402a8d5d1e/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s8",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/f4acc3419041e8be1a18d86020b62675/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s9",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/76fd68a8bf76c043d3451dc0c9c3f4b4/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s10",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/0850ecf7be1c1f3351b523d08cc5d178/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s11",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/d043b1a9efeb9c5c7a8c6e8e8fd6d3d7/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s12",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.41/hls/I777aaaa.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s13",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 13",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s14",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 14",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/bd4de51a-b864-479b-a487-d6d2ea65ba17.m3u8"
-    },
-    {
-      "id": "manchester-city-vs-paris-saint-germain-s15",
-      "name": "Manchester City Vs Paris Saint-Germain Stream 15",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+      "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s1",
-      "name": "AS Roma Vs Real Madrid Stream 1",
+      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s5",
+      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 5",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s2",
-      "name": "AS Roma Vs Real Madrid Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s3",
-      "name": "AS Roma Vs Real Madrid Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s4",
-      "name": "AS Roma Vs Real Madrid Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9xdnqch8ja/out/v1/227178219f504c38b9786a0cd9e3e124/0d0e7159-c81d-4aad-8d3e-9f1e871288e9-cenc.mpd?aws_sessionId=803d0d72-d174-48fb-b85b-48589f9788b4"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s5",
-      "name": "AS Roma Vs Real Madrid Stream 5",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/58030/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s6",
-      "name": "AS Roma Vs Real Madrid Stream 6",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?",
-      "referer": "https://www.arena8x.live/",
-      "origin": "https://www.arena8x.live"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s7",
-      "name": "AS Roma Vs Real Madrid Stream 7",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628379.m3u8?txSecret=f8e48c761ff518dfb4a68ddec1602832&txTime=6ACFE148",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s8",
-      "name": "AS Roma Vs Real Madrid Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/9e7ea27590dfe6b6b581f0402a8d5d1e/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s9",
-      "name": "AS Roma Vs Real Madrid Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/f4acc3419041e8be1a18d86020b62675/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s10",
-      "name": "AS Roma Vs Real Madrid Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/76fd68a8bf76c043d3451dc0c9c3f4b4/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s11",
-      "name": "AS Roma Vs Real Madrid Stream 11",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/0850ecf7be1c1f3351b523d08cc5d178/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s12",
-      "name": "AS Roma Vs Real Madrid Stream 12",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/d043b1a9efeb9c5c7a8c6e8e8fd6d3d7/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s13",
-      "name": "AS Roma Vs Real Madrid Stream 13",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/98bcd7cb90a91e4d66f5222eb6902460/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s14",
-      "name": "AS Roma Vs Real Madrid Stream 14",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/cd6a62e6-e684-49da-b7e5-3b3e7a1160f1.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "as-roma-vs-real-madrid-s15",
-      "name": "AS Roma Vs Real Madrid Stream 15",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8",
+      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s16",
-      "name": "AS Roma Vs Real Madrid Stream 16",
+      "id": "dallas-mavericks-vs-new-orleans-pelicans-s1",
+      "name": "Dallas Mavericks Vs New Orleans Pelicans Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8",
+      "link": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s17",
-      "name": "AS Roma Vs Real Madrid Stream 17",
+      "id": "dallas-mavericks-vs-new-orleans-pelicans-s2",
+      "name": "Dallas Mavericks Vs New Orleans Pelicans Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/I777.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+      "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s18",
-      "name": "AS Roma Vs Real Madrid Stream 18",
+      "id": "boston-celtics-vs-charlotte-hornets-s1",
+      "name": "Boston Celtics Vs Charlotte Hornets Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s19",
-      "name": "AS Roma Vs Real Madrid Stream 19",
+      "id": "boston-celtics-vs-charlotte-hornets-s2",
+      "name": "Boston Celtics Vs Charlotte Hornets Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s20",
-      "name": "AS Roma Vs Real Madrid Stream 20",
+      "id": "milwaukee-bucks-vs-chicago-bulls-s1",
+      "name": "Milwaukee Bucks Vs Chicago Bulls Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream7.pro/hls/zeafwqvhfe69.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s21",
-      "name": "AS Roma Vs Real Madrid Stream 21",
+      "id": "milwaukee-bucks-vs-chicago-bulls-s2",
+      "name": "Milwaukee Bucks Vs Chicago Bulls Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s22",
-      "name": "AS Roma Vs Real Madrid Stream 22",
+      "id": "san-antonio-spurs-vs-phoenix-suns-s1",
+      "name": "San Antonio Spurs Vs Phoenix Suns Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "as-roma-vs-real-madrid-s23",
-      "name": "AS Roma Vs Real Madrid Stream 23",
+      "id": "san-antonio-spurs-vs-phoenix-suns-s2",
+      "name": "San Antonio Spurs Vs Phoenix Suns Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
+      "link": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s1",
-      "name": "Aston Villa Vs Fenerbahçe Stream 1",
+      "id": "minnesota-timberwolves-vs-detroit-pistons-s1",
+      "name": "Minnesota Timberwolves Vs Detroit Pistons Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
+      "link": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s2",
-      "name": "Aston Villa Vs Fenerbahçe Stream 2",
+      "id": "minnesota-timberwolves-vs-detroit-pistons-s2",
+      "name": "Minnesota Timberwolves Vs Detroit Pistons Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f"
+      "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s3",
-      "name": "Aston Villa Vs Fenerbahçe Stream 3",
+      "id": "miami-heat-vs-brooklyn-nets-s1",
+      "name": "Miami Heat Vs Brooklyn Nets Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f"
+      "link": "https://edgestream7.pro/hls/mlkijfezag65.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s4",
-      "name": "Aston Villa Vs Fenerbahçe Stream 4",
+      "id": "miami-heat-vs-brooklyn-nets-s2",
+      "name": "Miami Heat Vs Brooklyn Nets Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist?&.m3u8",
-      "referer": "https://gooz.aapmains.net",
-      "origin": "https://gooz.aapmains.net"
+      "link": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s5",
-      "name": "Aston Villa Vs Fenerbahçe Stream 5",
+      "id": "washington-capitals-vs-montr-al-canadiens-s1",
+      "name": "Washington Capitals Vs Montréal Canadiens Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F",
-      "referer": "https://player.online878.com/",
-      "origin": "https://player.online878.com"
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s6",
-      "name": "Aston Villa Vs Fenerbahçe Stream 6",
+      "id": "washington-capitals-vs-montr-al-canadiens-s2",
+      "name": "Washington Capitals Vs Montréal Canadiens Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/237a312c46f8d93ffd7b5e45f2c39831/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
+      "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
-      "id": "aston-villa-vs-fenerbah-e-s7",
-      "name": "Aston Villa Vs Fenerbahçe Stream 7",
+      "id": "washington-capitals-vs-montr-al-canadiens-s3",
+      "name": "Washington Capitals Vs Montréal Canadiens Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/67491e76b114a5ef4f293c47dcf75bd7/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "aston-villa-vs-fenerbah-e-s8",
-      "name": "Aston Villa Vs Fenerbahçe Stream 8",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/1328e478f6adc524e1f5cdaf9b6cd965/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "aston-villa-vs-fenerbah-e-s9",
-      "name": "Aston Villa Vs Fenerbahçe Stream 9",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://www.rtmpcdn.com/live/9b2917fd-2b01-4c3f-bc52-2971d635c831.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "aston-villa-vs-fenerbah-e-s10",
-      "name": "Aston Villa Vs Fenerbahçe Stream 10",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
-      "referer": "https://www.sonyliv.com/",
-      "origin": "https://www.sonyliv.com"
-    },
-    {
-      "id": "ucl-golazo-show-vs-ucl-golazo-show-s1",
-      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7"
-    },
-    {
-      "id": "ucl-golazo-show-vs-ucl-golazo-show-s2",
-      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7"
-    },
-    {
-      "id": "ucl-golazo-show-vs-ucl-golazo-show-s3",
-      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/45c2ad44ae2697fa0e82163b6cef0afc/index.m3u8?",
-      "referer": "https://iplayer.is/",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "ucl-golazo-show-vs-ucl-golazo-show-s4",
-      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.59/hls/VOOOA.m3u8",
-      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
-      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+      "link": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
     },
     {
       "id": "smackdown-vs-smackdown-s1",
@@ -1145,20 +493,6 @@
       "link": "http://193.47.62.50/hls/HHHHRAAA.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
-    },
-    {
-      "id": "aew-night-dynamite-vs-aew-night-dynamite-s1",
-      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
-    },
-    {
-      "id": "aew-night-dynamite-vs-aew-night-dynamite-s2",
-      "name": "AEW Night Dynamite Vs AEW Night Dynamite Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
     },
     {
       "id": "one-fights-night-vs-one-fights-night-s1",
@@ -1574,20 +908,6 @@
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
-      "id": "aew-collision-vs-aew-collision-s1",
-      "name": "AEW Collision Vs AEW Collision Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
-    },
-    {
-      "id": "aew-collision-vs-aew-collision-s2",
-      "name": "AEW Collision Vs AEW Collision Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd"
-    },
-    {
       "id": "india-vs-west-indies-s1",
       "name": "India Vs West Indies Stream 1",
       "status": "UPCOMING",
@@ -1623,40 +943,6 @@
       "link": "https://fastly.live.brightcove.com/1850722103624061910/ap-southeast-1/6195549636001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaTE3dzIxLmVncmVzcy5zYjBmOGsiLCJhY2NvdW50X2lkIjoiNjE5NTU0OTYzNjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MTk1NTQ5NjM2MDAxIl0sImp0aSI6IjE4NTA3MjIxMDM2MjQwNjE5MTAifQ.MQrZwY5puqZGRgWL843gOZ-Y7i2jUGB5McfZKwoOB1I/playlist-hls.m3u8"
     },
     {
-      "id": "missouri-state-bears-vs-kennesaw-state-owls",
-      "name": "Missouri State Bears Vs Kennesaw State Owls",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "sam-houston-state-bearkats-vs-western-kentucky-hilltoppers-s1",
-      "name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "sam-houston-state-bearkats-vs-western-kentucky-hilltoppers-s2",
-      "name": "Sam Houston State Bearkats Vs Western Kentucky Hilltoppers Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "rhode-island-union-vs-loudoun-united-fc",
-      "name": "Rhode Island Union Vs Loudoun United FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-      "referer": "https://amazon.com",
-      "origin": "https://amazon.com"
-    },
-    {
       "id": "preston-lions-fc-vs-wollongong-wolves",
       "name": "Preston Lions FC Vs Wollongong Wolves",
       "status": "UPCOMING",
@@ -1664,13 +950,6 @@
       "link": "https://edgestream2.pro/hls/.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
-    },
-    {
-      "id": "sarmiento-vs-river-plate",
-      "name": "Sarmiento Vs River Plate",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/2366/index.m3u8"
     },
     {
       "id": "al-faisaly-vs-al-kholood",
@@ -1684,128 +963,35 @@
     {
       "id": "fluminense-vs-palmeiras-s1",
       "name": "Fluminense Vs Palmeiras Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
     },
     {
       "id": "fluminense-vs-palmeiras-s2",
       "name": "Fluminense Vs Palmeiras Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s1",
-      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s2",
-      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd"
-    },
-    {
-      "id": "atl-tico-mineiro-vs-montevideo-city-torque-s3",
-      "name": "Atlético Mineiro Vs Montevideo City Torque Stream 3",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-    },
-    {
-      "id": "inter-miami-cf-vs-new-york-city-fc-s1",
-      "name": "Inter Miami CF Vs New York City FC Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_b8f06531_d898_491e_a0da_40e637d1febf/index.m3u8"
-    },
-    {
-      "id": "inter-miami-cf-vs-new-york-city-fc-s2",
-      "name": "Inter Miami CF Vs New York City FC Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://netanjahu.hls.st/t/a15dcca488e14416f3066f69d72a219a/index.m3u8",
-      "referer": "https://iplayer.is",
-      "origin": "https://iplayer.is"
-    },
-    {
-      "id": "inter-miami-cf-vs-new-york-city-fc-s3",
-      "name": "Inter Miami CF Vs New York City FC Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live1.dyrur1.com/live/63kv9igrwj8ix7e_c68970984fc12ff53d527d6a587562ec_1080p.m3u8?auth_key=1791779438-0-0-a2db5477c7ad7dc56b98299f44f7ac64"
-    },
-    {
-      "id": "inter-miami-cf-vs-new-york-city-fc-s4",
-      "name": "Inter Miami CF Vs New York City FC Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://live.vivo155.com/live/sd-1-4460597.m3u8?txSecret=3effb1e16738b3d17b589325134c12e1&txTime=6ACC3F3E"
     },
     {
       "id": "chicago-fire-vs-philadelphia-union",
       "name": "Chicago Fire Vs Philadelphia Union",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a6372eb5_1f53_4b3f_aee6_d1e8d671f9a5/index.m3u8"
     },
     {
-      "id": "fc-cincinnati-vs-new-england-revolution",
-      "name": "FC Cincinnati Vs New England Revolution",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6e2fa3e3_b94a_4e59_9eb8_4e5a2050796b/index.m3u8"
-    },
-    {
-      "id": "dc-united-vs-new-york-red-bulls",
-      "name": "DC United Vs New York Red Bulls",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_a342647d_0899_4203_bb45_31fb55328a5f/index.m3u8"
-    },
-    {
-      "id": "cf-montr-al-vs-atlanta-united",
-      "name": "CF Montréal Vs Atlanta United",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_aa500460_06b6_4465_9985_23a43da9b421/index.m3u8"
-    },
-    {
-      "id": "columbus-crew-vs-charlotte-fc",
-      "name": "Columbus Crew Vs Charlotte FC",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6453c817_c20e_4618_883d_46fa53192ed9/index.m3u8"
-    },
-    {
-      "id": "toronto-fc-vs-orlando-city-sc-s1",
-      "name": "Toronto FC Vs Orlando City SC Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-    },
-    {
-      "id": "toronto-fc-vs-orlando-city-sc-s2",
-      "name": "Toronto FC Vs Orlando City SC Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_c532cc86_e637_49b6_b6ff_edbf3e7d728d/index.m3u8"
-    },
-    {
       "id": "nashville-sc-vs-sporting-kansas-city",
       "name": "Nashville SC Vs Sporting Kansas City",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_6be55c4d_8445_4506_b5f5_4154bd5abe11/index.m3u8"
     },
     {
       "id": "fc-dallas-vs-seattle-sounders-fc",
       "name": "FC Dallas Vs Seattle Sounders FC",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_9bda8b84_607f_4373_8764_6b95b3a38094/index.m3u8"
     },
@@ -1833,7 +1019,7 @@
     {
       "id": "st-louis-city-vs-vancouver-whitecaps",
       "name": "St.Louis City Vs Vancouver Whitecaps",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_0a573f9c_6150_4a5e_bf37_66e2a766fe2c/index.m3u8"
     },
@@ -1859,81 +1045,6 @@
       "link": "http://162.251.160.53:8089/prime_can_amzn1_dv_gti_fadffb2c_bfbe_46ae_be6a_0dda38700b86/index.m3u8"
     },
     {
-      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s1",
-      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
-    },
-    {
-      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s2",
-      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd"
-    },
-    {
-      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s3",
-      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
-    },
-    {
-      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s4",
-      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/dazhfiach15.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "los-angeles-dodgers-vs-milwaukee-brewers-s5",
-      "name": "Los Angeles Dodgers Vs Milwaukee Brewers Stream 5",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/dazhfiach15.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "dallas-mavericks-vs-new-orleans-pelicans-s1",
-      "name": "Dallas Mavericks Vs New Orleans Pelicans Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "dallas-mavericks-vs-new-orleans-pelicans-s2",
-      "name": "Dallas Mavericks Vs New Orleans Pelicans Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "boston-celtics-vs-charlotte-hornets-s1",
-      "name": "Boston Celtics Vs Charlotte Hornets Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/wfazgsqtrezu66.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "boston-celtics-vs-charlotte-hornets-s2",
-      "name": "Boston Celtics Vs Charlotte Hornets Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "los-angeles-clippers-vs-denver-nuggets",
       "name": "Los Angeles Clippers Vs Denver Nuggets",
       "status": "UPCOMING",
@@ -1943,113 +1054,16 @@
       "origin": "https://streame.center"
     },
     {
-      "id": "milwaukee-bucks-vs-chicago-bulls-s1",
-      "name": "Milwaukee Bucks Vs Chicago Bulls Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/zeafwqvhfe69.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "milwaukee-bucks-vs-chicago-bulls-s2",
-      "name": "Milwaukee Bucks Vs Chicago Bulls Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/zeafwqvhfe69.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "san-antonio-spurs-vs-phoenix-suns-s1",
-      "name": "San Antonio Spurs Vs Phoenix Suns Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "san-antonio-spurs-vs-phoenix-suns-s2",
-      "name": "San Antonio Spurs Vs Phoenix Suns Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "minnesota-timberwolves-vs-detroit-pistons-s1",
-      "name": "Minnesota Timberwolves Vs Detroit Pistons Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/bvnsqdfvgha70.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "minnesota-timberwolves-vs-detroit-pistons-s2",
-      "name": "Minnesota Timberwolves Vs Detroit Pistons Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "miami-heat-vs-brooklyn-nets-s1",
-      "name": "Miami Heat Vs Brooklyn Nets Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/mlkijfezag65.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "miami-heat-vs-brooklyn-nets-s2",
-      "name": "Miami Heat Vs Brooklyn Nets Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/mlkijfezag65.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "washington-capitals-vs-montr-al-canadiens-s1",
-      "name": "Washington Capitals Vs Montréal Canadiens Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-    },
-    {
-      "id": "washington-capitals-vs-montr-al-canadiens-s2",
-      "name": "Washington Capitals Vs Montréal Canadiens Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/uyopzarf50.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "washington-capitals-vs-montr-al-canadiens-s3",
-      "name": "Washington Capitals Vs Montréal Canadiens Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/uyopzarf50.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "colorado-avalanche-vs-dallas-stars-s1",
       "name": "Colorado Avalanche Vs Dallas Stars Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
     },
     {
       "id": "colorado-avalanche-vs-dallas-stars-s2",
       "name": "Colorado Avalanche Vs Dallas Stars Stream 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream1.pro/hls/hjksgdfauzy51.m3u8",
       "referer": "https://streame.center",
@@ -2058,7 +1072,7 @@
     {
       "id": "colorado-avalanche-vs-dallas-stars-s3",
       "name": "Colorado Avalanche Vs Dallas Stars Stream 3",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/hjksgdfauzy51.m3u8",
       "referer": "https://streame.center",
@@ -2368,6 +1382,149 @@
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
+      "id": "lincoln-city-vs-west-ham-united-s1",
+      "name": "Lincoln City Vs West Ham United Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/exwmclal38/out/v1/b0d2af4c68b941668c3b7787e8b8d8dc/dba45b85-d5ea-44c4-b834-5b52bd6876b9-cenc.mpd?aws_sessionId=a46c4195-4c8c-46bb-9971-dc0f208566c4"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s2",
+      "name": "Lincoln City Vs West Ham United Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s3",
+      "name": "Lincoln City Vs West Ham United Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s4",
+      "name": "Lincoln City Vs West Ham United Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/hflfkrtib42.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s5",
+      "name": "Lincoln City Vs West Ham United Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4563620.m3u8?txSecret=e92f00e75956b330b0b23866a9d1fd53&txTime=6ACFE0B1",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s6",
+      "name": "Lincoln City Vs West Ham United Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/2710/index.m3u8"
+    },
+    {
+      "id": "lincoln-city-vs-west-ham-united-s7",
+      "name": "Lincoln City Vs West Ham United Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAAAAQQ.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "portsmouth-vs-sheffield-united-s1",
+      "name": "Portsmouth Vs Sheffield United Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/079b0b648fe797ce1b776997d4fba2f4/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "portsmouth-vs-sheffield-united-s2",
+      "name": "Portsmouth Vs Sheffield United Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/sd-1-4563622.m3u8?txSecret=66fc0690d748bb465ecad3290e869725&txTime=6ACFE090",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "portsmouth-vs-sheffield-united-s3",
+      "name": "Portsmouth Vs Sheffield United Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/2587/index.m3u8"
+    },
+    {
+      "id": "portsmouth-vs-sheffield-united-s4",
+      "name": "Portsmouth Vs Sheffield United Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "queens-park-rangers-vs-derby-county-s1",
+      "name": "Queens Park Rangers Vs Derby County Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "queens-park-rangers-vs-derby-county-s2",
+      "name": "Queens Park Rangers Vs Derby County Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAAAAQ.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "norwich-city-vs-southampton-s1",
+      "name": "Norwich City Vs Southampton Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/b51d93f8f43655bd11e0a63e963dd97c/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "norwich-city-vs-southampton-s2",
+      "name": "Norwich City Vs Southampton Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4563621.m3u8?txSecret=b34541e3f4b4d269c1d49e7366ef1478&txTime=6ACFDFE4",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "norwich-city-vs-southampton-s3",
+      "name": "Norwich City Vs Southampton Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://162.251.160.53:8089/2646/index.m3u8"
+    },
+    {
+      "id": "norwich-city-vs-southampton-s4",
+      "name": "Norwich City Vs Southampton Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
       "id": "anadolu-efes-vs-bayern-m-nchen-s1",
       "name": "Anadolu Efes Vs Bayern München Stream 1",
       "status": "ENDED",
@@ -2400,6 +1557,733 @@
       "link": "http://193.47.62.59/hls/T888AAAAQQQQA.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "paris-basketball-vs-virtus-bologna-s1",
+      "name": "Paris Basketball Vs Virtus Bologna Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/44c57d33-47f1-4d92-a9dc-623d65a1cf36.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "paris-basketball-vs-virtus-bologna-s2",
+      "name": "Paris Basketball Vs Virtus Bologna Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/BGBGBGAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s1",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=20699da2-a3d6-4800-b224-3c654ab49cd8"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s2",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xyzag3fuz4/out/v1/3c69feb3bb0b4653a88b3948081e40b5/f335c8fb-06e7-4a18-913d-28f2b8c60279-cenc.mpd?aws_sessionId=20699da2-a3d6-4800-b224-3c654ab49cd8"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s3",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s4",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/09cbfpx3zg/out/v1/dd4c2935bbd1458e96fea050cffb6de3/cenc.mpd"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s5",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58033/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s6",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628405.m3u8?txSecret=f0c91d76d2c1fee3e577db8fbc1b1ff6&txTime=6ACFE25F",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s7",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/54165a08064fb2f73a89da27b80ddbeb/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s8",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/1412562be5539f8848aaf33c55f1f9c5/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s9",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/9d3c3f1499465eb29035bc7af6b9cd19/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s10",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/af31d0300ac31844ba0ee230f7cc8588/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s11",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/cf67fc84-86d8-44c8-8d82-41825cd5242a.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s12",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/20022/index.m3u8"
+    },
+    {
+      "id": "bod-glimt-vs-borussia-dortmund-s13",
+      "name": "Bodø/Glimt Vs Borussia Dortmund Stream 13",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/b0h5fNwDKH.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s1",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s2",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/e9ixmmeo6o/out/v1/1545282481c4472d824bc360266bb4f1/38919f87-a1b5-409c-954f-79148e2cd543-cenc.mpd?aws_sessionId=1c919c27-a0b2-4f45-b07d-81915282eb6f"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s3",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s4",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ezw22132t4/out/v1/7257a9e3af1e4c9e8867c97998030233/cenc.mpd"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s5",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628498.m3u8?txSecret=1616c48510f498f376ab8fba52b308c5&txTime=6ACFE316",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s6",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/9cf5ccb59252c0a9ca4918e9ed4231bb/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s7",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/e6425c073f117b802d9654c15ac26ed5/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s8",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/83d79ac6d334e721ebf6a278a9dda85d/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s9",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s10",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/8341cfd7-2beb-48c9-8d97-f9e2d970f43e.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s11",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/22055/index.m3u8"
+    },
+    {
+      "id": "shakhtar-donetsk-vs-aek-athens-s12",
+      "name": "Shakhtar Donetsk Vs AEK Athens Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/I777aaaaa.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s1",
+      "name": "Real Betis Vs FC Porto Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s2",
+      "name": "Real Betis Vs FC Porto Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/athty4ib8j/out/v1/239afca50f824568bb1a40bd4ef8f0d6/25ae04a8-a684-42e4-8418-6bfb99ca4d64-cenc.mpd?aws_sessionId=dfe0303b-4cc9-49e2-af7e-7e7f117b4d6e"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s3",
+      "name": "Real Betis Vs FC Porto Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s4",
+      "name": "Real Betis Vs FC Porto Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/31mhdmgkew/out/v1/8ccf7b91d6c3409b991d48150e65c0e4/cenc.mpd"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s5",
+      "name": "Real Betis Vs FC Porto Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58032/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s6",
+      "name": "Real Betis Vs FC Porto Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628401.m3u8?txSecret=b4be498457931c4bc710bd89dc2fdd23&txTime=6ACFE2B6",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s7",
+      "name": "Real Betis Vs FC Porto Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/c9ea9d3af7595b2dca99977dcc721743/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s8",
+      "name": "Real Betis Vs FC Porto Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/04dc1ef2b4b1558812e23326cae17c67/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s9",
+      "name": "Real Betis Vs FC Porto Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/8b04f3042a09b647e95dce8d4fca71f8/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s10",
+      "name": "Real Betis Vs FC Porto Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/2ef1606b0b094da59ac63f6fdeaceb47/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s11",
+      "name": "Real Betis Vs FC Porto Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/f8ade365-a9fc-4ba0-8310-057e91b3b63c.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "real-betis-vs-fc-porto-s12",
+      "name": "Real Betis Vs FC Porto Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/19010/index.m3u8"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s1",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s2",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/ye5acxtqqg/out/v1/855dbdb48c2749019782ea468de9cfb1/5f9bdac3-9c12-4af6-a4ab-8c766cd1e787-cenc.mpd?aws_sessionId=1cd1d81a-0999-40b3-8880-805e07afd0cd"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s3",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s4",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vc7krd2yei/out/v1/0243b44c809941c7a5e0132e783bab69/cenc.mpd"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s5",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628506.m3u8?txSecret=abe20ee1b054765d341d0b6eab59514f&txTime=6ACFE2F3",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s6",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/709a8d88b643f6bcc004ab95ec2b5c48/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s7",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/e9af53c0dfa6746c858a1bff11ed716b/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s8",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/a4b44cae69ba9308681df15bf7c13312/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s9",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/3f1fc5a5-b93f-47a0-9f29-b5b248991f16.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "k-slovan-bratislava-vs-vfb-stuttgart-s10",
+      "name": "ŠK Slovan Bratislava Vs VfB Stuttgart Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://c8.vfruitfairy.com/23066/index.m3u8"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s1",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s2",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s3",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/3079cgoedl/out/v1/021c2cede664400b820c6737666b467d/2c81358b-c2a8-49e9-a65f-65d0fc4ed000-cenc.mpd?aws_sessionId=f1475229-f4f6-474a-9551-f8f53a1c73a7"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s4",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58034/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s5",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628456.m3u8?txSecret=82e30e03c8eaf8f4cc9e390a38d45406&txTime=6ACFE18F",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s6",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://cdn-v2.gamhed.online/hls/arena8x-3.m3u8?",
+      "referer": "https://www.arena8x.live/",
+      "origin": "https://www.arena8x.live"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s7",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/9e7ea27590dfe6b6b581f0402a8d5d1e/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s8",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/f4acc3419041e8be1a18d86020b62675/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s9",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/76fd68a8bf76c043d3451dc0c9c3f4b4/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s10",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/0850ecf7be1c1f3351b523d08cc5d178/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s11",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/d043b1a9efeb9c5c7a8c6e8e8fd6d3d7/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s12",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/I777aaaa.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s13",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 13",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s14",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 14",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/bd4de51a-b864-479b-a487-d6d2ea65ba17.m3u8"
+    },
+    {
+      "id": "manchester-city-vs-paris-saint-germain-s15",
+      "name": "Manchester City Vs Paris Saint-Germain Stream 15",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s1",
+      "name": "AS Roma Vs Real Madrid Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s2",
+      "name": "AS Roma Vs Real Madrid Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s3",
+      "name": "AS Roma Vs Real Madrid Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/uyjzd9lls9/out/v1/c36180058f2a49a9ac8e96607922aa95/cenc.mpd"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s4",
+      "name": "AS Roma Vs Real Madrid Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/9xdnqch8ja/out/v1/227178219f504c38b9786a0cd9e3e124/0d0e7159-c81d-4aad-8d3e-9f1e871288e9-cenc.mpd?aws_sessionId=803d0d72-d174-48fb-b85b-48589f9788b4"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s5",
+      "name": "AS Roma Vs Real Madrid Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58030/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s6",
+      "name": "AS Roma Vs Real Madrid Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://cdn-v2.gamhed.online/hls/arena8x-1.m3u8?",
+      "referer": "https://www.arena8x.live/",
+      "origin": "https://www.arena8x.live"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s7",
+      "name": "AS Roma Vs Real Madrid Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628379.m3u8?txSecret=f8e48c761ff518dfb4a68ddec1602832&txTime=6ACFE148",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s8",
+      "name": "AS Roma Vs Real Madrid Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/9e7ea27590dfe6b6b581f0402a8d5d1e/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s9",
+      "name": "AS Roma Vs Real Madrid Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/f4acc3419041e8be1a18d86020b62675/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s10",
+      "name": "AS Roma Vs Real Madrid Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/76fd68a8bf76c043d3451dc0c9c3f4b4/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s11",
+      "name": "AS Roma Vs Real Madrid Stream 11",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/0850ecf7be1c1f3351b523d08cc5d178/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s12",
+      "name": "AS Roma Vs Real Madrid Stream 12",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/d043b1a9efeb9c5c7a8c6e8e8fd6d3d7/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s13",
+      "name": "AS Roma Vs Real Madrid Stream 13",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/98bcd7cb90a91e4d66f5222eb6902460/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s14",
+      "name": "AS Roma Vs Real Madrid Stream 14",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/cd6a62e6-e684-49da-b7e5-3b3e7a1160f1.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s15",
+      "name": "AS Roma Vs Real Madrid Stream 15",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream7.pro/hls/sqdahach1ax.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s16",
+      "name": "AS Roma Vs Real Madrid Stream 16",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/377qj1h2727.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s17",
+      "name": "AS Roma Vs Real Madrid Stream 17",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/I777.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s18",
+      "name": "AS Roma Vs Real Madrid Stream 18",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s19",
+      "name": "AS Roma Vs Real Madrid Stream 19",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2094588/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s20",
+      "name": "AS Roma Vs Real Madrid Stream 20",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2005444/Footlive1410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s21",
+      "name": "AS Roma Vs Real Madrid Stream 21",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2120307/Footlive1410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s22",
+      "name": "AS Roma Vs Real Madrid Stream 22",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2120308/Footlive1410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
+    },
+    {
+      "id": "as-roma-vs-real-madrid-s23",
+      "name": "AS Roma Vs Real Madrid Stream 23",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
     },
     {
       "id": "lask-vs-liverpool-fc-s1",
@@ -2484,6 +2368,90 @@
       "link": "https://netanjahu.hls.st/t/60874e08b86298f359db0fb4b5d7b226/index.m3u8?",
       "referer": "https://iplayer.is/",
       "origin": "https://iplayer.is"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s1",
+      "name": "Aston Villa Vs Fenerbahçe Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s2",
+      "name": "Aston Villa Vs Fenerbahçe Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s3",
+      "name": "Aston Villa Vs Fenerbahçe Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/o4ewvpxhnn/out/v1/dcc1e86baab542bfac52ab056f7f82a1/7a393fd4-769f-49da-a47e-ef65459149d2-cenc.mpd?aws_sessionId=e274f240-9334-4980-991b-f0f31651769f"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s4",
+      "name": "Aston Villa Vs Fenerbahçe Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58031/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s5",
+      "name": "Aston Villa Vs Fenerbahçe Stream 5",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://live.vivo155.com/live/hd-en-1-4628386.m3u8?txSecret=20a5621f4ce289b4fba5691385a3c87d&txTime=6ACFE28F",
+      "referer": "https://player.online878.com/",
+      "origin": "https://player.online878.com"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s6",
+      "name": "Aston Villa Vs Fenerbahçe Stream 6",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/237a312c46f8d93ffd7b5e45f2c39831/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s7",
+      "name": "Aston Villa Vs Fenerbahçe Stream 7",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/67491e76b114a5ef4f293c47dcf75bd7/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s8",
+      "name": "Aston Villa Vs Fenerbahçe Stream 8",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/1328e478f6adc524e1f5cdaf9b6cd965/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s9",
+      "name": "Aston Villa Vs Fenerbahçe Stream 9",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/9b2917fd-2b01-4c3f-bc52-2971d635c831.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "aston-villa-vs-fenerbah-e-s10",
+      "name": "Aston Villa Vs Fenerbahçe Stream 10",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://sonymtmnew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792043424~acl=/*~id=21ba3e9ee3eb02b973403c84ce2eeba8-1792000203157~hmac=dff5412cf4c108cf7abcf66a16b5a8a379e168a4396412c7db46562349e4989b",
+      "referer": "https://www.sonyliv.com/",
+      "origin": "https://www.sonyliv.com"
     },
     {
       "id": "feyenoord-vs-como-s1",
@@ -2607,6 +2575,38 @@
       "status": "ENDED",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "http://162.251.160.53:8089/1588/index.m3u8"
+    },
+    {
+      "id": "ucl-golazo-show-vs-ucl-golazo-show-s1",
+      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7"
+    },
+    {
+      "id": "ucl-golazo-show-vs-ucl-golazo-show-s2",
+      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/startover/clients/dash/manipulated-manifest-pdx-prod/enc/cyh3d8omib/out/v1/7897c3626f174e9b97cc71961505054d/04f65e10-cbf8-46b8-af07-6fd7c6e921ed-cenc.mpd?aws_sessionId=9577f0c8-80de-4cc4-987f-f7f46f25cce7"
+    },
+    {
+      "id": "ucl-golazo-show-vs-ucl-golazo-show-s3",
+      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 3",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://netanjahu.hls.st/t/45c2ad44ae2697fa0e82163b6cef0afc/index.m3u8?",
+      "referer": "https://iplayer.is/",
+      "origin": "https://iplayer.is"
+    },
+    {
+      "id": "ucl-golazo-show-vs-ucl-golazo-show-s4",
+      "name": "UCL Golazo Show Vs UCL Golazo Show Stream 4",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/VOOOA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
       "id": "afghanistan-vs-bangladesh-s1",
