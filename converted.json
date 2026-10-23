@@ -1,34 +1,467 @@
 {
-  "lastUpdated": "2026-10-22T22:44:45Z",
-  "totalStreams": 203,
-  "liveCount": 23,
+  "lastUpdated": "2026-10-23T01:20:53Z",
+  "totalStreams": 220,
+  "liveCount": 61,
   "channels": [
     {
-      "id": "the-golazo-show-vs-the-golazo-show-s1",
-      "name": "The Golazo Show Vs The Golazo Show Stream 1",
+      "id": "chicago-bears-vs-new-england-patriots-s1",
+      "name": "Chicago Bears Vs New England Patriots Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocrep9arem/out/v1/78d5109b218548caa70d44ed8c2d064e/cenc.mpd"
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
     },
     {
-      "id": "the-golazo-show-vs-the-golazo-show-s2",
-      "name": "The Golazo Show Vs The Golazo Show Stream 2",
+      "id": "chicago-bears-vs-new-england-patriots-s2",
+      "name": "Chicago Bears Vs New England Patriots Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "http://193.47.62.55/hls/FAFAFAFAAA.m3u8",
+      "link": "https://chatgpt.hereisman.net/playlist/58431/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "chicago-bears-vs-new-england-patriots-s3",
+      "name": "Chicago Bears Vs New England Patriots Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58424/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "chicago-bears-vs-new-england-patriots-s4",
+      "name": "Chicago Bears Vs New England Patriots Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://admin2.formaturamaxi.com.br/nfl.m3u8"
+    },
+    {
+      "id": "chicago-bears-vs-new-england-patriots-s5",
+      "name": "Chicago Bears Vs New England Patriots Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.41/hls/CDDDAAAAAAA.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
     },
     {
-      "id": "motorgp-vs-motorgp",
-      "name": "MotorGP Vs MotorGP",
+      "id": "chicago-bears-vs-new-england-patriots-s6",
+      "name": "Chicago Bears Vs New England Patriots Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.44/hls/CDDDAAAAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "chicago-bears-vs-new-england-patriots-s7",
+      "name": "Chicago Bears Vs New England Patriots Stream 7",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "flamengo-vs-estudiantes-de-la-plata-s1",
+      "name": "Flamengo Vs Estudiantes de La Plata Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+    },
+    {
+      "id": "flamengo-vs-estudiantes-de-la-plata-s2",
+      "name": "Flamengo Vs Estudiantes de La Plata Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
+    },
+    {
+      "id": "flamengo-vs-estudiantes-de-la-plata-s3",
+      "name": "Flamengo Vs Estudiantes de La Plata Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/CDDDAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "club-always-ready-vs-the-strongest-s1",
+      "name": "Club Always Ready Vs The Strongest Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/CDDDA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "club-always-ready-vs-the-strongest-s2",
+      "name": "Club Always Ready Vs The Strongest Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/CDDDA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "fc-motagua-vs-ld-alajuelense-s1",
+      "name": "FC Motagua Vs LD Alajuelense Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+      "referer": "https://amazon.com",
+      "origin": "https://amazon.com"
+    },
+    {
+      "id": "fc-motagua-vs-ld-alajuelense-s2",
+      "name": "FC Motagua Vs LD Alajuelense Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/CDDDAAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "kennesaw-state-owls-vs-liberty-flames-s1",
+      "name": "Kennesaw State Owls Vs Liberty Flames Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/qsdnajbq32.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "kennesaw-state-owls-vs-liberty-flames-s2",
+      "name": "Kennesaw State Owls Vs Liberty Flames Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58416/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "appalachian-state-mountaineers-vs-james-madison-dukes-s1",
+      "name": "Appalachian State Mountaineers Vs James Madison Dukes Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58415/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "appalachian-state-mountaineers-vs-james-madison-dukes-s2",
+      "name": "Appalachian State Mountaineers Vs James Madison Dukes Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "memphis-tigers-vs-east-carolina-pirates-s1",
+      "name": "Memphis Tigers Vs East Carolina Pirates Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
+    },
+    {
+      "id": "memphis-tigers-vs-east-carolina-pirates-s2",
+      "name": "Memphis Tigers Vs East Carolina Pirates Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/oipozuezeji33.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "philadelphia-76ers-vs-cleveland-cavaliers-s1",
+      "name": "Philadelphia 76ers Vs Cleveland Cavaliers Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://chatgpt.hereisman.net/playlist/58429/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
+    },
+    {
+      "id": "philadelphia-76ers-vs-cleveland-cavaliers-s2",
+      "name": "Philadelphia 76ers Vs Cleveland Cavaliers Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/mlkijfezag65.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "philadelphia-76ers-vs-cleveland-cavaliers-s3",
+      "name": "Philadelphia 76ers Vs Cleveland Cavaliers Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://admin2.formaturamaxi.com.br/nba.m3u8"
+    },
+    {
+      "id": "philadelphia-76ers-vs-cleveland-cavaliers-s4",
+      "name": "Philadelphia 76ers Vs Cleveland Cavaliers Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://www.rtmpcdn.com/live/55566d9b-efdf-45d1-ba9a-8f2721daa0fc.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "philadelphia-76ers-vs-cleveland-cavaliers-s5",
+      "name": "Philadelphia 76ers Vs Cleveland Cavaliers Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/DEDEDEAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "pittsburgh-penguins-vs-florida-panthers-s1",
+      "name": "Pittsburgh Penguins Vs Florida Panthers Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "pittsburgh-penguins-vs-florida-panthers-s2",
+      "name": "Pittsburgh Penguins Vs Florida Panthers Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/bnvcxwhfg54.m3u8?",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "toronto-maple-leafs-vs-new-york-rangers-s1",
+      "name": "Toronto Maple Leafs Vs New York Rangers Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+    },
+    {
+      "id": "toronto-maple-leafs-vs-new-york-rangers-s2",
+      "name": "Toronto Maple Leafs Vs New York Rangers Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/hjksgdfauzy51.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "boston-bruins-vs-nashville-predators-s1",
+      "name": "Boston Bruins Vs Nashville Predators Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/uyopzarf50.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "boston-bruins-vs-nashville-predators-s2",
+      "name": "Boston Bruins Vs Nashville Predators Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/uyopzarf50.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "ottawa-senators-vs-san-jose-sharks-s1",
+      "name": "Ottawa Senators Vs San Jose Sharks Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
+    },
+    {
+      "id": "ottawa-senators-vs-san-jose-sharks-s2",
+      "name": "Ottawa Senators Vs San Jose Sharks Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+    },
+    {
+      "id": "ottawa-senators-vs-san-jose-sharks-s3",
+      "name": "Ottawa Senators Vs San Jose Sharks Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "ottawa-senators-vs-san-jose-sharks-s4",
+      "name": "Ottawa Senators Vs San Jose Sharks Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/lmdsjkfgv52.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "new-jersey-devils-vs-anaheim-ducks-s1",
+      "name": "New Jersey Devils Vs Anaheim Ducks Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "new-jersey-devils-vs-anaheim-ducks-s2",
+      "name": "New Jersey Devils Vs Anaheim Ducks Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "st-louis-blues-vs-vegas-golden-knights-s1",
+      "name": "St. Louis Blues Vs Vegas Golden Knights Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream6.pro/hls/poiryezafv56.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "st-louis-blues-vs-vegas-golden-knights-s2",
+      "name": "St. Louis Blues Vs Vegas Golden Knights Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/poiryezafv56.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "new-york-islanders-vs-los-angeles-kings-s1",
+      "name": "New York Islanders Vs Los Angeles Kings Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/sdezqfza55.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "new-york-islanders-vs-los-angeles-kings-s2",
+      "name": "New York Islanders Vs Los Angeles Kings Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/sdezqfza55.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "dallas-stars-vs-winnipeg-jets-s1",
+      "name": "Dallas Stars Vs Winnipeg Jets Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
+    },
+    {
+      "id": "dallas-stars-vs-winnipeg-jets-s2",
+      "name": "Dallas Stars Vs Winnipeg Jets Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream4.pro/hls/rzavbdyua57.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "calgary-flames-vs-minnesota-wild-s1",
+      "name": "Calgary Flames Vs Minnesota Wild Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+    },
+    {
+      "id": "calgary-flames-vs-minnesota-wild-s2",
+      "name": "Calgary Flames Vs Minnesota Wild Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream7.pro/hls/earzfddshg58.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "calgary-flames-vs-minnesota-wild-s3",
+      "name": "Calgary Flames Vs Minnesota Wild Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "edmonton-oilers-vs-carolina-hurricanes-s1",
+      "name": "Edmonton Oilers Vs Carolina Hurricanes Stream 1",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream5.pro/hls/bvnzadfvyt59.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "edmonton-oilers-vs-carolina-hurricanes-s2",
+      "name": "Edmonton Oilers Vs Carolina Hurricanes Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream2.pro/hls/.m3u8",
+      "referer": "https://streame.center",
+      "origin": "https://streame.center"
+    },
+    {
+      "id": "motorgp-vs-motorgp-s1",
+      "name": "MotorGP Vs MotorGP Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd"
     },
     {
-      "id": "fluminense-vs-flamengo",
-      "name": "Fluminense Vs Flamengo",
+      "id": "motorgp-vs-motorgp-s2",
+      "name": "MotorGP Vs MotorGP Stream 2",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
+    },
+    {
+      "id": "motorgp-vs-motorgp-s3",
+      "name": "MotorGP Vs MotorGP Stream 3",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd"
+    },
+    {
+      "id": "motorgp-vs-motorgp-s4",
+      "name": "MotorGP Vs MotorGP Stream 4",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
+    },
+    {
+      "id": "motorgp-vs-motorgp-s5",
+      "name": "MotorGP Vs MotorGP Stream 5",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?",
+      "referer": "https://streamscenter.online/",
+      "origin": "https://streamscenter.online"
+    },
+    {
+      "id": "motorgp-vs-motorgp-s6",
+      "name": "MotorGP Vs MotorGP Stream 6",
+      "status": "LIVE",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.59/hls/fddd.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "olimpia-asuncion-vs-cruzeiro",
+      "name": "Olimpia Asuncion Vs Cruzeiro",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
@@ -355,20 +788,6 @@
       "origin": "https://gooz.aapmains.net"
     },
     {
-      "id": "flamengo-vs-estudiantes-de-la-plata-s1",
-      "name": "Flamengo Vs Estudiantes de La Plata Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-    },
-    {
-      "id": "flamengo-vs-estudiantes-de-la-plata-s2",
-      "name": "Flamengo Vs Estudiantes de La Plata Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-    },
-    {
       "id": "al-faisaly-vs-al-nassr",
       "name": "Al Faisaly Vs Al-Nassr",
       "status": "UPCOMING",
@@ -385,88 +804,6 @@
       "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd"
     },
     {
-      "id": "club-always-ready-vs-the-strongest",
-      "name": "Club Always Ready Vs The Strongest",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "fc-motagua-vs-ld-alajuelense",
-      "name": "FC Motagua Vs LD Alajuelense",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
-      "referer": "https://amazon.com",
-      "origin": "https://amazon.com"
-    },
-    {
-      "id": "chicago-bears-vs-new-england-patriots-s1",
-      "name": "Chicago Bears Vs New England Patriots Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-    },
-    {
-      "id": "chicago-bears-vs-new-england-patriots-s2",
-      "name": "Chicago Bears Vs New England Patriots Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-    },
-    {
-      "id": "chicago-bears-vs-new-england-patriots-s3",
-      "name": "Chicago Bears Vs New England Patriots Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "chicago-bears-vs-new-england-patriots-s4",
-      "name": "Chicago Bears Vs New England Patriots Stream 4",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/JHDAJBDnjdna30.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "kennesaw-state-owls-vs-liberty-flames",
-      "name": "Kennesaw State Owls Vs Liberty Flames",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/qsdnajbq32.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "appalachian-state-mountaineers-vs-james-madison-dukes",
-      "name": "Appalachian State Mountaineers Vs James Madison Dukes",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/sfjnzabacah31.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "memphis-tigers-vs-east-carolina-pirates-s1",
-      "name": "Memphis Tigers Vs East Carolina Pirates Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd"
-    },
-    {
-      "id": "memphis-tigers-vs-east-carolina-pirates-s2",
-      "name": "Memphis Tigers Vs East Carolina Pirates Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/oipozuezeji33.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "perth-wildcats-vs-melbourne-united",
       "name": "Perth Wildcats Vs Melbourne United",
       "status": "UPCOMING",
@@ -476,147 +813,27 @@
       "origin": "https://streame.center"
     },
     {
-      "id": "philadelphia-76ers-vs-cleveland-cavaliers",
-      "name": "Philadelphia 76ers Vs Cleveland Cavaliers",
+      "id": "oklahoma-city-thunder-vs-denver-nuggets-s1",
+      "name": "Oklahoma City Thunder Vs Denver Nuggets Stream 1",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/mlkijfezag65.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
+      "link": "https://chatgpt.hereisman.net/playlist/58436/load-playlist?&.m3u8",
+      "referer": "https://gooz.aapmains.net",
+      "origin": "https://gooz.aapmains.net"
     },
     {
-      "id": "oklahoma-city-thunder-vs-denver-nuggets",
-      "name": "Oklahoma City Thunder Vs Denver Nuggets",
-      "status": "UPCOMING",
+      "id": "oklahoma-city-thunder-vs-denver-nuggets-s2",
+      "name": "Oklahoma City Thunder Vs Denver Nuggets Stream 2",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream1.pro/hls/wfazgsqtrezu66.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
     },
     {
-      "id": "pittsburgh-penguins-vs-florida-panthers-s1",
-      "name": "Pittsburgh Penguins Vs Florida Panthers Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/bnvcxwhfg54.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "pittsburgh-penguins-vs-florida-panthers-s2",
-      "name": "Pittsburgh Penguins Vs Florida Panthers Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "toronto-maple-leafs-vs-new-york-rangers-s1",
-      "name": "Toronto Maple Leafs Vs New York Rangers Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-    },
-    {
-      "id": "toronto-maple-leafs-vs-new-york-rangers-s2",
-      "name": "Toronto Maple Leafs Vs New York Rangers Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/hjksgdfauzy51.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "toronto-maple-leafs-vs-new-york-rangers-s3",
-      "name": "Toronto Maple Leafs Vs New York Rangers Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "boston-bruins-vs-nashville-predators",
-      "name": "Boston Bruins Vs Nashville Predators",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/uyopzarf50.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "ottawa-senators-vs-san-jose-sharks-s1",
-      "name": "Ottawa Senators Vs San Jose Sharks Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd"
-    },
-    {
-      "id": "ottawa-senators-vs-san-jose-sharks-s2",
-      "name": "Ottawa Senators Vs San Jose Sharks Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-    },
-    {
-      "id": "ottawa-senators-vs-san-jose-sharks-s3",
-      "name": "Ottawa Senators Vs San Jose Sharks Stream 3",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/lmdsjkfgv52.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "ottawa-senators-vs-san-jose-sharks-s4",
-      "name": "Ottawa Senators Vs San Jose Sharks Stream 4",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-jersey-devils-vs-anaheim-ducks-s1",
-      "name": "New Jersey Devils Vs Anaheim Ducks Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream4.pro/hls/rtzaeyvhb53.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-jersey-devils-vs-anaheim-ducks-s2",
-      "name": "New Jersey Devils Vs Anaheim Ducks Stream 2",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "st-louis-blues-vs-vegas-golden-knights-s1",
-      "name": "St. Louis Blues Vs Vegas Golden Knights Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream6.pro/hls/poiryezafv56.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "st-louis-blues-vs-vegas-golden-knights-s2",
-      "name": "St. Louis Blues Vs Vegas Golden Knights Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
       "id": "seattle-kraken-vs-utah-mammoth-s1",
       "name": "Seattle Kraken Vs Utah Mammoth Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream5.pro/hls/cwxvbnfghq60.m3u8",
       "referer": "https://streame.center",
@@ -625,24 +842,6 @@
     {
       "id": "seattle-kraken-vs-utah-mammoth-s2",
       "name": "Seattle Kraken Vs Utah Mammoth Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-york-islanders-vs-los-angeles-kings-s1",
-      "name": "New York Islanders Vs Los Angeles Kings Stream 1",
-      "status": "LIVE",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream1.pro/hls/sdezqfza55.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "new-york-islanders-vs-los-angeles-kings-s2",
-      "name": "New York Islanders Vs Los Angeles Kings Stream 2",
       "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/.m3u8",
@@ -652,7 +851,7 @@
     {
       "id": "vancouver-canucks-vs-detroit-red-wings-s1",
       "name": "Vancouver Canucks Vs Detroit Red Wings Stream 1",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/gfhfgsqda61.m3u8",
       "referer": "https://streame.center",
@@ -661,86 +860,11 @@
     {
       "id": "vancouver-canucks-vs-detroit-red-wings-s2",
       "name": "Vancouver Canucks Vs Detroit Red Wings Stream 2",
-      "status": "UPCOMING",
+      "status": "LIVE",
       "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
       "link": "https://edgestream2.pro/hls/.m3u8",
       "referer": "https://streame.center",
       "origin": "https://streame.center"
-    },
-    {
-      "id": "dallas-stars-vs-winnipeg-jets-s1",
-      "name": "Dallas Stars Vs Winnipeg Jets Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd"
-    },
-    {
-      "id": "dallas-stars-vs-winnipeg-jets-s2",
-      "name": "Dallas Stars Vs Winnipeg Jets Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream3.pro/hls/rzavbdyua57.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "dallas-stars-vs-winnipeg-jets-s3",
-      "name": "Dallas Stars Vs Winnipeg Jets Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "calgary-flames-vs-minnesota-wild-s1",
-      "name": "Calgary Flames Vs Minnesota Wild Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-    },
-    {
-      "id": "calgary-flames-vs-minnesota-wild-s2",
-      "name": "Calgary Flames Vs Minnesota Wild Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream7.pro/hls/earzfddshg58.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "calgary-flames-vs-minnesota-wild-s3",
-      "name": "Calgary Flames Vs Minnesota Wild Stream 3",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "edmonton-oilers-vs-carolina-hurricanes-s1",
-      "name": "Edmonton Oilers Vs Carolina Hurricanes Stream 1",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream5.pro/hls/bvnzadfvyt59.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "edmonton-oilers-vs-carolina-hurricanes-s2",
-      "name": "Edmonton Oilers Vs Carolina Hurricanes Stream 2",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://edgestream2.pro/hls/.m3u8",
-      "referer": "https://streame.center",
-      "origin": "https://streame.center"
-    },
-    {
-      "id": "olimpia-asuncion-vs-cruzeiro",
-      "name": "Olimpia Asuncion Vs Cruzeiro",
-      "status": "UPCOMING",
-      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
-      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
     },
     {
       "id": "aew-night-dynamite-vs-aew-night-dynamite-s1",
@@ -1653,6 +1777,29 @@
       "link": "http://193.47.62.44/hls/F555AAAAQQQQ.m3u8",
       "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
       "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "the-golazo-show-vs-the-golazo-show-s1",
+      "name": "The Golazo Show Vs The Golazo Show Stream 1",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ocrep9arem/out/v1/78d5109b218548caa70d44ed8c2d064e/cenc.mpd"
+    },
+    {
+      "id": "the-golazo-show-vs-the-golazo-show-s2",
+      "name": "The Golazo Show Vs The Golazo Show Stream 2",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "http://193.47.62.55/hls/FAFAFAFAAA.m3u8",
+      "referer": "https://nadia01eo.tn76degree12ec3out.cfd",
+      "origin": "https://nadia01eo.tn76degree12ec3out.cfd"
+    },
+    {
+      "id": "fluminense-vs-flamengo",
+      "name": "Fluminense Vs Flamengo",
+      "status": "ENDED",
+      "logo": "https://raw.githubusercontent.com/shafik4bd/converted-sports-live-data/refs/heads/main/live.avif",
+      "link": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd"
     }
   ]
 }
